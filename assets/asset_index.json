@@ -1,0 +1,7246 @@
+{
+  "enemies": [
+    {
+      "name": "resources_sprite_1126",
+      "path": "enemies/resources_sprite_1126.png",
+      "type": "png",
+      "size": 301
+    },
+    {
+      "name": "resources_sprite_1771",
+      "path": "enemies/resources_sprite_1771.png",
+      "type": "png",
+      "size": 1042
+    },
+    {
+      "name": "resources_sprite_1857",
+      "path": "enemies/resources_sprite_1857.png",
+      "type": "png",
+      "size": 208
+    },
+    {
+      "name": "resources_sprite_1920",
+      "path": "enemies/resources_sprite_1920.png",
+      "type": "png",
+      "size": 462
+    },
+    {
+      "name": "resources_sprite_1706",
+      "path": "enemies/resources_sprite_1706.png",
+      "type": "png",
+      "size": 603
+    },
+    {
+      "name": "resources_sprite_1793",
+      "path": "enemies/resources_sprite_1793.png",
+      "type": "png",
+      "size": 1160
+    },
+    {
+      "name": "resources_sprite_1726",
+      "path": "enemies/resources_sprite_1726.png",
+      "type": "png",
+      "size": 1152
+    },
+    {
+      "name": "resources_sprite_1447",
+      "path": "enemies/resources_sprite_1447.png",
+      "type": "png",
+      "size": 1405
+    },
+    {
+      "name": "resources_sprite_1342",
+      "path": "enemies/resources_sprite_1342.png",
+      "type": "png",
+      "size": 1385
+    },
+    {
+      "name": "resources_sprite_1099",
+      "path": "enemies/resources_sprite_1099.png",
+      "type": "png",
+      "size": 531
+    },
+    {
+      "name": "resources_sprite_1782",
+      "path": "enemies/resources_sprite_1782.png",
+      "type": "png",
+      "size": 256307
+    },
+    {
+      "name": "resources_sprite_1317",
+      "path": "enemies/resources_sprite_1317.png",
+      "type": "png",
+      "size": 176
+    },
+    {
+      "name": "resources_sprite_1865",
+      "path": "enemies/resources_sprite_1865.png",
+      "type": "png",
+      "size": 371
+    },
+    {
+      "name": "resources_sprite_1757",
+      "path": "enemies/resources_sprite_1757.png",
+      "type": "png",
+      "size": 1101
+    },
+    {
+      "name": "resources_sprite_1709",
+      "path": "enemies/resources_sprite_1709.png",
+      "type": "png",
+      "size": 1312
+    },
+    {
+      "name": "resources_sprite_1523",
+      "path": "enemies/resources_sprite_1523.png",
+      "type": "png",
+      "size": 558
+    },
+    {
+      "name": "resources_sprite_1375",
+      "path": "enemies/resources_sprite_1375.png",
+      "type": "png",
+      "size": 158
+    },
+    {
+      "name": "resources_sprite_1957",
+      "path": "enemies/resources_sprite_1957.png",
+      "type": "png",
+      "size": 325
+    },
+    {
+      "name": "resources_sprite_1381",
+      "path": "enemies/resources_sprite_1381.png",
+      "type": "png",
+      "size": 921
+    },
+    {
+      "name": "resources_sprite_1845",
+      "path": "enemies/resources_sprite_1845.png",
+      "type": "png",
+      "size": 297
+    },
+    {
+      "name": "resources_sprite_1379",
+      "path": "enemies/resources_sprite_1379.png",
+      "type": "png",
+      "size": 994
+    },
+    {
+      "name": "resources_sprite_1506",
+      "path": "enemies/resources_sprite_1506.png",
+      "type": "png",
+      "size": 263
+    },
+    {
+      "name": "resources_sprite_1328",
+      "path": "enemies/resources_sprite_1328.png",
+      "type": "png",
+      "size": 1589
+    },
+    {
+      "name": "resources_sprite_1558",
+      "path": "enemies/resources_sprite_1558.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "sharedassets4_sprite_65",
+      "path": "enemies/sharedassets4_sprite_65.png",
+      "type": "png",
+      "size": 365
+    },
+    {
+      "name": "resources_sprite_1622",
+      "path": "enemies/resources_sprite_1622.png",
+      "type": "png",
+      "size": 246319
+    },
+    {
+      "name": "resources_sprite_1266",
+      "path": "enemies/resources_sprite_1266.png",
+      "type": "png",
+      "size": 7768
+    },
+    {
+      "name": "resources_sprite_1069",
+      "path": "enemies/resources_sprite_1069.png",
+      "type": "png",
+      "size": 320
+    },
+    {
+      "name": "resources_sprite_1243",
+      "path": "enemies/resources_sprite_1243.png",
+      "type": "png",
+      "size": 206
+    },
+    {
+      "name": "resources_sprite_1511",
+      "path": "enemies/resources_sprite_1511.png",
+      "type": "png",
+      "size": 2723
+    },
+    {
+      "name": "resources_sprite_1609",
+      "path": "enemies/resources_sprite_1609.png",
+      "type": "png",
+      "size": 355
+    },
+    {
+      "name": "resources_sprite_1041",
+      "path": "enemies/resources_sprite_1041.png",
+      "type": "png",
+      "size": 302
+    },
+    {
+      "name": "resources_sprite_1252",
+      "path": "enemies/resources_sprite_1252.png",
+      "type": "png",
+      "size": 168
+    },
+    {
+      "name": "resources_sprite_1253",
+      "path": "enemies/resources_sprite_1253.png",
+      "type": "png",
+      "size": 420
+    },
+    {
+      "name": "resources_sprite_1612",
+      "path": "enemies/resources_sprite_1612.png",
+      "type": "png",
+      "size": 591
+    },
+    {
+      "name": "resources_sprite_1541",
+      "path": "enemies/resources_sprite_1541.png",
+      "type": "png",
+      "size": 248
+    },
+    {
+      "name": "resources_sprite_1934",
+      "path": "enemies/resources_sprite_1934.png",
+      "type": "png",
+      "size": 280
+    },
+    {
+      "name": "resources_sprite_1806",
+      "path": "enemies/resources_sprite_1806.png",
+      "type": "png",
+      "size": 42668
+    },
+    {
+      "name": "resources_sprite_1394",
+      "path": "enemies/resources_sprite_1394.png",
+      "type": "png",
+      "size": 1239191
+    },
+    {
+      "name": "resources_sprite_1548",
+      "path": "enemies/resources_sprite_1548.png",
+      "type": "png",
+      "size": 280
+    },
+    {
+      "name": "resources_sprite_1606",
+      "path": "enemies/resources_sprite_1606.png",
+      "type": "png",
+      "size": 16024
+    },
+    {
+      "name": "resources_sprite_1604",
+      "path": "enemies/resources_sprite_1604.png",
+      "type": "png",
+      "size": 53932
+    },
+    {
+      "name": "resources_sprite_1425",
+      "path": "enemies/resources_sprite_1425.png",
+      "type": "png",
+      "size": 51584
+    },
+    {
+      "name": "resources_sprite_1842",
+      "path": "enemies/resources_sprite_1842.png",
+      "type": "png",
+      "size": 386
+    },
+    {
+      "name": "resources_sprite_1676",
+      "path": "enemies/resources_sprite_1676.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1039",
+      "path": "enemies/resources_sprite_1039.png",
+      "type": "png",
+      "size": 371
+    },
+    {
+      "name": "resources_sprite_1650",
+      "path": "enemies/resources_sprite_1650.png",
+      "type": "png",
+      "size": 192
+    },
+    {
+      "name": "resources_sprite_1250",
+      "path": "enemies/resources_sprite_1250.png",
+      "type": "png",
+      "size": 276
+    },
+    {
+      "name": "sharedassets0_sprite_11",
+      "path": "enemies/sharedassets0_sprite_11.png",
+      "type": "png",
+      "size": 3016513
+    },
+    {
+      "name": "resources_sprite_1594",
+      "path": "enemies/resources_sprite_1594.png",
+      "type": "png",
+      "size": 441
+    },
+    {
+      "name": "resources_sprite_1251",
+      "path": "enemies/resources_sprite_1251.png",
+      "type": "png",
+      "size": 10592
+    },
+    {
+      "name": "resources_sprite_1144",
+      "path": "enemies/resources_sprite_1144.png",
+      "type": "png",
+      "size": 229
+    },
+    {
+      "name": "resources_sprite_1197",
+      "path": "enemies/resources_sprite_1197.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_sprite_1703",
+      "path": "enemies/resources_sprite_1703.png",
+      "type": "png",
+      "size": 203
+    },
+    {
+      "name": "sharedassets1_sprite_71",
+      "path": "enemies/sharedassets1_sprite_71.png",
+      "type": "png",
+      "size": 949449
+    },
+    {
+      "name": "resources_sprite_1393",
+      "path": "enemies/resources_sprite_1393.png",
+      "type": "png",
+      "size": 1115
+    },
+    {
+      "name": "resources_sprite_1171",
+      "path": "enemies/resources_sprite_1171.png",
+      "type": "png",
+      "size": 220
+    },
+    {
+      "name": "resources_sprite_1518",
+      "path": "enemies/resources_sprite_1518.png",
+      "type": "png",
+      "size": 161
+    },
+    {
+      "name": "resources_sprite_1072",
+      "path": "enemies/resources_sprite_1072.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "sharedassets1_sprite_72",
+      "path": "enemies/sharedassets1_sprite_72.png",
+      "type": "png",
+      "size": 78
+    },
+    {
+      "name": "resources_sprite_1417",
+      "path": "enemies/resources_sprite_1417.png",
+      "type": "png",
+      "size": 744
+    },
+    {
+      "name": "resources_sprite_1036",
+      "path": "enemies/resources_sprite_1036.png",
+      "type": "png",
+      "size": 403
+    },
+    {
+      "name": "resources_sprite_1177",
+      "path": "enemies/resources_sprite_1177.png",
+      "type": "png",
+      "size": 422
+    },
+    {
+      "name": "resources_sprite_1335",
+      "path": "enemies/resources_sprite_1335.png",
+      "type": "png",
+      "size": 10710
+    },
+    {
+      "name": "resources_sprite_1159",
+      "path": "enemies/resources_sprite_1159.png",
+      "type": "png",
+      "size": 420
+    },
+    {
+      "name": "resources_sprite_1659",
+      "path": "enemies/resources_sprite_1659.png",
+      "type": "png",
+      "size": 313
+    },
+    {
+      "name": "resources_sprite_1058",
+      "path": "enemies/resources_sprite_1058.png",
+      "type": "png",
+      "size": 264
+    },
+    {
+      "name": "resources_sprite_1247",
+      "path": "enemies/resources_sprite_1247.png",
+      "type": "png",
+      "size": 29297
+    },
+    {
+      "name": "resources_sprite_1086",
+      "path": "enemies/resources_sprite_1086.png",
+      "type": "png",
+      "size": 149
+    },
+    {
+      "name": "resources_sprite_1923",
+      "path": "enemies/resources_sprite_1923.png",
+      "type": "png",
+      "size": 638
+    },
+    {
+      "name": "resources_sprite_1573",
+      "path": "enemies/resources_sprite_1573.png",
+      "type": "png",
+      "size": 871
+    },
+    {
+      "name": "resources_sprite_1448",
+      "path": "enemies/resources_sprite_1448.png",
+      "type": "png",
+      "size": 299
+    },
+    {
+      "name": "resources_sprite_1052",
+      "path": "enemies/resources_sprite_1052.png",
+      "type": "png",
+      "size": 282
+    },
+    {
+      "name": "resources_sprite_1549",
+      "path": "enemies/resources_sprite_1549.png",
+      "type": "png",
+      "size": 2037
+    },
+    {
+      "name": "resources_sprite_1735",
+      "path": "enemies/resources_sprite_1735.png",
+      "type": "png",
+      "size": 347507
+    },
+    {
+      "name": "resources_sprite_1054",
+      "path": "enemies/resources_sprite_1054.png",
+      "type": "png",
+      "size": 488
+    },
+    {
+      "name": "sharedassets4_sprite_69",
+      "path": "enemies/sharedassets4_sprite_69.png",
+      "type": "png",
+      "size": 447
+    },
+    {
+      "name": "resources_sprite_1278",
+      "path": "enemies/resources_sprite_1278.png",
+      "type": "png",
+      "size": 126
+    },
+    {
+      "name": "resources_sprite_1377",
+      "path": "enemies/resources_sprite_1377.png",
+      "type": "png",
+      "size": 1101
+    },
+    {
+      "name": "resources_sprite_1597",
+      "path": "enemies/resources_sprite_1597.png",
+      "type": "png",
+      "size": 943
+    },
+    {
+      "name": "resources_sprite_1623",
+      "path": "enemies/resources_sprite_1623.png",
+      "type": "png",
+      "size": 227
+    },
+    {
+      "name": "resources_sprite_1286",
+      "path": "enemies/resources_sprite_1286.png",
+      "type": "png",
+      "size": 154
+    },
+    {
+      "name": "resources_sprite_1415",
+      "path": "enemies/resources_sprite_1415.png",
+      "type": "png",
+      "size": 576
+    },
+    {
+      "name": "resources_sprite_1697",
+      "path": "enemies/resources_sprite_1697.png",
+      "type": "png",
+      "size": 1587
+    },
+    {
+      "name": "resources_sprite_1528",
+      "path": "enemies/resources_sprite_1528.png",
+      "type": "png",
+      "size": 115
+    },
+    {
+      "name": "resources_sprite_1577",
+      "path": "enemies/resources_sprite_1577.png",
+      "type": "png",
+      "size": 859
+    },
+    {
+      "name": "resources_sprite_1503",
+      "path": "enemies/resources_sprite_1503.png",
+      "type": "png",
+      "size": 168
+    },
+    {
+      "name": "resources_sprite_1162",
+      "path": "enemies/resources_sprite_1162.png",
+      "type": "png",
+      "size": 433
+    },
+    {
+      "name": "resources_sprite_1543",
+      "path": "enemies/resources_sprite_1543.png",
+      "type": "png",
+      "size": 107
+    },
+    {
+      "name": "resources_sprite_1704",
+      "path": "enemies/resources_sprite_1704.png",
+      "type": "png",
+      "size": 131
+    },
+    {
+      "name": "resources_sprite_1261",
+      "path": "enemies/resources_sprite_1261.png",
+      "type": "png",
+      "size": 56751
+    },
+    {
+      "name": "resources_sprite_1530",
+      "path": "enemies/resources_sprite_1530.png",
+      "type": "png",
+      "size": 285
+    },
+    {
+      "name": "resources_sprite_1852",
+      "path": "enemies/resources_sprite_1852.png",
+      "type": "png",
+      "size": 399
+    },
+    {
+      "name": "resources_sprite_1710",
+      "path": "enemies/resources_sprite_1710.png",
+      "type": "png",
+      "size": 286
+    },
+    {
+      "name": "resources_sprite_1741",
+      "path": "enemies/resources_sprite_1741.png",
+      "type": "png",
+      "size": 267
+    },
+    {
+      "name": "resources_sprite_1030",
+      "path": "enemies/resources_sprite_1030.png",
+      "type": "png",
+      "size": 5062
+    },
+    {
+      "name": "resources_sprite_1151",
+      "path": "enemies/resources_sprite_1151.png",
+      "type": "png",
+      "size": 291
+    },
+    {
+      "name": "sharedassets1_sprite_68",
+      "path": "enemies/sharedassets1_sprite_68.png",
+      "type": "png",
+      "size": 89979
+    },
+    {
+      "name": "resources_sprite_1905",
+      "path": "enemies/resources_sprite_1905.png",
+      "type": "png",
+      "size": 425
+    },
+    {
+      "name": "resources_sprite_1886",
+      "path": "enemies/resources_sprite_1886.png",
+      "type": "png",
+      "size": 301
+    },
+    {
+      "name": "resources_sprite_1157",
+      "path": "enemies/resources_sprite_1157.png",
+      "type": "png",
+      "size": 352
+    },
+    {
+      "name": "resources_sprite_1850",
+      "path": "enemies/resources_sprite_1850.png",
+      "type": "png",
+      "size": 310
+    },
+    {
+      "name": "resources_sprite_1304",
+      "path": "enemies/resources_sprite_1304.png",
+      "type": "png",
+      "size": 360
+    },
+    {
+      "name": "resources_sprite_1467",
+      "path": "enemies/resources_sprite_1467.png",
+      "type": "png",
+      "size": 225
+    },
+    {
+      "name": "sharedassets4_sprite_62",
+      "path": "enemies/sharedassets4_sprite_62.png",
+      "type": "png",
+      "size": 392
+    },
+    {
+      "name": "globalgamemanagers_sprite_3075",
+      "path": "enemies/globalgamemanagers_sprite_3075.png",
+      "type": "png",
+      "size": 233227
+    },
+    {
+      "name": "resources_sprite_1766",
+      "path": "enemies/resources_sprite_1766.png",
+      "type": "png",
+      "size": 131
+    },
+    {
+      "name": "sharedassets1_sprite_67",
+      "path": "enemies/sharedassets1_sprite_67.png",
+      "type": "png",
+      "size": 438
+    },
+    {
+      "name": "resources_sprite_1436",
+      "path": "enemies/resources_sprite_1436.png",
+      "type": "png",
+      "size": 685
+    },
+    {
+      "name": "resources_sprite_1889",
+      "path": "enemies/resources_sprite_1889.png",
+      "type": "png",
+      "size": 334
+    },
+    {
+      "name": "resources_sprite_1214",
+      "path": "enemies/resources_sprite_1214.png",
+      "type": "png",
+      "size": 185
+    },
+    {
+      "name": "resources_sprite_1677",
+      "path": "enemies/resources_sprite_1677.png",
+      "type": "png",
+      "size": 232
+    },
+    {
+      "name": "resources_sprite_1524",
+      "path": "enemies/resources_sprite_1524.png",
+      "type": "png",
+      "size": 834
+    },
+    {
+      "name": "resources_sprite_1752",
+      "path": "enemies/resources_sprite_1752.png",
+      "type": "png",
+      "size": 1015
+    },
+    {
+      "name": "resources_sprite_1062",
+      "path": "enemies/resources_sprite_1062.png",
+      "type": "png",
+      "size": 229
+    },
+    {
+      "name": "resources_sprite_1519",
+      "path": "enemies/resources_sprite_1519.png",
+      "type": "png",
+      "size": 166
+    },
+    {
+      "name": "resources_sprite_1657",
+      "path": "enemies/resources_sprite_1657.png",
+      "type": "png",
+      "size": 1022
+    },
+    {
+      "name": "resources_sprite_1504",
+      "path": "enemies/resources_sprite_1504.png",
+      "type": "png",
+      "size": 143
+    },
+    {
+      "name": "resources_sprite_1867",
+      "path": "enemies/resources_sprite_1867.png",
+      "type": "png",
+      "size": 283
+    },
+    {
+      "name": "resources_sprite_1029",
+      "path": "enemies/resources_sprite_1029.png",
+      "type": "png",
+      "size": 500
+    },
+    {
+      "name": "resources_sprite_1443",
+      "path": "enemies/resources_sprite_1443.png",
+      "type": "png",
+      "size": 126
+    },
+    {
+      "name": "resources_sprite_1219",
+      "path": "enemies/resources_sprite_1219.png",
+      "type": "png",
+      "size": 362
+    },
+    {
+      "name": "resources_sprite_1450",
+      "path": "enemies/resources_sprite_1450.png",
+      "type": "png",
+      "size": 82
+    },
+    {
+      "name": "resources_sprite_1707",
+      "path": "enemies/resources_sprite_1707.png",
+      "type": "png",
+      "size": 79
+    },
+    {
+      "name": "resources_sprite_1832",
+      "path": "enemies/resources_sprite_1832.png",
+      "type": "png",
+      "size": 351
+    },
+    {
+      "name": "resources_sprite_1620",
+      "path": "enemies/resources_sprite_1620.png",
+      "type": "png",
+      "size": 959
+    },
+    {
+      "name": "resources_sprite_1712",
+      "path": "enemies/resources_sprite_1712.png",
+      "type": "png",
+      "size": 257849
+    },
+    {
+      "name": "resources_sprite_1387",
+      "path": "enemies/resources_sprite_1387.png",
+      "type": "png",
+      "size": 116
+    },
+    {
+      "name": "resources_sprite_1486",
+      "path": "enemies/resources_sprite_1486.png",
+      "type": "png",
+      "size": 497
+    },
+    {
+      "name": "resources_sprite_1321",
+      "path": "enemies/resources_sprite_1321.png",
+      "type": "png",
+      "size": 206
+    },
+    {
+      "name": "resources_sprite_1117",
+      "path": "enemies/resources_sprite_1117.png",
+      "type": "png",
+      "size": 392
+    },
+    {
+      "name": "resources_sprite_1512",
+      "path": "enemies/resources_sprite_1512.png",
+      "type": "png",
+      "size": 290
+    },
+    {
+      "name": "resources_sprite_1384",
+      "path": "enemies/resources_sprite_1384.png",
+      "type": "png",
+      "size": 1088
+    },
+    {
+      "name": "resources_sprite_1896",
+      "path": "enemies/resources_sprite_1896.png",
+      "type": "png",
+      "size": 217
+    },
+    {
+      "name": "resources_sprite_1812",
+      "path": "enemies/resources_sprite_1812.png",
+      "type": "png",
+      "size": 40572
+    },
+    {
+      "name": "resources_sprite_1121",
+      "path": "enemies/resources_sprite_1121.png",
+      "type": "png",
+      "size": 306
+    },
+    {
+      "name": "resources_sprite_1202",
+      "path": "enemies/resources_sprite_1202.png",
+      "type": "png",
+      "size": 1376
+    },
+    {
+      "name": "resources_sprite_1513",
+      "path": "enemies/resources_sprite_1513.png",
+      "type": "png",
+      "size": 426
+    },
+    {
+      "name": "resources_sprite_1690",
+      "path": "enemies/resources_sprite_1690.png",
+      "type": "png",
+      "size": 9672
+    },
+    {
+      "name": "resources_sprite_1108",
+      "path": "enemies/resources_sprite_1108.png",
+      "type": "png",
+      "size": 325
+    },
+    {
+      "name": "resources_sprite_1134",
+      "path": "enemies/resources_sprite_1134.png",
+      "type": "png",
+      "size": 246
+    },
+    {
+      "name": "resources_sprite_1298",
+      "path": "enemies/resources_sprite_1298.png",
+      "type": "png",
+      "size": 232
+    },
+    {
+      "name": "resources_sprite_1124",
+      "path": "enemies/resources_sprite_1124.png",
+      "type": "png",
+      "size": 327
+    },
+    {
+      "name": "resources_sprite_1073",
+      "path": "enemies/resources_sprite_1073.png",
+      "type": "png",
+      "size": 329
+    },
+    {
+      "name": "resources_sprite_1719",
+      "path": "enemies/resources_sprite_1719.png",
+      "type": "png",
+      "size": 156
+    },
+    {
+      "name": "resources_sprite_1505",
+      "path": "enemies/resources_sprite_1505.png",
+      "type": "png",
+      "size": 660
+    },
+    {
+      "name": "resources_sprite_1055",
+      "path": "enemies/resources_sprite_1055.png",
+      "type": "png",
+      "size": 488
+    },
+    {
+      "name": "resources_sprite_1275",
+      "path": "enemies/resources_sprite_1275.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1059",
+      "path": "enemies/resources_sprite_1059.png",
+      "type": "png",
+      "size": 280
+    },
+    {
+      "name": "resources_sprite_1385",
+      "path": "enemies/resources_sprite_1385.png",
+      "type": "png",
+      "size": 1292
+    },
+    {
+      "name": "resources_sprite_1501",
+      "path": "enemies/resources_sprite_1501.png",
+      "type": "png",
+      "size": 1173
+    },
+    {
+      "name": "resources_sprite_1186",
+      "path": "enemies/resources_sprite_1186.png",
+      "type": "png",
+      "size": 1349
+    },
+    {
+      "name": "resources_sprite_1903",
+      "path": "enemies/resources_sprite_1903.png",
+      "type": "png",
+      "size": 158
+    },
+    {
+      "name": "resources_sprite_1646",
+      "path": "enemies/resources_sprite_1646.png",
+      "type": "png",
+      "size": 136
+    },
+    {
+      "name": "resources_sprite_1611",
+      "path": "enemies/resources_sprite_1611.png",
+      "type": "png",
+      "size": 389
+    },
+    {
+      "name": "resources_sprite_1713",
+      "path": "enemies/resources_sprite_1713.png",
+      "type": "png",
+      "size": 1207
+    },
+    {
+      "name": "resources_sprite_1776",
+      "path": "enemies/resources_sprite_1776.png",
+      "type": "png",
+      "size": 47679
+    },
+    {
+      "name": "resources_sprite_1487",
+      "path": "enemies/resources_sprite_1487.png",
+      "type": "png",
+      "size": 590
+    },
+    {
+      "name": "resources_sprite_1536",
+      "path": "enemies/resources_sprite_1536.png",
+      "type": "png",
+      "size": 1886
+    },
+    {
+      "name": "resources_sprite_1147",
+      "path": "enemies/resources_sprite_1147.png",
+      "type": "png",
+      "size": 325
+    },
+    {
+      "name": "resources_sprite_1380",
+      "path": "enemies/resources_sprite_1380.png",
+      "type": "png",
+      "size": 134
+    },
+    {
+      "name": "resources_sprite_1050",
+      "path": "enemies/resources_sprite_1050.png",
+      "type": "png",
+      "size": 185
+    },
+    {
+      "name": "resources_sprite_1310",
+      "path": "enemies/resources_sprite_1310.png",
+      "type": "png",
+      "size": 527
+    },
+    {
+      "name": "resources_sprite_1521",
+      "path": "enemies/resources_sprite_1521.png",
+      "type": "png",
+      "size": 163
+    },
+    {
+      "name": "resources_sprite_1553",
+      "path": "enemies/resources_sprite_1553.png",
+      "type": "png",
+      "size": 1147
+    },
+    {
+      "name": "resources_sprite_1234",
+      "path": "enemies/resources_sprite_1234.png",
+      "type": "png",
+      "size": 619
+    },
+    {
+      "name": "resources_sprite_1398",
+      "path": "enemies/resources_sprite_1398.png",
+      "type": "png",
+      "size": 1095
+    },
+    {
+      "name": "resources_sprite_1222",
+      "path": "enemies/resources_sprite_1222.png",
+      "type": "png",
+      "size": 245
+    },
+    {
+      "name": "resources_sprite_1491",
+      "path": "enemies/resources_sprite_1491.png",
+      "type": "png",
+      "size": 342
+    },
+    {
+      "name": "resources_sprite_1738",
+      "path": "enemies/resources_sprite_1738.png",
+      "type": "png",
+      "size": 144
+    },
+    {
+      "name": "resources_sprite_1413",
+      "path": "enemies/resources_sprite_1413.png",
+      "type": "png",
+      "size": 34924
+    },
+    {
+      "name": "resources_sprite_1718",
+      "path": "enemies/resources_sprite_1718.png",
+      "type": "png",
+      "size": 500
+    },
+    {
+      "name": "resources_sprite_1200",
+      "path": "enemies/resources_sprite_1200.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_sprite_1332",
+      "path": "enemies/resources_sprite_1332.png",
+      "type": "png",
+      "size": 247
+    },
+    {
+      "name": "resources_sprite_1437",
+      "path": "enemies/resources_sprite_1437.png",
+      "type": "png",
+      "size": 123
+    },
+    {
+      "name": "resources_sprite_1453",
+      "path": "enemies/resources_sprite_1453.png",
+      "type": "png",
+      "size": 1667
+    },
+    {
+      "name": "sharedassets0_sprite_9",
+      "path": "enemies/sharedassets0_sprite_9.png",
+      "type": "png",
+      "size": 12917
+    },
+    {
+      "name": "resources_sprite_1130",
+      "path": "enemies/resources_sprite_1130.png",
+      "type": "png",
+      "size": 231
+    },
+    {
+      "name": "resources_sprite_1166",
+      "path": "enemies/resources_sprite_1166.png",
+      "type": "png",
+      "size": 739
+    },
+    {
+      "name": "resources_sprite_1333",
+      "path": "enemies/resources_sprite_1333.png",
+      "type": "png",
+      "size": 8673
+    },
+    {
+      "name": "resources_sprite_1228",
+      "path": "enemies/resources_sprite_1228.png",
+      "type": "png",
+      "size": 145
+    },
+    {
+      "name": "resources_sprite_1585",
+      "path": "enemies/resources_sprite_1585.png",
+      "type": "png",
+      "size": 1078
+    },
+    {
+      "name": "resources_sprite_1587",
+      "path": "enemies/resources_sprite_1587.png",
+      "type": "png",
+      "size": 518
+    },
+    {
+      "name": "resources_sprite_1701",
+      "path": "enemies/resources_sprite_1701.png",
+      "type": "png",
+      "size": 27702
+    },
+    {
+      "name": "resources_sprite_1330",
+      "path": "enemies/resources_sprite_1330.png",
+      "type": "png",
+      "size": 448
+    },
+    {
+      "name": "resources_sprite_1065",
+      "path": "enemies/resources_sprite_1065.png",
+      "type": "png",
+      "size": 328
+    },
+    {
+      "name": "sharedassets1_sprite_70",
+      "path": "enemies/sharedassets1_sprite_70.png",
+      "type": "png",
+      "size": 1803
+    },
+    {
+      "name": "resources_sprite_1307",
+      "path": "enemies/resources_sprite_1307.png",
+      "type": "png",
+      "size": 232
+    },
+    {
+      "name": "resources_sprite_1618",
+      "path": "enemies/resources_sprite_1618.png",
+      "type": "png",
+      "size": 134
+    },
+    {
+      "name": "resources_sprite_1565",
+      "path": "enemies/resources_sprite_1565.png",
+      "type": "png",
+      "size": 2114
+    },
+    {
+      "name": "resources_sprite_1641",
+      "path": "enemies/resources_sprite_1641.png",
+      "type": "png",
+      "size": 115
+    },
+    {
+      "name": "resources_sprite_1736",
+      "path": "enemies/resources_sprite_1736.png",
+      "type": "png",
+      "size": 300
+    },
+    {
+      "name": "resources_sprite_1699",
+      "path": "enemies/resources_sprite_1699.png",
+      "type": "png",
+      "size": 2020790
+    },
+    {
+      "name": "resources_sprite_1679",
+      "path": "enemies/resources_sprite_1679.png",
+      "type": "png",
+      "size": 138
+    },
+    {
+      "name": "resources_sprite_1925",
+      "path": "enemies/resources_sprite_1925.png",
+      "type": "png",
+      "size": 1244
+    },
+    {
+      "name": "resources_sprite_1489",
+      "path": "enemies/resources_sprite_1489.png",
+      "type": "png",
+      "size": 3526696
+    },
+    {
+      "name": "resources_sprite_1917",
+      "path": "enemies/resources_sprite_1917.png",
+      "type": "png",
+      "size": 271
+    },
+    {
+      "name": "resources_sprite_1756",
+      "path": "enemies/resources_sprite_1756.png",
+      "type": "png",
+      "size": 141
+    },
+    {
+      "name": "resources_sprite_1206",
+      "path": "enemies/resources_sprite_1206.png",
+      "type": "png",
+      "size": 659
+    },
+    {
+      "name": "resources_sprite_1283",
+      "path": "enemies/resources_sprite_1283.png",
+      "type": "png",
+      "size": 79468
+    },
+    {
+      "name": "resources_sprite_1079",
+      "path": "enemies/resources_sprite_1079.png",
+      "type": "png",
+      "size": 351
+    },
+    {
+      "name": "resources_sprite_1527",
+      "path": "enemies/resources_sprite_1527.png",
+      "type": "png",
+      "size": 1159
+    },
+    {
+      "name": "resources_sprite_1210",
+      "path": "enemies/resources_sprite_1210.png",
+      "type": "png",
+      "size": 220
+    },
+    {
+      "name": "resources_sprite_1804",
+      "path": "enemies/resources_sprite_1804.png",
+      "type": "png",
+      "size": 1921
+    },
+    {
+      "name": "resources_sprite_1942",
+      "path": "enemies/resources_sprite_1942.png",
+      "type": "png",
+      "size": 306
+    },
+    {
+      "name": "resources_sprite_1777",
+      "path": "enemies/resources_sprite_1777.png",
+      "type": "png",
+      "size": 131
+    },
+    {
+      "name": "resources_sprite_1692",
+      "path": "enemies/resources_sprite_1692.png",
+      "type": "png",
+      "size": 429
+    },
+    {
+      "name": "resources_sprite_1087",
+      "path": "enemies/resources_sprite_1087.png",
+      "type": "png",
+      "size": 177
+    },
+    {
+      "name": "resources_sprite_1136",
+      "path": "enemies/resources_sprite_1136.png",
+      "type": "png",
+      "size": 325
+    },
+    {
+      "name": "resources_sprite_1133",
+      "path": "enemies/resources_sprite_1133.png",
+      "type": "png",
+      "size": 239
+    },
+    {
+      "name": "resources_sprite_1160",
+      "path": "enemies/resources_sprite_1160.png",
+      "type": "png",
+      "size": 271
+    },
+    {
+      "name": "resources_sprite_1514",
+      "path": "enemies/resources_sprite_1514.png",
+      "type": "png",
+      "size": 166
+    },
+    {
+      "name": "resources_sprite_1150",
+      "path": "enemies/resources_sprite_1150.png",
+      "type": "png",
+      "size": 414
+    },
+    {
+      "name": "sharedassets3_sprite_5",
+      "path": "enemies/sharedassets3_sprite_5.png",
+      "type": "png",
+      "size": 1783350
+    },
+    {
+      "name": "resources_sprite_1596",
+      "path": "enemies/resources_sprite_1596.png",
+      "type": "png",
+      "size": 451
+    },
+    {
+      "name": "resources_sprite_1407",
+      "path": "enemies/resources_sprite_1407.png",
+      "type": "png",
+      "size": 863
+    },
+    {
+      "name": "resources_sprite_1943",
+      "path": "enemies/resources_sprite_1943.png",
+      "type": "png",
+      "size": 422
+    },
+    {
+      "name": "resources_sprite_1245",
+      "path": "enemies/resources_sprite_1245.png",
+      "type": "png",
+      "size": 998
+    },
+    {
+      "name": "resources_sprite_1600",
+      "path": "enemies/resources_sprite_1600.png",
+      "type": "png",
+      "size": 297
+    },
+    {
+      "name": "resources_sprite_1326",
+      "path": "enemies/resources_sprite_1326.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_sprite_1174",
+      "path": "enemies/resources_sprite_1174.png",
+      "type": "png",
+      "size": 238
+    },
+    {
+      "name": "resources_sprite_1629",
+      "path": "enemies/resources_sprite_1629.png",
+      "type": "png",
+      "size": 995
+    },
+    {
+      "name": "resources_sprite_1053",
+      "path": "enemies/resources_sprite_1053.png",
+      "type": "png",
+      "size": 268
+    },
+    {
+      "name": "resources_sprite_1264",
+      "path": "enemies/resources_sprite_1264.png",
+      "type": "png",
+      "size": 1437
+    },
+    {
+      "name": "resources_sprite_1702",
+      "path": "enemies/resources_sprite_1702.png",
+      "type": "png",
+      "size": 151
+    },
+    {
+      "name": "resources_sprite_1319",
+      "path": "enemies/resources_sprite_1319.png",
+      "type": "png",
+      "size": 1980
+    },
+    {
+      "name": "resources_sprite_1874",
+      "path": "enemies/resources_sprite_1874.png",
+      "type": "png",
+      "size": 353
+    },
+    {
+      "name": "resources_sprite_1391",
+      "path": "enemies/resources_sprite_1391.png",
+      "type": "png",
+      "size": 494
+    },
+    {
+      "name": "resources_sprite_1111",
+      "path": "enemies/resources_sprite_1111.png",
+      "type": "png",
+      "size": 273
+    },
+    {
+      "name": "resources_sprite_1196",
+      "path": "enemies/resources_sprite_1196.png",
+      "type": "png",
+      "size": 98
+    },
+    {
+      "name": "resources_sprite_1617",
+      "path": "enemies/resources_sprite_1617.png",
+      "type": "png",
+      "size": 145
+    },
+    {
+      "name": "resources_sprite_1445",
+      "path": "enemies/resources_sprite_1445.png",
+      "type": "png",
+      "size": 228
+    },
+    {
+      "name": "resources_sprite_1103",
+      "path": "enemies/resources_sprite_1103.png",
+      "type": "png",
+      "size": 332
+    },
+    {
+      "name": "resources_sprite_1649",
+      "path": "enemies/resources_sprite_1649.png",
+      "type": "png",
+      "size": 152
+    },
+    {
+      "name": "resources_sprite_1191",
+      "path": "enemies/resources_sprite_1191.png",
+      "type": "png",
+      "size": 2628
+    },
+    {
+      "name": "resources_sprite_1653",
+      "path": "enemies/resources_sprite_1653.png",
+      "type": "png",
+      "size": 255
+    },
+    {
+      "name": "resources_sprite_1864",
+      "path": "enemies/resources_sprite_1864.png",
+      "type": "png",
+      "size": 313
+    },
+    {
+      "name": "resources_sprite_1357",
+      "path": "enemies/resources_sprite_1357.png",
+      "type": "png",
+      "size": 159
+    },
+    {
+      "name": "resources_sprite_1570",
+      "path": "enemies/resources_sprite_1570.png",
+      "type": "png",
+      "size": 223
+    },
+    {
+      "name": "resources_sprite_1382",
+      "path": "enemies/resources_sprite_1382.png",
+      "type": "png",
+      "size": 979
+    },
+    {
+      "name": "resources_sprite_1828",
+      "path": "enemies/resources_sprite_1828.png",
+      "type": "png",
+      "size": 397
+    },
+    {
+      "name": "resources_sprite_1254",
+      "path": "enemies/resources_sprite_1254.png",
+      "type": "png",
+      "size": 876
+    },
+    {
+      "name": "resources_sprite_1728",
+      "path": "enemies/resources_sprite_1728.png",
+      "type": "png",
+      "size": 382
+    },
+    {
+      "name": "resources_sprite_1327",
+      "path": "enemies/resources_sprite_1327.png",
+      "type": "png",
+      "size": 128
+    },
+    {
+      "name": "resources_sprite_1630",
+      "path": "enemies/resources_sprite_1630.png",
+      "type": "png",
+      "size": 245
+    },
+    {
+      "name": "resources_sprite_1105",
+      "path": "enemies/resources_sprite_1105.png",
+      "type": "png",
+      "size": 288
+    },
+    {
+      "name": "resources_sprite_1783",
+      "path": "enemies/resources_sprite_1783.png",
+      "type": "png",
+      "size": 334
+    },
+    {
+      "name": "resources_sprite_1731",
+      "path": "enemies/resources_sprite_1731.png",
+      "type": "png",
+      "size": 792
+    },
+    {
+      "name": "resources_sprite_1125",
+      "path": "enemies/resources_sprite_1125.png",
+      "type": "png",
+      "size": 328
+    },
+    {
+      "name": "resources_sprite_1887",
+      "path": "enemies/resources_sprite_1887.png",
+      "type": "png",
+      "size": 334
+    },
+    {
+      "name": "resources_sprite_1672",
+      "path": "enemies/resources_sprite_1672.png",
+      "type": "png",
+      "size": 128
+    },
+    {
+      "name": "resources_sprite_1141",
+      "path": "enemies/resources_sprite_1141.png",
+      "type": "png",
+      "size": 247
+    },
+    {
+      "name": "resources_sprite_1139",
+      "path": "enemies/resources_sprite_1139.png",
+      "type": "png",
+      "size": 195
+    },
+    {
+      "name": "resources_sprite_1515",
+      "path": "enemies/resources_sprite_1515.png",
+      "type": "png",
+      "size": 313
+    },
+    {
+      "name": "resources_sprite_1081",
+      "path": "enemies/resources_sprite_1081.png",
+      "type": "png",
+      "size": 353
+    },
+    {
+      "name": "resources_sprite_1297",
+      "path": "enemies/resources_sprite_1297.png",
+      "type": "png",
+      "size": 308
+    },
+    {
+      "name": "resources_sprite_1295",
+      "path": "enemies/resources_sprite_1295.png",
+      "type": "png",
+      "size": 304
+    },
+    {
+      "name": "resources_sprite_1362",
+      "path": "enemies/resources_sprite_1362.png",
+      "type": "png",
+      "size": 158
+    },
+    {
+      "name": "sharedassets1_sprite_65",
+      "path": "enemies/sharedassets1_sprite_65.png",
+      "type": "png",
+      "size": 2446
+    },
+    {
+      "name": "resources_sprite_1129",
+      "path": "enemies/resources_sprite_1129.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_sprite_1098",
+      "path": "enemies/resources_sprite_1098.png",
+      "type": "png",
+      "size": 291
+    },
+    {
+      "name": "resources_sprite_1695",
+      "path": "enemies/resources_sprite_1695.png",
+      "type": "png",
+      "size": 302
+    },
+    {
+      "name": "resources_sprite_1838",
+      "path": "enemies/resources_sprite_1838.png",
+      "type": "png",
+      "size": 481
+    },
+    {
+      "name": "resources_sprite_1698",
+      "path": "enemies/resources_sprite_1698.png",
+      "type": "png",
+      "size": 428
+    },
+    {
+      "name": "sharedassets1_sprite_66",
+      "path": "enemies/sharedassets1_sprite_66.png",
+      "type": "png",
+      "size": 1083947
+    },
+    {
+      "name": "resources_sprite_1949",
+      "path": "enemies/resources_sprite_1949.png",
+      "type": "png",
+      "size": 216
+    },
+    {
+      "name": "resources_sprite_1155",
+      "path": "enemies/resources_sprite_1155.png",
+      "type": "png",
+      "size": 226
+    },
+    {
+      "name": "resources_sprite_1195",
+      "path": "enemies/resources_sprite_1195.png",
+      "type": "png",
+      "size": 243
+    },
+    {
+      "name": "resources_sprite_1879",
+      "path": "enemies/resources_sprite_1879.png",
+      "type": "png",
+      "size": 381
+    },
+    {
+      "name": "resources_sprite_1444",
+      "path": "enemies/resources_sprite_1444.png",
+      "type": "png",
+      "size": 86
+    },
+    {
+      "name": "resources_sprite_1035",
+      "path": "enemies/resources_sprite_1035.png",
+      "type": "png",
+      "size": 409
+    },
+    {
+      "name": "resources_sprite_1638",
+      "path": "enemies/resources_sprite_1638.png",
+      "type": "png",
+      "size": 579
+    },
+    {
+      "name": "resources_sprite_1143",
+      "path": "enemies/resources_sprite_1143.png",
+      "type": "png",
+      "size": 470
+    },
+    {
+      "name": "resources_sprite_1839",
+      "path": "enemies/resources_sprite_1839.png",
+      "type": "png",
+      "size": 328
+    },
+    {
+      "name": "resources_sprite_1758",
+      "path": "enemies/resources_sprite_1758.png",
+      "type": "png",
+      "size": 251
+    },
+    {
+      "name": "resources_sprite_1339",
+      "path": "enemies/resources_sprite_1339.png",
+      "type": "png",
+      "size": 115
+    },
+    {
+      "name": "resources_sprite_1329",
+      "path": "enemies/resources_sprite_1329.png",
+      "type": "png",
+      "size": 268
+    },
+    {
+      "name": "resources_sprite_1616",
+      "path": "enemies/resources_sprite_1616.png",
+      "type": "png",
+      "size": 136
+    },
+    {
+      "name": "resources_sprite_1836",
+      "path": "enemies/resources_sprite_1836.png",
+      "type": "png",
+      "size": 295
+    },
+    {
+      "name": "resources_sprite_1533",
+      "path": "enemies/resources_sprite_1533.png",
+      "type": "png",
+      "size": 282
+    },
+    {
+      "name": "resources_sprite_1484",
+      "path": "enemies/resources_sprite_1484.png",
+      "type": "png",
+      "size": 41003
+    },
+    {
+      "name": "resources_sprite_1826",
+      "path": "enemies/resources_sprite_1826.png",
+      "type": "png",
+      "size": 1271
+    },
+    {
+      "name": "resources_sprite_1173",
+      "path": "enemies/resources_sprite_1173.png",
+      "type": "png",
+      "size": 1199
+    },
+    {
+      "name": "resources_sprite_1479",
+      "path": "enemies/resources_sprite_1479.png",
+      "type": "png",
+      "size": 1151
+    },
+    {
+      "name": "resources_sprite_1559",
+      "path": "enemies/resources_sprite_1559.png",
+      "type": "png",
+      "size": 130
+    },
+    {
+      "name": "resources_sprite_1632",
+      "path": "enemies/resources_sprite_1632.png",
+      "type": "png",
+      "size": 232
+    },
+    {
+      "name": "resources_sprite_1416",
+      "path": "enemies/resources_sprite_1416.png",
+      "type": "png",
+      "size": 1962
+    },
+    {
+      "name": "resources_sprite_1344",
+      "path": "enemies/resources_sprite_1344.png",
+      "type": "png",
+      "size": 221
+    },
+    {
+      "name": "resources_sprite_1346",
+      "path": "enemies/resources_sprite_1346.png",
+      "type": "png",
+      "size": 106
+    },
+    {
+      "name": "resources_sprite_1279",
+      "path": "enemies/resources_sprite_1279.png",
+      "type": "png",
+      "size": 183
+    },
+    {
+      "name": "resources_sprite_1678",
+      "path": "enemies/resources_sprite_1678.png",
+      "type": "png",
+      "size": 475
+    },
+    {
+      "name": "resources_sprite_1201",
+      "path": "enemies/resources_sprite_1201.png",
+      "type": "png",
+      "size": 9195
+    },
+    {
+      "name": "resources_sprite_1194",
+      "path": "enemies/resources_sprite_1194.png",
+      "type": "png",
+      "size": 181
+    },
+    {
+      "name": "resources_sprite_1262",
+      "path": "enemies/resources_sprite_1262.png",
+      "type": "png",
+      "size": 104
+    },
+    {
+      "name": "resources_sprite_1599",
+      "path": "enemies/resources_sprite_1599.png",
+      "type": "png",
+      "size": 225
+    },
+    {
+      "name": "sharedassets4_sprite_68",
+      "path": "enemies/sharedassets4_sprite_68.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_sprite_1282",
+      "path": "enemies/resources_sprite_1282.png",
+      "type": "png",
+      "size": 1201
+    },
+    {
+      "name": "resources_sprite_1440",
+      "path": "enemies/resources_sprite_1440.png",
+      "type": "png",
+      "size": 377
+    },
+    {
+      "name": "resources_sprite_1047",
+      "path": "enemies/resources_sprite_1047.png",
+      "type": "png",
+      "size": 325
+    },
+    {
+      "name": "resources_sprite_1097",
+      "path": "enemies/resources_sprite_1097.png",
+      "type": "png",
+      "size": 295
+    },
+    {
+      "name": "resources_sprite_1815",
+      "path": "enemies/resources_sprite_1815.png",
+      "type": "png",
+      "size": 462
+    },
+    {
+      "name": "resources_sprite_1063",
+      "path": "enemies/resources_sprite_1063.png",
+      "type": "png",
+      "size": 1266
+    },
+    {
+      "name": "resources_sprite_1338",
+      "path": "enemies/resources_sprite_1338.png",
+      "type": "png",
+      "size": 1019
+    },
+    {
+      "name": "resources_sprite_1048",
+      "path": "enemies/resources_sprite_1048.png",
+      "type": "png",
+      "size": 377
+    },
+    {
+      "name": "resources_sprite_1220",
+      "path": "enemies/resources_sprite_1220.png",
+      "type": "png",
+      "size": 596
+    },
+    {
+      "name": "resources_sprite_1742",
+      "path": "enemies/resources_sprite_1742.png",
+      "type": "png",
+      "size": 1104
+    },
+    {
+      "name": "resources_sprite_1658",
+      "path": "enemies/resources_sprite_1658.png",
+      "type": "png",
+      "size": 337
+    },
+    {
+      "name": "resources_sprite_1554",
+      "path": "enemies/resources_sprite_1554.png",
+      "type": "png",
+      "size": 1126
+    },
+    {
+      "name": "resources_sprite_1824",
+      "path": "enemies/resources_sprite_1824.png",
+      "type": "png",
+      "size": 9487
+    },
+    {
+      "name": "resources_sprite_1396",
+      "path": "enemies/resources_sprite_1396.png",
+      "type": "png",
+      "size": 285
+    },
+    {
+      "name": "resources_sprite_1368",
+      "path": "enemies/resources_sprite_1368.png",
+      "type": "png",
+      "size": 161
+    },
+    {
+      "name": "resources_sprite_1873",
+      "path": "enemies/resources_sprite_1873.png",
+      "type": "png",
+      "size": 311
+    },
+    {
+      "name": "resources_sprite_1749",
+      "path": "enemies/resources_sprite_1749.png",
+      "type": "png",
+      "size": 126
+    },
+    {
+      "name": "resources_sprite_1419",
+      "path": "enemies/resources_sprite_1419.png",
+      "type": "png",
+      "size": 111
+    },
+    {
+      "name": "resources_sprite_1760",
+      "path": "enemies/resources_sprite_1760.png",
+      "type": "png",
+      "size": 173635
+    },
+    {
+      "name": "resources_sprite_1866",
+      "path": "enemies/resources_sprite_1866.png",
+      "type": "png",
+      "size": 313
+    },
+    {
+      "name": "resources_sprite_1694",
+      "path": "enemies/resources_sprite_1694.png",
+      "type": "png",
+      "size": 464
+    },
+    {
+      "name": "resources_sprite_1459",
+      "path": "enemies/resources_sprite_1459.png",
+      "type": "png",
+      "size": 130
+    },
+    {
+      "name": "sharedassets3_sprite_6",
+      "path": "enemies/sharedassets3_sprite_6.png",
+      "type": "png",
+      "size": 1269677
+    },
+    {
+      "name": "resources_sprite_1464",
+      "path": "enemies/resources_sprite_1464.png",
+      "type": "png",
+      "size": 143
+    },
+    {
+      "name": "resources_sprite_1192",
+      "path": "enemies/resources_sprite_1192.png",
+      "type": "png",
+      "size": 1220
+    },
+    {
+      "name": "resources_sprite_1881",
+      "path": "enemies/resources_sprite_1881.png",
+      "type": "png",
+      "size": 346
+    },
+    {
+      "name": "resources_sprite_1856",
+      "path": "enemies/resources_sprite_1856.png",
+      "type": "png",
+      "size": 217
+    },
+    {
+      "name": "resources_sprite_1372",
+      "path": "enemies/resources_sprite_1372.png",
+      "type": "png",
+      "size": 102458
+    },
+    {
+      "name": "resources_sprite_1181",
+      "path": "enemies/resources_sprite_1181.png",
+      "type": "png",
+      "size": 1187
+    },
+    {
+      "name": "globalgamemanagers_sprite_3074",
+      "path": "enemies/globalgamemanagers_sprite_3074.png",
+      "type": "png",
+      "size": 5002
+    },
+    {
+      "name": "resources_sprite_1790",
+      "path": "enemies/resources_sprite_1790.png",
+      "type": "png",
+      "size": 76310
+    },
+    {
+      "name": "resources_sprite_1958",
+      "path": "enemies/resources_sprite_1958.png",
+      "type": "png",
+      "size": 333
+    },
+    {
+      "name": "resources_sprite_1893",
+      "path": "enemies/resources_sprite_1893.png",
+      "type": "png",
+      "size": 258
+    },
+    {
+      "name": "resources_sprite_1152",
+      "path": "enemies/resources_sprite_1152.png",
+      "type": "png",
+      "size": 273
+    },
+    {
+      "name": "resources_sprite_1390",
+      "path": "enemies/resources_sprite_1390.png",
+      "type": "png",
+      "size": 131
+    },
+    {
+      "name": "resources_sprite_1184",
+      "path": "enemies/resources_sprite_1184.png",
+      "type": "png",
+      "size": 889
+    },
+    {
+      "name": "resources_sprite_1311",
+      "path": "enemies/resources_sprite_1311.png",
+      "type": "png",
+      "size": 142
+    },
+    {
+      "name": "resources_sprite_1743",
+      "path": "enemies/resources_sprite_1743.png",
+      "type": "png",
+      "size": 104
+    },
+    {
+      "name": "resources_sprite_1341",
+      "path": "enemies/resources_sprite_1341.png",
+      "type": "png",
+      "size": 144
+    },
+    {
+      "name": "resources_sprite_1765",
+      "path": "enemies/resources_sprite_1765.png",
+      "type": "png",
+      "size": 11176
+    },
+    {
+      "name": "resources_sprite_1238",
+      "path": "enemies/resources_sprite_1238.png",
+      "type": "png",
+      "size": 159
+    },
+    {
+      "name": "resources_sprite_1909",
+      "path": "enemies/resources_sprite_1909.png",
+      "type": "png",
+      "size": 453
+    },
+    {
+      "name": "resources_sprite_1399",
+      "path": "enemies/resources_sprite_1399.png",
+      "type": "png",
+      "size": 78
+    },
+    {
+      "name": "resources_sprite_1068",
+      "path": "enemies/resources_sprite_1068.png",
+      "type": "png",
+      "size": 458
+    },
+    {
+      "name": "resources_sprite_1370",
+      "path": "enemies/resources_sprite_1370.png",
+      "type": "png",
+      "size": 705
+    },
+    {
+      "name": "resources_sprite_1935",
+      "path": "enemies/resources_sprite_1935.png",
+      "type": "png",
+      "size": 295
+    },
+    {
+      "name": "sharedassets0_sprite_10",
+      "path": "enemies/sharedassets0_sprite_10.png",
+      "type": "png",
+      "size": 2722213
+    },
+    {
+      "name": "resources_sprite_1586",
+      "path": "enemies/resources_sprite_1586.png",
+      "type": "png",
+      "size": 1115
+    },
+    {
+      "name": "resources_sprite_1833",
+      "path": "enemies/resources_sprite_1833.png",
+      "type": "png",
+      "size": 521
+    },
+    {
+      "name": "resources_sprite_1724",
+      "path": "enemies/resources_sprite_1724.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_sprite_1439",
+      "path": "enemies/resources_sprite_1439.png",
+      "type": "png",
+      "size": 246975
+    },
+    {
+      "name": "resources_sprite_1146",
+      "path": "enemies/resources_sprite_1146.png",
+      "type": "png",
+      "size": 372
+    },
+    {
+      "name": "resources_sprite_1666",
+      "path": "enemies/resources_sprite_1666.png",
+      "type": "png",
+      "size": 846
+    },
+    {
+      "name": "resources_sprite_1538",
+      "path": "enemies/resources_sprite_1538.png",
+      "type": "png",
+      "size": 104
+    },
+    {
+      "name": "resources_sprite_1784",
+      "path": "enemies/resources_sprite_1784.png",
+      "type": "png",
+      "size": 145
+    },
+    {
+      "name": "resources_sprite_1315",
+      "path": "enemies/resources_sprite_1315.png",
+      "type": "png",
+      "size": 975
+    },
+    {
+      "name": "resources_sprite_1102",
+      "path": "enemies/resources_sprite_1102.png",
+      "type": "png",
+      "size": 353
+    },
+    {
+      "name": "resources_sprite_1469",
+      "path": "enemies/resources_sprite_1469.png",
+      "type": "png",
+      "size": 826
+    },
+    {
+      "name": "resources_sprite_1846",
+      "path": "enemies/resources_sprite_1846.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_sprite_1655",
+      "path": "enemies/resources_sprite_1655.png",
+      "type": "png",
+      "size": 622
+    },
+    {
+      "name": "resources_sprite_1138",
+      "path": "enemies/resources_sprite_1138.png",
+      "type": "png",
+      "size": 507
+    },
+    {
+      "name": "resources_sprite_1953",
+      "path": "enemies/resources_sprite_1953.png",
+      "type": "png",
+      "size": 482
+    },
+    {
+      "name": "resources_sprite_1367",
+      "path": "enemies/resources_sprite_1367.png",
+      "type": "png",
+      "size": 148831
+    },
+    {
+      "name": "resources_sprite_1314",
+      "path": "enemies/resources_sprite_1314.png",
+      "type": "png",
+      "size": 253
+    },
+    {
+      "name": "resources_sprite_1256",
+      "path": "enemies/resources_sprite_1256.png",
+      "type": "png",
+      "size": 161692
+    },
+    {
+      "name": "resources_sprite_1180",
+      "path": "enemies/resources_sprite_1180.png",
+      "type": "png",
+      "size": 533
+    },
+    {
+      "name": "resources_sprite_1780",
+      "path": "enemies/resources_sprite_1780.png",
+      "type": "png",
+      "size": 127
+    },
+    {
+      "name": "resources_sprite_1814",
+      "path": "enemies/resources_sprite_1814.png",
+      "type": "png",
+      "size": 1182
+    },
+    {
+      "name": "resources_sprite_1158",
+      "path": "enemies/resources_sprite_1158.png",
+      "type": "png",
+      "size": 349
+    },
+    {
+      "name": "resources_sprite_1916",
+      "path": "enemies/resources_sprite_1916.png",
+      "type": "png",
+      "size": 283
+    },
+    {
+      "name": "resources_sprite_1170",
+      "path": "enemies/resources_sprite_1170.png",
+      "type": "png",
+      "size": 244
+    },
+    {
+      "name": "resources_sprite_1592",
+      "path": "enemies/resources_sprite_1592.png",
+      "type": "png",
+      "size": 844
+    },
+    {
+      "name": "resources_sprite_1083",
+      "path": "enemies/resources_sprite_1083.png",
+      "type": "png",
+      "size": 299
+    },
+    {
+      "name": "resources_sprite_1633",
+      "path": "enemies/resources_sprite_1633.png",
+      "type": "png",
+      "size": 462
+    },
+    {
+      "name": "resources_sprite_1350",
+      "path": "enemies/resources_sprite_1350.png",
+      "type": "png",
+      "size": 121
+    },
+    {
+      "name": "resources_sprite_1483",
+      "path": "enemies/resources_sprite_1483.png",
+      "type": "png",
+      "size": 184
+    },
+    {
+      "name": "resources_sprite_1269",
+      "path": "enemies/resources_sprite_1269.png",
+      "type": "png",
+      "size": 594
+    },
+    {
+      "name": "resources_sprite_1175",
+      "path": "enemies/resources_sprite_1175.png",
+      "type": "png",
+      "size": 323
+    },
+    {
+      "name": "resources_sprite_1525",
+      "path": "enemies/resources_sprite_1525.png",
+      "type": "png",
+      "size": 1026
+    },
+    {
+      "name": "sharedassets4_sprite_70",
+      "path": "enemies/sharedassets4_sprite_70.png",
+      "type": "png",
+      "size": 345
+    },
+    {
+      "name": "resources_sprite_1189",
+      "path": "enemies/resources_sprite_1189.png",
+      "type": "png",
+      "size": 378
+    },
+    {
+      "name": "resources_sprite_1074",
+      "path": "enemies/resources_sprite_1074.png",
+      "type": "png",
+      "size": 396
+    },
+    {
+      "name": "resources_sprite_1820",
+      "path": "enemies/resources_sprite_1820.png",
+      "type": "png",
+      "size": 1893
+    },
+    {
+      "name": "resources_sprite_1458",
+      "path": "enemies/resources_sprite_1458.png",
+      "type": "png",
+      "size": 1003
+    },
+    {
+      "name": "resources_sprite_1090",
+      "path": "enemies/resources_sprite_1090.png",
+      "type": "png",
+      "size": 272
+    },
+    {
+      "name": "resources_sprite_1165",
+      "path": "enemies/resources_sprite_1165.png",
+      "type": "png",
+      "size": 739
+    },
+    {
+      "name": "resources_sprite_1566",
+      "path": "enemies/resources_sprite_1566.png",
+      "type": "png",
+      "size": 125
+    },
+    {
+      "name": "resources_sprite_1660",
+      "path": "enemies/resources_sprite_1660.png",
+      "type": "png",
+      "size": 245569
+    },
+    {
+      "name": "resources_sprite_1844",
+      "path": "enemies/resources_sprite_1844.png",
+      "type": "png",
+      "size": 346
+    },
+    {
+      "name": "resources_sprite_1255",
+      "path": "enemies/resources_sprite_1255.png",
+      "type": "png",
+      "size": 342
+    },
+    {
+      "name": "resources_sprite_1737",
+      "path": "enemies/resources_sprite_1737.png",
+      "type": "png",
+      "size": 128
+    },
+    {
+      "name": "resources_sprite_1747",
+      "path": "enemies/resources_sprite_1747.png",
+      "type": "png",
+      "size": 102
+    },
+    {
+      "name": "resources_sprite_1085",
+      "path": "enemies/resources_sprite_1085.png",
+      "type": "png",
+      "size": 408
+    },
+    {
+      "name": "resources_sprite_1428",
+      "path": "enemies/resources_sprite_1428.png",
+      "type": "png",
+      "size": 294
+    },
+    {
+      "name": "resources_sprite_1356",
+      "path": "enemies/resources_sprite_1356.png",
+      "type": "png",
+      "size": 1295
+    },
+    {
+      "name": "resources_sprite_1412",
+      "path": "enemies/resources_sprite_1412.png",
+      "type": "png",
+      "size": 124
+    },
+    {
+      "name": "resources_sprite_1872",
+      "path": "enemies/resources_sprite_1872.png",
+      "type": "png",
+      "size": 349
+    },
+    {
+      "name": "sharedassets4_sprite_67",
+      "path": "enemies/sharedassets4_sprite_67.png",
+      "type": "png",
+      "size": 393
+    },
+    {
+      "name": "resources_sprite_1207",
+      "path": "enemies/resources_sprite_1207.png",
+      "type": "png",
+      "size": 245
+    },
+    {
+      "name": "resources_sprite_1938",
+      "path": "enemies/resources_sprite_1938.png",
+      "type": "png",
+      "size": 264
+    },
+    {
+      "name": "resources_sprite_1680",
+      "path": "enemies/resources_sprite_1680.png",
+      "type": "png",
+      "size": 1052
+    },
+    {
+      "name": "resources_sprite_1302",
+      "path": "enemies/resources_sprite_1302.png",
+      "type": "png",
+      "size": 1395
+    },
+    {
+      "name": "resources_sprite_1763",
+      "path": "enemies/resources_sprite_1763.png",
+      "type": "png",
+      "size": 407
+    },
+    {
+      "name": "resources_sprite_1696",
+      "path": "enemies/resources_sprite_1696.png",
+      "type": "png",
+      "size": 255
+    },
+    {
+      "name": "resources_sprite_1474",
+      "path": "enemies/resources_sprite_1474.png",
+      "type": "png",
+      "size": 144362
+    },
+    {
+      "name": "resources_sprite_1900",
+      "path": "enemies/resources_sprite_1900.png",
+      "type": "png",
+      "size": 305
+    },
+    {
+      "name": "resources_sprite_1478",
+      "path": "enemies/resources_sprite_1478.png",
+      "type": "png",
+      "size": 277
+    },
+    {
+      "name": "resources_sprite_1032",
+      "path": "enemies/resources_sprite_1032.png",
+      "type": "png",
+      "size": 449
+    },
+    {
+      "name": "sharedassets4_sprite_64",
+      "path": "enemies/sharedassets4_sprite_64.png",
+      "type": "png",
+      "size": 449
+    },
+    {
+      "name": "resources_sprite_1817",
+      "path": "enemies/resources_sprite_1817.png",
+      "type": "png",
+      "size": 597
+    },
+    {
+      "name": "resources_sprite_1168",
+      "path": "enemies/resources_sprite_1168.png",
+      "type": "png",
+      "size": 808
+    },
+    {
+      "name": "resources_sprite_1131",
+      "path": "enemies/resources_sprite_1131.png",
+      "type": "png",
+      "size": 323
+    },
+    {
+      "name": "resources_sprite_1498",
+      "path": "enemies/resources_sprite_1498.png",
+      "type": "png",
+      "size": 58409
+    },
+    {
+      "name": "resources_sprite_1563",
+      "path": "enemies/resources_sprite_1563.png",
+      "type": "png",
+      "size": 117550
+    },
+    {
+      "name": "resources_sprite_1392",
+      "path": "enemies/resources_sprite_1392.png",
+      "type": "png",
+      "size": 345
+    },
+    {
+      "name": "resources_sprite_1449",
+      "path": "enemies/resources_sprite_1449.png",
+      "type": "png",
+      "size": 142
+    },
+    {
+      "name": "sharedassets4_sprite_71",
+      "path": "enemies/sharedassets4_sprite_71.png",
+      "type": "png",
+      "size": 388
+    },
+    {
+      "name": "resources_sprite_1123",
+      "path": "enemies/resources_sprite_1123.png",
+      "type": "png",
+      "size": 289
+    },
+    {
+      "name": "resources_sprite_1665",
+      "path": "enemies/resources_sprite_1665.png",
+      "type": "png",
+      "size": 633
+    },
+    {
+      "name": "resources_sprite_1700",
+      "path": "enemies/resources_sprite_1700.png",
+      "type": "png",
+      "size": 354
+    },
+    {
+      "name": "resources_sprite_1628",
+      "path": "enemies/resources_sprite_1628.png",
+      "type": "png",
+      "size": 192
+    },
+    {
+      "name": "resources_sprite_1562",
+      "path": "enemies/resources_sprite_1562.png",
+      "type": "png",
+      "size": 1031
+    },
+    {
+      "name": "resources_sprite_1240",
+      "path": "enemies/resources_sprite_1240.png",
+      "type": "png",
+      "size": 1163
+    },
+    {
+      "name": "resources_sprite_1230",
+      "path": "enemies/resources_sprite_1230.png",
+      "type": "png",
+      "size": 235
+    },
+    {
+      "name": "resources_sprite_1106",
+      "path": "enemies/resources_sprite_1106.png",
+      "type": "png",
+      "size": 300
+    },
+    {
+      "name": "resources_sprite_1883",
+      "path": "enemies/resources_sprite_1883.png",
+      "type": "png",
+      "size": 139
+    },
+    {
+      "name": "resources_sprite_1648",
+      "path": "enemies/resources_sprite_1648.png",
+      "type": "png",
+      "size": 228159
+    },
+    {
+      "name": "resources_sprite_1318",
+      "path": "enemies/resources_sprite_1318.png",
+      "type": "png",
+      "size": 1033
+    },
+    {
+      "name": "resources_sprite_1831",
+      "path": "enemies/resources_sprite_1831.png",
+      "type": "png",
+      "size": 337
+    },
+    {
+      "name": "resources_sprite_1221",
+      "path": "enemies/resources_sprite_1221.png",
+      "type": "png",
+      "size": 128
+    },
+    {
+      "name": "resources_sprite_1794",
+      "path": "enemies/resources_sprite_1794.png",
+      "type": "png",
+      "size": 1798
+    },
+    {
+      "name": "resources_sprite_1727",
+      "path": "enemies/resources_sprite_1727.png",
+      "type": "png",
+      "size": 170173
+    },
+    {
+      "name": "resources_sprite_1249",
+      "path": "enemies/resources_sprite_1249.png",
+      "type": "png",
+      "size": 43312
+    },
+    {
+      "name": "resources_sprite_1258",
+      "path": "enemies/resources_sprite_1258.png",
+      "type": "png",
+      "size": 239
+    },
+    {
+      "name": "resources_sprite_1625",
+      "path": "enemies/resources_sprite_1625.png",
+      "type": "png",
+      "size": 2603677
+    },
+    {
+      "name": "resources_sprite_1306",
+      "path": "enemies/resources_sprite_1306.png",
+      "type": "png",
+      "size": 121
+    },
+    {
+      "name": "resources_sprite_1471",
+      "path": "enemies/resources_sprite_1471.png",
+      "type": "png",
+      "size": 3574
+    },
+    {
+      "name": "resources_sprite_1223",
+      "path": "enemies/resources_sprite_1223.png",
+      "type": "png",
+      "size": 2370021
+    },
+    {
+      "name": "resources_sprite_1410",
+      "path": "enemies/resources_sprite_1410.png",
+      "type": "png",
+      "size": 86
+    },
+    {
+      "name": "resources_sprite_1216",
+      "path": "enemies/resources_sprite_1216.png",
+      "type": "png",
+      "size": 355
+    },
+    {
+      "name": "resources_sprite_1292",
+      "path": "enemies/resources_sprite_1292.png",
+      "type": "png",
+      "size": 1170
+    },
+    {
+      "name": "resources_sprite_1876",
+      "path": "enemies/resources_sprite_1876.png",
+      "type": "png",
+      "size": 310
+    },
+    {
+      "name": "resources_sprite_1281",
+      "path": "enemies/resources_sprite_1281.png",
+      "type": "png",
+      "size": 960
+    },
+    {
+      "name": "resources_sprite_1593",
+      "path": "enemies/resources_sprite_1593.png",
+      "type": "png",
+      "size": 1022
+    },
+    {
+      "name": "resources_sprite_1455",
+      "path": "enemies/resources_sprite_1455.png",
+      "type": "png",
+      "size": 256
+    },
+    {
+      "name": "resources_sprite_1705",
+      "path": "enemies/resources_sprite_1705.png",
+      "type": "png",
+      "size": 586
+    },
+    {
+      "name": "resources_sprite_1299",
+      "path": "enemies/resources_sprite_1299.png",
+      "type": "png",
+      "size": 129
+    },
+    {
+      "name": "resources_sprite_1044",
+      "path": "enemies/resources_sprite_1044.png",
+      "type": "png",
+      "size": 529
+    },
+    {
+      "name": "resources_sprite_1060",
+      "path": "enemies/resources_sprite_1060.png",
+      "type": "png",
+      "size": 260
+    },
+    {
+      "name": "resources_sprite_1179",
+      "path": "enemies/resources_sprite_1179.png",
+      "type": "png",
+      "size": 449
+    },
+    {
+      "name": "resources_sprite_1656",
+      "path": "enemies/resources_sprite_1656.png",
+      "type": "png",
+      "size": 9612
+    },
+    {
+      "name": "resources_sprite_1631",
+      "path": "enemies/resources_sprite_1631.png",
+      "type": "png",
+      "size": 1037
+    },
+    {
+      "name": "resources_sprite_1576",
+      "path": "enemies/resources_sprite_1576.png",
+      "type": "png",
+      "size": 236
+    },
+    {
+      "name": "resources_sprite_1040",
+      "path": "enemies/resources_sprite_1040.png",
+      "type": "png",
+      "size": 172
+    },
+    {
+      "name": "resources_sprite_1508",
+      "path": "enemies/resources_sprite_1508.png",
+      "type": "png",
+      "size": 1862
+    },
+    {
+      "name": "resources_sprite_1799",
+      "path": "enemies/resources_sprite_1799.png",
+      "type": "png",
+      "size": 724
+    },
+    {
+      "name": "resources_sprite_1722",
+      "path": "enemies/resources_sprite_1722.png",
+      "type": "png",
+      "size": 291
+    },
+    {
+      "name": "resources_sprite_1847",
+      "path": "enemies/resources_sprite_1847.png",
+      "type": "png",
+      "size": 301
+    },
+    {
+      "name": "resources_sprite_1564",
+      "path": "enemies/resources_sprite_1564.png",
+      "type": "png",
+      "size": 193
+    },
+    {
+      "name": "resources_sprite_1954",
+      "path": "enemies/resources_sprite_1954.png",
+      "type": "png",
+      "size": 459
+    },
+    {
+      "name": "resources_sprite_1406",
+      "path": "enemies/resources_sprite_1406.png",
+      "type": "png",
+      "size": 119
+    },
+    {
+      "name": "resources_sprite_1711",
+      "path": "enemies/resources_sprite_1711.png",
+      "type": "png",
+      "size": 276
+    },
+    {
+      "name": "resources_sprite_1070",
+      "path": "enemies/resources_sprite_1070.png",
+      "type": "png",
+      "size": 257
+    },
+    {
+      "name": "resources_sprite_1860",
+      "path": "enemies/resources_sprite_1860.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1217",
+      "path": "enemies/resources_sprite_1217.png",
+      "type": "png",
+      "size": 944
+    },
+    {
+      "name": "resources_sprite_1540",
+      "path": "enemies/resources_sprite_1540.png",
+      "type": "png",
+      "size": 292
+    },
+    {
+      "name": "resources_sprite_1819",
+      "path": "enemies/resources_sprite_1819.png",
+      "type": "png",
+      "size": 144
+    },
+    {
+      "name": "resources_sprite_1480",
+      "path": "enemies/resources_sprite_1480.png",
+      "type": "png",
+      "size": 1077
+    },
+    {
+      "name": "resources_sprite_1153",
+      "path": "enemies/resources_sprite_1153.png",
+      "type": "png",
+      "size": 407
+    },
+    {
+      "name": "resources_sprite_1361",
+      "path": "enemies/resources_sprite_1361.png",
+      "type": "png",
+      "size": 298
+    },
+    {
+      "name": "resources_sprite_1187",
+      "path": "enemies/resources_sprite_1187.png",
+      "type": "png",
+      "size": 483
+    },
+    {
+      "name": "resources_sprite_1773",
+      "path": "enemies/resources_sprite_1773.png",
+      "type": "png",
+      "size": 1083
+    },
+    {
+      "name": "resources_sprite_1169",
+      "path": "enemies/resources_sprite_1169.png",
+      "type": "png",
+      "size": 1541
+    },
+    {
+      "name": "resources_sprite_1224",
+      "path": "enemies/resources_sprite_1224.png",
+      "type": "png",
+      "size": 223090
+    },
+    {
+      "name": "resources_sprite_1242",
+      "path": "enemies/resources_sprite_1242.png",
+      "type": "png",
+      "size": 1803
+    },
+    {
+      "name": "resources_sprite_1598",
+      "path": "enemies/resources_sprite_1598.png",
+      "type": "png",
+      "size": 317
+    },
+    {
+      "name": "resources_sprite_1759",
+      "path": "enemies/resources_sprite_1759.png",
+      "type": "png",
+      "size": 966
+    },
+    {
+      "name": "resources_sprite_1767",
+      "path": "enemies/resources_sprite_1767.png",
+      "type": "png",
+      "size": 494
+    },
+    {
+      "name": "resources_sprite_1418",
+      "path": "enemies/resources_sprite_1418.png",
+      "type": "png",
+      "size": 22240062
+    },
+    {
+      "name": "resources_sprite_1076",
+      "path": "enemies/resources_sprite_1076.png",
+      "type": "png",
+      "size": 282
+    },
+    {
+      "name": "resources_sprite_1885",
+      "path": "enemies/resources_sprite_1885.png",
+      "type": "png",
+      "size": 317
+    },
+    {
+      "name": "resources_sprite_1720",
+      "path": "enemies/resources_sprite_1720.png",
+      "type": "png",
+      "size": 1204
+    },
+    {
+      "name": "resources_sprite_1331",
+      "path": "enemies/resources_sprite_1331.png",
+      "type": "png",
+      "size": 156
+    },
+    {
+      "name": "resources_sprite_1354",
+      "path": "enemies/resources_sprite_1354.png",
+      "type": "png",
+      "size": 466
+    },
+    {
+      "name": "resources_sprite_1343",
+      "path": "enemies/resources_sprite_1343.png",
+      "type": "png",
+      "size": 117
+    },
+    {
+      "name": "resources_sprite_1365",
+      "path": "enemies/resources_sprite_1365.png",
+      "type": "png",
+      "size": 215
+    },
+    {
+      "name": "resources_sprite_1580",
+      "path": "enemies/resources_sprite_1580.png",
+      "type": "png",
+      "size": 229
+    },
+    {
+      "name": "resources_sprite_1662",
+      "path": "enemies/resources_sprite_1662.png",
+      "type": "png",
+      "size": 1080
+    },
+    {
+      "name": "resources_sprite_1248",
+      "path": "enemies/resources_sprite_1248.png",
+      "type": "png",
+      "size": 258
+    },
+    {
+      "name": "resources_sprite_1802",
+      "path": "enemies/resources_sprite_1802.png",
+      "type": "png",
+      "size": 10020
+    },
+    {
+      "name": "sharedassets4_sprite_66",
+      "path": "enemies/sharedassets4_sprite_66.png",
+      "type": "png",
+      "size": 350
+    },
+    {
+      "name": "resources_sprite_1490",
+      "path": "enemies/resources_sprite_1490.png",
+      "type": "png",
+      "size": 114
+    },
+    {
+      "name": "resources_sprite_1792",
+      "path": "enemies/resources_sprite_1792.png",
+      "type": "png",
+      "size": 2032
+    },
+    {
+      "name": "resources_sprite_1167",
+      "path": "enemies/resources_sprite_1167.png",
+      "type": "png",
+      "size": 668
+    },
+    {
+      "name": "resources_sprite_1911",
+      "path": "enemies/resources_sprite_1911.png",
+      "type": "png",
+      "size": 569
+    },
+    {
+      "name": "resources_sprite_1952",
+      "path": "enemies/resources_sprite_1952.png",
+      "type": "png",
+      "size": 326
+    },
+    {
+      "name": "resources_sprite_1300",
+      "path": "enemies/resources_sprite_1300.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_sprite_1244",
+      "path": "enemies/resources_sprite_1244.png",
+      "type": "png",
+      "size": 113649
+    },
+    {
+      "name": "resources_sprite_1674",
+      "path": "enemies/resources_sprite_1674.png",
+      "type": "png",
+      "size": 106
+    },
+    {
+      "name": "resources_sprite_1870",
+      "path": "enemies/resources_sprite_1870.png",
+      "type": "png",
+      "size": 457
+    },
+    {
+      "name": "resources_sprite_1078",
+      "path": "enemies/resources_sprite_1078.png",
+      "type": "png",
+      "size": 431
+    },
+    {
+      "name": "resources_sprite_1409",
+      "path": "enemies/resources_sprite_1409.png",
+      "type": "png",
+      "size": 201
+    },
+    {
+      "name": "resources_sprite_1517",
+      "path": "enemies/resources_sprite_1517.png",
+      "type": "png",
+      "size": 115
+    },
+    {
+      "name": "resources_sprite_1837",
+      "path": "enemies/resources_sprite_1837.png",
+      "type": "png",
+      "size": 428
+    },
+    {
+      "name": "resources_sprite_1688",
+      "path": "enemies/resources_sprite_1688.png",
+      "type": "png",
+      "size": 72417
+    },
+    {
+      "name": "resources_sprite_1303",
+      "path": "enemies/resources_sprite_1303.png",
+      "type": "png",
+      "size": 208
+    },
+    {
+      "name": "resources_sprite_1031",
+      "path": "enemies/resources_sprite_1031.png",
+      "type": "png",
+      "size": 301
+    },
+    {
+      "name": "resources_sprite_1542",
+      "path": "enemies/resources_sprite_1542.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1877",
+      "path": "enemies/resources_sprite_1877.png",
+      "type": "png",
+      "size": 254
+    },
+    {
+      "name": "resources_sprite_1560",
+      "path": "enemies/resources_sprite_1560.png",
+      "type": "png",
+      "size": 168
+    },
+    {
+      "name": "resources_sprite_1730",
+      "path": "enemies/resources_sprite_1730.png",
+      "type": "png",
+      "size": 231505
+    },
+    {
+      "name": "resources_sprite_1556",
+      "path": "enemies/resources_sprite_1556.png",
+      "type": "png",
+      "size": 1036
+    },
+    {
+      "name": "resources_sprite_1775",
+      "path": "enemies/resources_sprite_1775.png",
+      "type": "png",
+      "size": 1231
+    },
+    {
+      "name": "resources_sprite_1109",
+      "path": "enemies/resources_sprite_1109.png",
+      "type": "png",
+      "size": 270
+    },
+    {
+      "name": "resources_sprite_1049",
+      "path": "enemies/resources_sprite_1049.png",
+      "type": "png",
+      "size": 371
+    },
+    {
+      "name": "resources_sprite_1795",
+      "path": "enemies/resources_sprite_1795.png",
+      "type": "png",
+      "size": 182
+    },
+    {
+      "name": "resources_sprite_1561",
+      "path": "enemies/resources_sprite_1561.png",
+      "type": "png",
+      "size": 2535235
+    },
+    {
+      "name": "resources_sprite_1422",
+      "path": "enemies/resources_sprite_1422.png",
+      "type": "png",
+      "size": 606
+    },
+    {
+      "name": "resources_sprite_1290",
+      "path": "enemies/resources_sprite_1290.png",
+      "type": "png",
+      "size": 390
+    },
+    {
+      "name": "resources_sprite_1075",
+      "path": "enemies/resources_sprite_1075.png",
+      "type": "png",
+      "size": 450
+    },
+    {
+      "name": "resources_sprite_1744",
+      "path": "enemies/resources_sprite_1744.png",
+      "type": "png",
+      "size": 111
+    },
+    {
+      "name": "sharedassets1_sprite_64",
+      "path": "enemies/sharedassets1_sprite_64.png",
+      "type": "png",
+      "size": 895710
+    },
+    {
+      "name": "resources_sprite_1497",
+      "path": "enemies/resources_sprite_1497.png",
+      "type": "png",
+      "size": 138
+    },
+    {
+      "name": "resources_sprite_1537",
+      "path": "enemies/resources_sprite_1537.png",
+      "type": "png",
+      "size": 282
+    },
+    {
+      "name": "resources_sprite_1803",
+      "path": "enemies/resources_sprite_1803.png",
+      "type": "png",
+      "size": 135665
+    },
+    {
+      "name": "resources_sprite_1535",
+      "path": "enemies/resources_sprite_1535.png",
+      "type": "png",
+      "size": 911
+    },
+    {
+      "name": "resources_sprite_1470",
+      "path": "enemies/resources_sprite_1470.png",
+      "type": "png",
+      "size": 966
+    },
+    {
+      "name": "resources_sprite_1619",
+      "path": "enemies/resources_sprite_1619.png",
+      "type": "png",
+      "size": 737
+    },
+    {
+      "name": "resources_sprite_1263",
+      "path": "enemies/resources_sprite_1263.png",
+      "type": "png",
+      "size": 769
+    },
+    {
+      "name": "resources_sprite_1215",
+      "path": "enemies/resources_sprite_1215.png",
+      "type": "png",
+      "size": 2642366
+    },
+    {
+      "name": "resources_sprite_1395",
+      "path": "enemies/resources_sprite_1395.png",
+      "type": "png",
+      "size": 285
+    },
+    {
+      "name": "resources_sprite_1910",
+      "path": "enemies/resources_sprite_1910.png",
+      "type": "png",
+      "size": 567
+    },
+    {
+      "name": "resources_sprite_1788",
+      "path": "enemies/resources_sprite_1788.png",
+      "type": "png",
+      "size": 1157
+    },
+    {
+      "name": "resources_sprite_1119",
+      "path": "enemies/resources_sprite_1119.png",
+      "type": "png",
+      "size": 439
+    },
+    {
+      "name": "resources_sprite_1708",
+      "path": "enemies/resources_sprite_1708.png",
+      "type": "png",
+      "size": 421
+    },
+    {
+      "name": "resources_sprite_1827",
+      "path": "enemies/resources_sprite_1827.png",
+      "type": "png",
+      "size": 280
+    },
+    {
+      "name": "resources_sprite_1668",
+      "path": "enemies/resources_sprite_1668.png",
+      "type": "png",
+      "size": 116
+    },
+    {
+      "name": "resources_sprite_1499",
+      "path": "enemies/resources_sprite_1499.png",
+      "type": "png",
+      "size": 369
+    },
+    {
+      "name": "resources_sprite_1028",
+      "path": "enemies/resources_sprite_1028.png",
+      "type": "png",
+      "size": 460
+    },
+    {
+      "name": "resources_sprite_1869",
+      "path": "enemies/resources_sprite_1869.png",
+      "type": "png",
+      "size": 166
+    },
+    {
+      "name": "resources_sprite_1182",
+      "path": "enemies/resources_sprite_1182.png",
+      "type": "png",
+      "size": 241
+    },
+    {
+      "name": "resources_sprite_1841",
+      "path": "enemies/resources_sprite_1841.png",
+      "type": "png",
+      "size": 433
+    },
+    {
+      "name": "resources_sprite_1854",
+      "path": "enemies/resources_sprite_1854.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1291",
+      "path": "enemies/resources_sprite_1291.png",
+      "type": "png",
+      "size": 71953
+    },
+    {
+      "name": "resources_sprite_1583",
+      "path": "enemies/resources_sprite_1583.png",
+      "type": "png",
+      "size": 93477
+    },
+    {
+      "name": "resources_sprite_1821",
+      "path": "enemies/resources_sprite_1821.png",
+      "type": "png",
+      "size": 136
+    },
+    {
+      "name": "resources_sprite_1352",
+      "path": "enemies/resources_sprite_1352.png",
+      "type": "png",
+      "size": 1069
+    },
+    {
+      "name": "resources_sprite_1284",
+      "path": "enemies/resources_sprite_1284.png",
+      "type": "png",
+      "size": 131
+    },
+    {
+      "name": "resources_sprite_1789",
+      "path": "enemies/resources_sprite_1789.png",
+      "type": "png",
+      "size": 233
+    },
+    {
+      "name": "resources_sprite_1056",
+      "path": "enemies/resources_sprite_1056.png",
+      "type": "png",
+      "size": 310
+    },
+    {
+      "name": "resources_sprite_1460",
+      "path": "enemies/resources_sprite_1460.png",
+      "type": "png",
+      "size": 1080
+    },
+    {
+      "name": "resources_sprite_1211",
+      "path": "enemies/resources_sprite_1211.png",
+      "type": "png",
+      "size": 3554
+    },
+    {
+      "name": "resources_sprite_1071",
+      "path": "enemies/resources_sprite_1071.png",
+      "type": "png",
+      "size": 304
+    },
+    {
+      "name": "resources_sprite_1669",
+      "path": "enemies/resources_sprite_1669.png",
+      "type": "png",
+      "size": 283
+    },
+    {
+      "name": "resources_sprite_1114",
+      "path": "enemies/resources_sprite_1114.png",
+      "type": "png",
+      "size": 233
+    },
+    {
+      "name": "resources_sprite_1588",
+      "path": "enemies/resources_sprite_1588.png",
+      "type": "png",
+      "size": 5926
+    },
+    {
+      "name": "resources_sprite_1193",
+      "path": "enemies/resources_sprite_1193.png",
+      "type": "png",
+      "size": 279
+    },
+    {
+      "name": "resources_sprite_1271",
+      "path": "enemies/resources_sprite_1271.png",
+      "type": "png",
+      "size": 70
+    },
+    {
+      "name": "resources_sprite_1232",
+      "path": "enemies/resources_sprite_1232.png",
+      "type": "png",
+      "size": 1103
+    },
+    {
+      "name": "resources_sprite_1259",
+      "path": "enemies/resources_sprite_1259.png",
+      "type": "png",
+      "size": 1541
+    },
+    {
+      "name": "resources_sprite_1733",
+      "path": "enemies/resources_sprite_1733.png",
+      "type": "png",
+      "size": 574
+    },
+    {
+      "name": "resources_sprite_1358",
+      "path": "enemies/resources_sprite_1358.png",
+      "type": "png",
+      "size": 240316
+    },
+    {
+      "name": "resources_sprite_1373",
+      "path": "enemies/resources_sprite_1373.png",
+      "type": "png",
+      "size": 104
+    },
+    {
+      "name": "resources_sprite_1829",
+      "path": "enemies/resources_sprite_1829.png",
+      "type": "png",
+      "size": 129
+    },
+    {
+      "name": "resources_sprite_1904",
+      "path": "enemies/resources_sprite_1904.png",
+      "type": "png",
+      "size": 140
+    },
+    {
+      "name": "resources_sprite_1569",
+      "path": "enemies/resources_sprite_1569.png",
+      "type": "png",
+      "size": 457
+    },
+    {
+      "name": "resources_sprite_1762",
+      "path": "enemies/resources_sprite_1762.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1940",
+      "path": "enemies/resources_sprite_1940.png",
+      "type": "png",
+      "size": 395
+    },
+    {
+      "name": "resources_sprite_1376",
+      "path": "enemies/resources_sprite_1376.png",
+      "type": "png",
+      "size": 1134
+    },
+    {
+      "name": "resources_sprite_1914",
+      "path": "enemies/resources_sprite_1914.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_sprite_1209",
+      "path": "enemies/resources_sprite_1209.png",
+      "type": "png",
+      "size": 1535321
+    },
+    {
+      "name": "resources_sprite_1496",
+      "path": "enemies/resources_sprite_1496.png",
+      "type": "png",
+      "size": 140
+    },
+    {
+      "name": "resources_sprite_1324",
+      "path": "enemies/resources_sprite_1324.png",
+      "type": "png",
+      "size": 1801
+    },
+    {
+      "name": "resources_sprite_1285",
+      "path": "enemies/resources_sprite_1285.png",
+      "type": "png",
+      "size": 228
+    },
+    {
+      "name": "resources_sprite_1452",
+      "path": "enemies/resources_sprite_1452.png",
+      "type": "png",
+      "size": 861
+    },
+    {
+      "name": "resources_sprite_1185",
+      "path": "enemies/resources_sprite_1185.png",
+      "type": "png",
+      "size": 1137
+    },
+    {
+      "name": "resources_sprite_1239",
+      "path": "enemies/resources_sprite_1239.png",
+      "type": "png",
+      "size": 171
+    },
+    {
+      "name": "resources_sprite_1689",
+      "path": "enemies/resources_sprite_1689.png",
+      "type": "png",
+      "size": 212082
+    },
+    {
+      "name": "resources_sprite_1729",
+      "path": "enemies/resources_sprite_1729.png",
+      "type": "png",
+      "size": 170
+    },
+    {
+      "name": "resources_sprite_1645",
+      "path": "enemies/resources_sprite_1645.png",
+      "type": "png",
+      "size": 191
+    },
+    {
+      "name": "resources_sprite_1779",
+      "path": "enemies/resources_sprite_1779.png",
+      "type": "png",
+      "size": 879
+    },
+    {
+      "name": "resources_sprite_1386",
+      "path": "enemies/resources_sprite_1386.png",
+      "type": "png",
+      "size": 241689
+    },
+    {
+      "name": "resources_sprite_1456",
+      "path": "enemies/resources_sprite_1456.png",
+      "type": "png",
+      "size": 229
+    },
+    {
+      "name": "resources_sprite_1922",
+      "path": "enemies/resources_sprite_1922.png",
+      "type": "png",
+      "size": 642
+    },
+    {
+      "name": "resources_sprite_1127",
+      "path": "enemies/resources_sprite_1127.png",
+      "type": "png",
+      "size": 319
+    },
+    {
+      "name": "resources_sprite_1345",
+      "path": "enemies/resources_sprite_1345.png",
+      "type": "png",
+      "size": 1240
+    },
+    {
+      "name": "resources_sprite_1582",
+      "path": "enemies/resources_sprite_1582.png",
+      "type": "png",
+      "size": 1059
+    },
+    {
+      "name": "resources_sprite_1360",
+      "path": "enemies/resources_sprite_1360.png",
+      "type": "png",
+      "size": 143
+    },
+    {
+      "name": "resources_sprite_1204",
+      "path": "enemies/resources_sprite_1204.png",
+      "type": "png",
+      "size": 149
+    },
+    {
+      "name": "resources_sprite_1621",
+      "path": "enemies/resources_sprite_1621.png",
+      "type": "png",
+      "size": 217
+    },
+    {
+      "name": "resources_sprite_1218",
+      "path": "enemies/resources_sprite_1218.png",
+      "type": "png",
+      "size": 228902
+    },
+    {
+      "name": "resources_sprite_1647",
+      "path": "enemies/resources_sprite_1647.png",
+      "type": "png",
+      "size": 145
+    },
+    {
+      "name": "resources_sprite_1858",
+      "path": "enemies/resources_sprite_1858.png",
+      "type": "png",
+      "size": 357
+    },
+    {
+      "name": "resources_sprite_1545",
+      "path": "enemies/resources_sprite_1545.png",
+      "type": "png",
+      "size": 20087
+    },
+    {
+      "name": "resources_sprite_1714",
+      "path": "enemies/resources_sprite_1714.png",
+      "type": "png",
+      "size": 351
+    },
+    {
+      "name": "resources_sprite_1584",
+      "path": "enemies/resources_sprite_1584.png",
+      "type": "png",
+      "size": 2020786
+    },
+    {
+      "name": "resources_sprite_1808",
+      "path": "enemies/resources_sprite_1808.png",
+      "type": "png",
+      "size": 1069
+    },
+    {
+      "name": "resources_sprite_1778",
+      "path": "enemies/resources_sprite_1778.png",
+      "type": "png",
+      "size": 130
+    },
+    {
+      "name": "resources_sprite_1120",
+      "path": "enemies/resources_sprite_1120.png",
+      "type": "png",
+      "size": 269
+    },
+    {
+      "name": "sharedassets4_sprite_73",
+      "path": "enemies/sharedassets4_sprite_73.png",
+      "type": "png",
+      "size": 408
+    },
+    {
+      "name": "resources_sprite_1110",
+      "path": "enemies/resources_sprite_1110.png",
+      "type": "png",
+      "size": 383
+    },
+    {
+      "name": "resources_sprite_1921",
+      "path": "enemies/resources_sprite_1921.png",
+      "type": "png",
+      "size": 496
+    },
+    {
+      "name": "resources_sprite_1122",
+      "path": "enemies/resources_sprite_1122.png",
+      "type": "png",
+      "size": 405
+    },
+    {
+      "name": "resources_sprite_1615",
+      "path": "enemies/resources_sprite_1615.png",
+      "type": "png",
+      "size": 734
+    },
+    {
+      "name": "resources_sprite_1811",
+      "path": "enemies/resources_sprite_1811.png",
+      "type": "png",
+      "size": 971
+    },
+    {
+      "name": "resources_sprite_1064",
+      "path": "enemies/resources_sprite_1064.png",
+      "type": "png",
+      "size": 323
+    },
+    {
+      "name": "resources_sprite_1421",
+      "path": "enemies/resources_sprite_1421.png",
+      "type": "png",
+      "size": 1080
+    },
+    {
+      "name": "resources_sprite_1595",
+      "path": "enemies/resources_sprite_1595.png",
+      "type": "png",
+      "size": 226969
+    },
+    {
+      "name": "resources_sprite_1089",
+      "path": "enemies/resources_sprite_1089.png",
+      "type": "png",
+      "size": 345
+    },
+    {
+      "name": "resources_sprite_1894",
+      "path": "enemies/resources_sprite_1894.png",
+      "type": "png",
+      "size": 376
+    },
+    {
+      "name": "resources_sprite_1100",
+      "path": "enemies/resources_sprite_1100.png",
+      "type": "png",
+      "size": 298
+    },
+    {
+      "name": "resources_sprite_1309",
+      "path": "enemies/resources_sprite_1309.png",
+      "type": "png",
+      "size": 175
+    },
+    {
+      "name": "resources_sprite_1132",
+      "path": "enemies/resources_sprite_1132.png",
+      "type": "png",
+      "size": 410
+    },
+    {
+      "name": "resources_sprite_1272",
+      "path": "enemies/resources_sprite_1272.png",
+      "type": "png",
+      "size": 214187
+    },
+    {
+      "name": "resources_sprite_1859",
+      "path": "enemies/resources_sprite_1859.png",
+      "type": "png",
+      "size": 476
+    },
+    {
+      "name": "resources_sprite_1178",
+      "path": "enemies/resources_sprite_1178.png",
+      "type": "png",
+      "size": 513
+    },
+    {
+      "name": "resources_sprite_1654",
+      "path": "enemies/resources_sprite_1654.png",
+      "type": "png",
+      "size": 576
+    },
+    {
+      "name": "resources_sprite_1927",
+      "path": "enemies/resources_sprite_1927.png",
+      "type": "png",
+      "size": 390
+    },
+    {
+      "name": "resources_sprite_1608",
+      "path": "enemies/resources_sprite_1608.png",
+      "type": "png",
+      "size": 363
+    },
+    {
+      "name": "resources_sprite_1807",
+      "path": "enemies/resources_sprite_1807.png",
+      "type": "png",
+      "size": 144
+    },
+    {
+      "name": "resources_sprite_1862",
+      "path": "enemies/resources_sprite_1862.png",
+      "type": "png",
+      "size": 293
+    },
+    {
+      "name": "resources_sprite_1918",
+      "path": "enemies/resources_sprite_1918.png",
+      "type": "png",
+      "size": 446
+    },
+    {
+      "name": "resources_sprite_1937",
+      "path": "enemies/resources_sprite_1937.png",
+      "type": "png",
+      "size": 447
+    },
+    {
+      "name": "resources_sprite_1601",
+      "path": "enemies/resources_sprite_1601.png",
+      "type": "png",
+      "size": 206
+    },
+    {
+      "name": "resources_sprite_1637",
+      "path": "enemies/resources_sprite_1637.png",
+      "type": "png",
+      "size": 338
+    },
+    {
+      "name": "resources_sprite_1818",
+      "path": "enemies/resources_sprite_1818.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1800",
+      "path": "enemies/resources_sprite_1800.png",
+      "type": "png",
+      "size": 290
+    },
+    {
+      "name": "resources_sprite_1466",
+      "path": "enemies/resources_sprite_1466.png",
+      "type": "png",
+      "size": 110
+    },
+    {
+      "name": "resources_sprite_1118",
+      "path": "enemies/resources_sprite_1118.png",
+      "type": "png",
+      "size": 446
+    },
+    {
+      "name": "resources_sprite_1430",
+      "path": "enemies/resources_sprite_1430.png",
+      "type": "png",
+      "size": 680
+    },
+    {
+      "name": "resources_sprite_1401",
+      "path": "enemies/resources_sprite_1401.png",
+      "type": "png",
+      "size": 1213
+    },
+    {
+      "name": "resources_sprite_1267",
+      "path": "enemies/resources_sprite_1267.png",
+      "type": "png",
+      "size": 505
+    },
+    {
+      "name": "resources_sprite_1462",
+      "path": "enemies/resources_sprite_1462.png",
+      "type": "png",
+      "size": 264004
+    },
+    {
+      "name": "resources_sprite_1164",
+      "path": "enemies/resources_sprite_1164.png",
+      "type": "png",
+      "size": 427
+    },
+    {
+      "name": "resources_sprite_1526",
+      "path": "enemies/resources_sprite_1526.png",
+      "type": "png",
+      "size": 3054263
+    },
+    {
+      "name": "resources_sprite_1610",
+      "path": "enemies/resources_sprite_1610.png",
+      "type": "png",
+      "size": 1273
+    },
+    {
+      "name": "sharedassets1_sprite_73",
+      "path": "enemies/sharedassets1_sprite_73.png",
+      "type": "png",
+      "size": 649
+    },
+    {
+      "name": "resources_sprite_1236",
+      "path": "enemies/resources_sprite_1236.png",
+      "type": "png",
+      "size": 386
+    },
+    {
+      "name": "resources_sprite_1843",
+      "path": "enemies/resources_sprite_1843.png",
+      "type": "png",
+      "size": 327
+    },
+    {
+      "name": "resources_sprite_1602",
+      "path": "enemies/resources_sprite_1602.png",
+      "type": "png",
+      "size": 122
+    },
+    {
+      "name": "resources_sprite_1930",
+      "path": "enemies/resources_sprite_1930.png",
+      "type": "png",
+      "size": 328
+    },
+    {
+      "name": "resources_sprite_1477",
+      "path": "enemies/resources_sprite_1477.png",
+      "type": "png",
+      "size": 922
+    },
+    {
+      "name": "resources_sprite_1550",
+      "path": "enemies/resources_sprite_1550.png",
+      "type": "png",
+      "size": 1132
+    },
+    {
+      "name": "resources_sprite_1750",
+      "path": "enemies/resources_sprite_1750.png",
+      "type": "png",
+      "size": 200
+    },
+    {
+      "name": "resources_sprite_1745",
+      "path": "enemies/resources_sprite_1745.png",
+      "type": "png",
+      "size": 1052
+    },
+    {
+      "name": "resources_sprite_1797",
+      "path": "enemies/resources_sprite_1797.png",
+      "type": "png",
+      "size": 471
+    },
+    {
+      "name": "resources_sprite_1643",
+      "path": "enemies/resources_sprite_1643.png",
+      "type": "png",
+      "size": 164
+    },
+    {
+      "name": "resources_sprite_1080",
+      "path": "enemies/resources_sprite_1080.png",
+      "type": "png",
+      "size": 333
+    },
+    {
+      "name": "resources_sprite_1913",
+      "path": "enemies/resources_sprite_1913.png",
+      "type": "png",
+      "size": 409
+    },
+    {
+      "name": "resources_sprite_1901",
+      "path": "enemies/resources_sprite_1901.png",
+      "type": "png",
+      "size": 169
+    },
+    {
+      "name": "resources_sprite_1257",
+      "path": "enemies/resources_sprite_1257.png",
+      "type": "png",
+      "size": 221
+    },
+    {
+      "name": "sharedassets3_sprite_7",
+      "path": "enemies/sharedassets3_sprite_7.png",
+      "type": "png",
+      "size": 14594
+    },
+    {
+      "name": "resources_sprite_1461",
+      "path": "enemies/resources_sprite_1461.png",
+      "type": "png",
+      "size": 239
+    },
+    {
+      "name": "resources_sprite_1287",
+      "path": "enemies/resources_sprite_1287.png",
+      "type": "png",
+      "size": 903
+    },
+    {
+      "name": "resources_sprite_1294",
+      "path": "enemies/resources_sprite_1294.png",
+      "type": "png",
+      "size": 255
+    },
+    {
+      "name": "resources_sprite_1465",
+      "path": "enemies/resources_sprite_1465.png",
+      "type": "png",
+      "size": 294
+    },
+    {
+      "name": "resources_sprite_1414",
+      "path": "enemies/resources_sprite_1414.png",
+      "type": "png",
+      "size": 2732750
+    },
+    {
+      "name": "resources_sprite_1082",
+      "path": "enemies/resources_sprite_1082.png",
+      "type": "png",
+      "size": 265
+    },
+    {
+      "name": "resources_sprite_1529",
+      "path": "enemies/resources_sprite_1529.png",
+      "type": "png",
+      "size": 43500
+    },
+    {
+      "name": "resources_sprite_1348",
+      "path": "enemies/resources_sprite_1348.png",
+      "type": "png",
+      "size": 123
+    },
+    {
+      "name": "resources_sprite_1276",
+      "path": "enemies/resources_sprite_1276.png",
+      "type": "png",
+      "size": 2284
+    },
+    {
+      "name": "resources_sprite_1107",
+      "path": "enemies/resources_sprite_1107.png",
+      "type": "png",
+      "size": 438
+    },
+    {
+      "name": "resources_sprite_1403",
+      "path": "enemies/resources_sprite_1403.png",
+      "type": "png",
+      "size": 471
+    },
+    {
+      "name": "resources_sprite_1581",
+      "path": "enemies/resources_sprite_1581.png",
+      "type": "png",
+      "size": 233
+    },
+    {
+      "name": "resources_sprite_1627",
+      "path": "enemies/resources_sprite_1627.png",
+      "type": "png",
+      "size": 121
+    },
+    {
+      "name": "resources_sprite_1378",
+      "path": "enemies/resources_sprite_1378.png",
+      "type": "png",
+      "size": 157
+    },
+    {
+      "name": "resources_sprite_1878",
+      "path": "enemies/resources_sprite_1878.png",
+      "type": "png",
+      "size": 458
+    },
+    {
+      "name": "resources_sprite_1936",
+      "path": "enemies/resources_sprite_1936.png",
+      "type": "png",
+      "size": 413
+    },
+    {
+      "name": "resources_sprite_1624",
+      "path": "enemies/resources_sprite_1624.png",
+      "type": "png",
+      "size": 77593
+    },
+    {
+      "name": "resources_sprite_1325",
+      "path": "enemies/resources_sprite_1325.png",
+      "type": "png",
+      "size": 212
+    },
+    {
+      "name": "resources_sprite_1895",
+      "path": "enemies/resources_sprite_1895.png",
+      "type": "png",
+      "size": 249
+    },
+    {
+      "name": "resources_sprite_1853",
+      "path": "enemies/resources_sprite_1853.png",
+      "type": "png",
+      "size": 323
+    },
+    {
+      "name": "resources_sprite_1579",
+      "path": "enemies/resources_sprite_1579.png",
+      "type": "png",
+      "size": 484
+    },
+    {
+      "name": "resources_sprite_1626",
+      "path": "enemies/resources_sprite_1626.png",
+      "type": "png",
+      "size": 1079
+    },
+    {
+      "name": "resources_sprite_1369",
+      "path": "enemies/resources_sprite_1369.png",
+      "type": "png",
+      "size": 130
+    },
+    {
+      "name": "resources_sprite_1190",
+      "path": "enemies/resources_sprite_1190.png",
+      "type": "png",
+      "size": 107048
+    },
+    {
+      "name": "resources_sprite_1753",
+      "path": "enemies/resources_sprite_1753.png",
+      "type": "png",
+      "size": 1189
+    },
+    {
+      "name": "resources_sprite_1371",
+      "path": "enemies/resources_sprite_1371.png",
+      "type": "png",
+      "size": 984
+    },
+    {
+      "name": "resources_sprite_1634",
+      "path": "enemies/resources_sprite_1634.png",
+      "type": "png",
+      "size": 1022
+    },
+    {
+      "name": "resources_sprite_1781",
+      "path": "enemies/resources_sprite_1781.png",
+      "type": "png",
+      "size": 388
+    },
+    {
+      "name": "resources_sprite_1149",
+      "path": "enemies/resources_sprite_1149.png",
+      "type": "png",
+      "size": 431
+    },
+    {
+      "name": "resources_sprite_1888",
+      "path": "enemies/resources_sprite_1888.png",
+      "type": "png",
+      "size": 347
+    },
+    {
+      "name": "resources_sprite_1482",
+      "path": "enemies/resources_sprite_1482.png",
+      "type": "png",
+      "size": 256115
+    },
+    {
+      "name": "resources_sprite_1772",
+      "path": "enemies/resources_sprite_1772.png",
+      "type": "png",
+      "size": 78
+    },
+    {
+      "name": "resources_sprite_1208",
+      "path": "enemies/resources_sprite_1208.png",
+      "type": "png",
+      "size": 2254
+    },
+    {
+      "name": "resources_sprite_1906",
+      "path": "enemies/resources_sprite_1906.png",
+      "type": "png",
+      "size": 317
+    },
+    {
+      "name": "resources_sprite_1848",
+      "path": "enemies/resources_sprite_1848.png",
+      "type": "png",
+      "size": 303
+    },
+    {
+      "name": "resources_sprite_1663",
+      "path": "enemies/resources_sprite_1663.png",
+      "type": "png",
+      "size": 226
+    },
+    {
+      "name": "resources_sprite_1404",
+      "path": "enemies/resources_sprite_1404.png",
+      "type": "png",
+      "size": 586
+    },
+    {
+      "name": "resources_sprite_1687",
+      "path": "enemies/resources_sprite_1687.png",
+      "type": "png",
+      "size": 2169
+    },
+    {
+      "name": "resources_sprite_1366",
+      "path": "enemies/resources_sprite_1366.png",
+      "type": "png",
+      "size": 80
+    },
+    {
+      "name": "resources_sprite_1825",
+      "path": "enemies/resources_sprite_1825.png",
+      "type": "png",
+      "size": 1060
+    },
+    {
+      "name": "resources_sprite_1907",
+      "path": "enemies/resources_sprite_1907.png",
+      "type": "png",
+      "size": 282
+    },
+    {
+      "name": "resources_sprite_1433",
+      "path": "enemies/resources_sprite_1433.png",
+      "type": "png",
+      "size": 207
+    },
+    {
+      "name": "resources_sprite_1871",
+      "path": "enemies/resources_sprite_1871.png",
+      "type": "png",
+      "size": 353
+    },
+    {
+      "name": "resources_sprite_1270",
+      "path": "enemies/resources_sprite_1270.png",
+      "type": "png",
+      "size": 115
+    },
+    {
+      "name": "resources_sprite_1095",
+      "path": "enemies/resources_sprite_1095.png",
+      "type": "png",
+      "size": 328
+    },
+    {
+      "name": "resources_sprite_1277",
+      "path": "enemies/resources_sprite_1277.png",
+      "type": "png",
+      "size": 206
+    },
+    {
+      "name": "resources_sprite_1142",
+      "path": "enemies/resources_sprite_1142.png",
+      "type": "png",
+      "size": 292
+    },
+    {
+      "name": "resources_sprite_1919",
+      "path": "enemies/resources_sprite_1919.png",
+      "type": "png",
+      "size": 440
+    },
+    {
+      "name": "resources_sprite_1897",
+      "path": "enemies/resources_sprite_1897.png",
+      "type": "png",
+      "size": 275
+    },
+    {
+      "name": "resources_sprite_1830",
+      "path": "enemies/resources_sprite_1830.png",
+      "type": "png",
+      "size": 532
+    },
+    {
+      "name": "resources_sprite_1754",
+      "path": "enemies/resources_sprite_1754.png",
+      "type": "png",
+      "size": 256
+    },
+    {
+      "name": "resources_sprite_1212",
+      "path": "enemies/resources_sprite_1212.png",
+      "type": "png",
+      "size": 171
+    },
+    {
+      "name": "resources_sprite_1809",
+      "path": "enemies/resources_sprite_1809.png",
+      "type": "png",
+      "size": 168
+    },
+    {
+      "name": "resources_sprite_1875",
+      "path": "enemies/resources_sprite_1875.png",
+      "type": "png",
+      "size": 324
+    },
+    {
+      "name": "resources_sprite_1434",
+      "path": "enemies/resources_sprite_1434.png",
+      "type": "png",
+      "size": 41981
+    },
+    {
+      "name": "resources_sprite_1092",
+      "path": "enemies/resources_sprite_1092.png",
+      "type": "png",
+      "size": 315
+    },
+    {
+      "name": "resources_sprite_1043",
+      "path": "enemies/resources_sprite_1043.png",
+      "type": "png",
+      "size": 290
+    },
+    {
+      "name": "resources_sprite_1033",
+      "path": "enemies/resources_sprite_1033.png",
+      "type": "png",
+      "size": 445
+    },
+    {
+      "name": "resources_sprite_1575",
+      "path": "enemies/resources_sprite_1575.png",
+      "type": "png",
+      "size": 313
+    },
+    {
+      "name": "resources_sprite_1225",
+      "path": "enemies/resources_sprite_1225.png",
+      "type": "png",
+      "size": 114
+    },
+    {
+      "name": "sharedassets4_sprite_63",
+      "path": "enemies/sharedassets4_sprite_63.png",
+      "type": "png",
+      "size": 411
+    },
+    {
+      "name": "resources_sprite_1884",
+      "path": "enemies/resources_sprite_1884.png",
+      "type": "png",
+      "size": 141
+    },
+    {
+      "name": "resources_sprite_1205",
+      "path": "enemies/resources_sprite_1205.png",
+      "type": "png",
+      "size": 1142
+    },
+    {
+      "name": "resources_sprite_1405",
+      "path": "enemies/resources_sprite_1405.png",
+      "type": "png",
+      "size": 235
+    },
+    {
+      "name": "resources_sprite_1574",
+      "path": "enemies/resources_sprite_1574.png",
+      "type": "png",
+      "size": 166
+    },
+    {
+      "name": "resources_sprite_1280",
+      "path": "enemies/resources_sprite_1280.png",
+      "type": "png",
+      "size": 468
+    },
+    {
+      "name": "resources_sprite_1557",
+      "path": "enemies/resources_sprite_1557.png",
+      "type": "png",
+      "size": 62708
+    },
+    {
+      "name": "resources_sprite_1427",
+      "path": "enemies/resources_sprite_1427.png",
+      "type": "png",
+      "size": 135
+    },
+    {
+      "name": "resources_sprite_1088",
+      "path": "enemies/resources_sprite_1088.png",
+      "type": "png",
+      "size": 505
+    },
+    {
+      "name": "resources_sprite_1683",
+      "path": "enemies/resources_sprite_1683.png",
+      "type": "png",
+      "size": 212
+    },
+    {
+      "name": "resources_sprite_1473",
+      "path": "enemies/resources_sprite_1473.png",
+      "type": "png",
+      "size": 214
+    },
+    {
+      "name": "resources_sprite_1507",
+      "path": "enemies/resources_sprite_1507.png",
+      "type": "png",
+      "size": 13161
+    },
+    {
+      "name": "resources_sprite_1667",
+      "path": "enemies/resources_sprite_1667.png",
+      "type": "png",
+      "size": 349
+    },
+    {
+      "name": "resources_sprite_1798",
+      "path": "enemies/resources_sprite_1798.png",
+      "type": "png",
+      "size": 206
+    },
+    {
+      "name": "resources_sprite_1435",
+      "path": "enemies/resources_sprite_1435.png",
+      "type": "png",
+      "size": 772
+    },
+    {
+      "name": "resources_sprite_1301",
+      "path": "enemies/resources_sprite_1301.png",
+      "type": "png",
+      "size": 615
+    },
+    {
+      "name": "resources_sprite_1351",
+      "path": "enemies/resources_sprite_1351.png",
+      "type": "png",
+      "size": 113
+    },
+    {
+      "name": "resources_sprite_1946",
+      "path": "enemies/resources_sprite_1946.png",
+      "type": "png",
+      "size": 329
+    },
+    {
+      "name": "resources_sprite_1320",
+      "path": "enemies/resources_sprite_1320.png",
+      "type": "png",
+      "size": 903
+    },
+    {
+      "name": "resources_sprite_1148",
+      "path": "enemies/resources_sprite_1148.png",
+      "type": "png",
+      "size": 332
+    },
+    {
+      "name": "resources_sprite_1411",
+      "path": "enemies/resources_sprite_1411.png",
+      "type": "png",
+      "size": 39252
+    },
+    {
+      "name": "resources_sprite_1067",
+      "path": "enemies/resources_sprite_1067.png",
+      "type": "png",
+      "size": 461
+    },
+    {
+      "name": "resources_sprite_1717",
+      "path": "enemies/resources_sprite_1717.png",
+      "type": "png",
+      "size": 699
+    },
+    {
+      "name": "resources_sprite_1670",
+      "path": "enemies/resources_sprite_1670.png",
+      "type": "png",
+      "size": 760
+    },
+    {
+      "name": "resources_sprite_1761",
+      "path": "enemies/resources_sprite_1761.png",
+      "type": "png",
+      "size": 71050
+    },
+    {
+      "name": "resources_sprite_1939",
+      "path": "enemies/resources_sprite_1939.png",
+      "type": "png",
+      "size": 299
+    },
+    {
+      "name": "resources_sprite_1468",
+      "path": "enemies/resources_sprite_1468.png",
+      "type": "png",
+      "size": 442
+    },
+    {
+      "name": "resources_sprite_1840",
+      "path": "enemies/resources_sprite_1840.png",
+      "type": "png",
+      "size": 327
+    },
+    {
+      "name": "resources_sprite_1502",
+      "path": "enemies/resources_sprite_1502.png",
+      "type": "png",
+      "size": 10206
+    },
+    {
+      "name": "resources_sprite_1296",
+      "path": "enemies/resources_sprite_1296.png",
+      "type": "png",
+      "size": 145
+    },
+    {
+      "name": "resources_sprite_1231",
+      "path": "enemies/resources_sprite_1231.png",
+      "type": "png",
+      "size": 328
+    },
+    {
+      "name": "resources_sprite_1229",
+      "path": "enemies/resources_sprite_1229.png",
+      "type": "png",
+      "size": 4479214
+    },
+    {
+      "name": "resources_sprite_1578",
+      "path": "enemies/resources_sprite_1578.png",
+      "type": "png",
+      "size": 128
+    },
+    {
+      "name": "resources_sprite_1899",
+      "path": "enemies/resources_sprite_1899.png",
+      "type": "png",
+      "size": 292
+    },
+    {
+      "name": "resources_sprite_1941",
+      "path": "enemies/resources_sprite_1941.png",
+      "type": "png",
+      "size": 434
+    },
+    {
+      "name": "resources_sprite_1389",
+      "path": "enemies/resources_sprite_1389.png",
+      "type": "png",
+      "size": 919
+    },
+    {
+      "name": "resources_sprite_1959",
+      "path": "enemies/resources_sprite_1959.png",
+      "type": "png",
+      "size": 300
+    },
+    {
+      "name": "resources_sprite_1066",
+      "path": "enemies/resources_sprite_1066.png",
+      "type": "png",
+      "size": 291
+    },
+    {
+      "name": "resources_sprite_1340",
+      "path": "enemies/resources_sprite_1340.png",
+      "type": "png",
+      "size": 18402285
+    },
+    {
+      "name": "resources_sprite_1293",
+      "path": "enemies/resources_sprite_1293.png",
+      "type": "png",
+      "size": 979
+    },
+    {
+      "name": "resources_sprite_1716",
+      "path": "enemies/resources_sprite_1716.png",
+      "type": "png",
+      "size": 541
+    },
+    {
+      "name": "resources_sprite_1313",
+      "path": "enemies/resources_sprite_1313.png",
+      "type": "png",
+      "size": 111
+    },
+    {
+      "name": "resources_sprite_1785",
+      "path": "enemies/resources_sprite_1785.png",
+      "type": "png",
+      "size": 1416
+    },
+    {
+      "name": "resources_sprite_1402",
+      "path": "enemies/resources_sprite_1402.png",
+      "type": "png",
+      "size": 148
+    },
+    {
+      "name": "resources_sprite_1429",
+      "path": "enemies/resources_sprite_1429.png",
+      "type": "png",
+      "size": 6183
+    },
+    {
+      "name": "resources_sprite_1810",
+      "path": "enemies/resources_sprite_1810.png",
+      "type": "png",
+      "size": 126703
+    },
+    {
+      "name": "resources_sprite_1472",
+      "path": "enemies/resources_sprite_1472.png",
+      "type": "png",
+      "size": 160
+    },
+    {
+      "name": "resources_sprite_1128",
+      "path": "enemies/resources_sprite_1128.png",
+      "type": "png",
+      "size": 259
+    },
+    {
+      "name": "resources_sprite_1334",
+      "path": "enemies/resources_sprite_1334.png",
+      "type": "png",
+      "size": 1274
+    },
+    {
+      "name": "resources_sprite_1289",
+      "path": "enemies/resources_sprite_1289.png",
+      "type": "png",
+      "size": 460
+    },
+    {
+      "name": "resources_sprite_1636",
+      "path": "enemies/resources_sprite_1636.png",
+      "type": "png",
+      "size": 147
+    },
+    {
+      "name": "resources_sprite_1492",
+      "path": "enemies/resources_sprite_1492.png",
+      "type": "png",
+      "size": 1175
+    },
+    {
+      "name": "sharedassets0_sprite_12",
+      "path": "enemies/sharedassets0_sprite_12.png",
+      "type": "png",
+      "size": 2784613
+    },
+    {
+      "name": "resources_sprite_1635",
+      "path": "enemies/resources_sprite_1635.png",
+      "type": "png",
+      "size": 116
+    },
+    {
+      "name": "resources_sprite_1725",
+      "path": "enemies/resources_sprite_1725.png",
+      "type": "png",
+      "size": 198
+    },
+    {
+      "name": "resources_sprite_1933",
+      "path": "enemies/resources_sprite_1933.png",
+      "type": "png",
+      "size": 266
+    },
+    {
+      "name": "resources_sprite_1664",
+      "path": "enemies/resources_sprite_1664.png",
+      "type": "png",
+      "size": 175
+    },
+    {
+      "name": "resources_sprite_1042",
+      "path": "enemies/resources_sprite_1042.png",
+      "type": "png",
+      "size": 338
+    },
+    {
+      "name": "resources_sprite_1572",
+      "path": "enemies/resources_sprite_1572.png",
+      "type": "png",
+      "size": 161
+    },
+    {
+      "name": "resources_sprite_1639",
+      "path": "enemies/resources_sprite_1639.png",
+      "type": "png",
+      "size": 702
+    },
+    {
+      "name": "resources_sprite_1947",
+      "path": "enemies/resources_sprite_1947.png",
+      "type": "png",
+      "size": 272
+    },
+    {
+      "name": "resources_sprite_1265",
+      "path": "enemies/resources_sprite_1265.png",
+      "type": "png",
+      "size": 4071
+    },
+    {
+      "name": "resources_sprite_1891",
+      "path": "enemies/resources_sprite_1891.png",
+      "type": "png",
+      "size": 405
+    },
+    {
+      "name": "resources_sprite_1715",
+      "path": "enemies/resources_sprite_1715.png",
+      "type": "png",
+      "size": 861
+    },
+    {
+      "name": "resources_sprite_1522",
+      "path": "enemies/resources_sprite_1522.png",
+      "type": "png",
+      "size": 86941
+    },
+    {
+      "name": "resources_sprite_1516",
+      "path": "enemies/resources_sprite_1516.png",
+      "type": "png",
+      "size": 58088
+    },
+    {
+      "name": "resources_sprite_1915",
+      "path": "enemies/resources_sprite_1915.png",
+      "type": "png",
+      "size": 1192
+    },
+    {
+      "name": "resources_sprite_1929",
+      "path": "enemies/resources_sprite_1929.png",
+      "type": "png",
+      "size": 175
+    },
+    {
+      "name": "resources_sprite_1898",
+      "path": "enemies/resources_sprite_1898.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_sprite_1457",
+      "path": "enemies/resources_sprite_1457.png",
+      "type": "png",
+      "size": 224
+    },
+    {
+      "name": "resources_sprite_1539",
+      "path": "enemies/resources_sprite_1539.png",
+      "type": "png",
+      "size": 656
+    },
+    {
+      "name": "resources_sprite_1510",
+      "path": "enemies/resources_sprite_1510.png",
+      "type": "png",
+      "size": 157
+    },
+    {
+      "name": "resources_sprite_1094",
+      "path": "enemies/resources_sprite_1094.png",
+      "type": "png",
+      "size": 321
+    },
+    {
+      "name": "resources_sprite_1640",
+      "path": "enemies/resources_sprite_1640.png",
+      "type": "png",
+      "size": 169
+    },
+    {
+      "name": "resources_sprite_1723",
+      "path": "enemies/resources_sprite_1723.png",
+      "type": "png",
+      "size": 1095
+    },
+    {
+      "name": "resources_sprite_1555",
+      "path": "enemies/resources_sprite_1555.png",
+      "type": "png",
+      "size": 243
+    },
+    {
+      "name": "resources_sprite_1183",
+      "path": "enemies/resources_sprite_1183.png",
+      "type": "png",
+      "size": 576
+    },
+    {
+      "name": "resources_sprite_1163",
+      "path": "enemies/resources_sprite_1163.png",
+      "type": "png",
+      "size": 554
+    },
+    {
+      "name": "resources_sprite_1571",
+      "path": "enemies/resources_sprite_1571.png",
+      "type": "png",
+      "size": 1262
+    },
+    {
+      "name": "resources_sprite_1241",
+      "path": "enemies/resources_sprite_1241.png",
+      "type": "png",
+      "size": 113
+    },
+    {
+      "name": "resources_sprite_1451",
+      "path": "enemies/resources_sprite_1451.png",
+      "type": "png",
+      "size": 371
+    },
+    {
+      "name": "resources_sprite_1863",
+      "path": "enemies/resources_sprite_1863.png",
+      "type": "png",
+      "size": 204
+    },
+    {
+      "name": "resources_sprite_1336",
+      "path": "enemies/resources_sprite_1336.png",
+      "type": "png",
+      "size": 340
+    },
+    {
+      "name": "resources_sprite_1274",
+      "path": "enemies/resources_sprite_1274.png",
+      "type": "png",
+      "size": 96
+    },
+    {
+      "name": "resources_sprite_1568",
+      "path": "enemies/resources_sprite_1568.png",
+      "type": "png",
+      "size": 201
+    },
+    {
+      "name": "resources_sprite_1855",
+      "path": "enemies/resources_sprite_1855.png",
+      "type": "png",
+      "size": 336
+    },
+    {
+      "name": "resources_sprite_1748",
+      "path": "enemies/resources_sprite_1748.png",
+      "type": "png",
+      "size": 201
+    },
+    {
+      "name": "resources_sprite_1308",
+      "path": "enemies/resources_sprite_1308.png",
+      "type": "png",
+      "size": 78
+    },
+    {
+      "name": "resources_sprite_1199",
+      "path": "enemies/resources_sprite_1199.png",
+      "type": "png",
+      "size": 257517
+    },
+    {
+      "name": "resources_sprite_1732",
+      "path": "enemies/resources_sprite_1732.png",
+      "type": "png",
+      "size": 143501
+    },
+    {
+      "name": "resources_sprite_1446",
+      "path": "enemies/resources_sprite_1446.png",
+      "type": "png",
+      "size": 237659
+    },
+    {
+      "name": "resources_sprite_1951",
+      "path": "enemies/resources_sprite_1951.png",
+      "type": "png",
+      "size": 326
+    },
+    {
+      "name": "resources_sprite_1740",
+      "path": "enemies/resources_sprite_1740.png",
+      "type": "png",
+      "size": 127
+    },
+    {
+      "name": "resources_sprite_1675",
+      "path": "enemies/resources_sprite_1675.png",
+      "type": "png",
+      "size": 136
+    },
+    {
+      "name": "resources_sprite_1813",
+      "path": "enemies/resources_sprite_1813.png",
+      "type": "png",
+      "size": 307
+    },
+    {
+      "name": "resources_sprite_1135",
+      "path": "enemies/resources_sprite_1135.png",
+      "type": "png",
+      "size": 346
+    },
+    {
+      "name": "resources_sprite_1816",
+      "path": "enemies/resources_sprite_1816.png",
+      "type": "png",
+      "size": 304
+    },
+    {
+      "name": "resources_sprite_1693",
+      "path": "enemies/resources_sprite_1693.png",
+      "type": "png",
+      "size": 114
+    },
+    {
+      "name": "resources_sprite_1546",
+      "path": "enemies/resources_sprite_1546.png",
+      "type": "png",
+      "size": 48720
+    },
+    {
+      "name": "resources_sprite_1349",
+      "path": "enemies/resources_sprite_1349.png",
+      "type": "png",
+      "size": 125
+    },
+    {
+      "name": "resources_sprite_1154",
+      "path": "enemies/resources_sprite_1154.png",
+      "type": "png",
+      "size": 159
+    },
+    {
+      "name": "resources_sprite_1198",
+      "path": "enemies/resources_sprite_1198.png",
+      "type": "png",
+      "size": 159
+    },
+    {
+      "name": "resources_sprite_1347",
+      "path": "enemies/resources_sprite_1347.png",
+      "type": "png",
+      "size": 288
+    },
+    {
+      "name": "resources_sprite_1494",
+      "path": "enemies/resources_sprite_1494.png",
+      "type": "png",
+      "size": 1177
+    },
+    {
+      "name": "resources_sprite_1091",
+      "path": "enemies/resources_sprite_1091.png",
+      "type": "png",
+      "size": 286
+    },
+    {
+      "name": "resources_sprite_1077",
+      "path": "enemies/resources_sprite_1077.png",
+      "type": "png",
+      "size": 339
+    },
+    {
+      "name": "resources_sprite_1323",
+      "path": "enemies/resources_sprite_1323.png",
+      "type": "png",
+      "size": 138
+    },
+    {
+      "name": "sharedassets1_sprite_74",
+      "path": "enemies/sharedassets1_sprite_74.png",
+      "type": "png",
+      "size": 55889
+    },
+    {
+      "name": "resources_sprite_1591",
+      "path": "enemies/resources_sprite_1591.png",
+      "type": "png",
+      "size": 128
+    },
+    {
+      "name": "resources_sprite_1769",
+      "path": "enemies/resources_sprite_1769.png",
+      "type": "png",
+      "size": 181
+    },
+    {
+      "name": "resources_sprite_1213",
+      "path": "enemies/resources_sprite_1213.png",
+      "type": "png",
+      "size": 1029
+    },
+    {
+      "name": "resources_sprite_1590",
+      "path": "enemies/resources_sprite_1590.png",
+      "type": "png",
+      "size": 221
+    },
+    {
+      "name": "resources_sprite_1442",
+      "path": "enemies/resources_sprite_1442.png",
+      "type": "png",
+      "size": 231
+    },
+    {
+      "name": "resources_sprite_1045",
+      "path": "enemies/resources_sprite_1045.png",
+      "type": "png",
+      "size": 529
+    },
+    {
+      "name": "resources_sprite_1363",
+      "path": "enemies/resources_sprite_1363.png",
+      "type": "png",
+      "size": 484
+    },
+    {
+      "name": "resources_sprite_1488",
+      "path": "enemies/resources_sprite_1488.png",
+      "type": "png",
+      "size": 40523
+    },
+    {
+      "name": "resources_sprite_1721",
+      "path": "enemies/resources_sprite_1721.png",
+      "type": "png",
+      "size": 176
+    },
+    {
+      "name": "resources_sprite_1532",
+      "path": "enemies/resources_sprite_1532.png",
+      "type": "png",
+      "size": 539
+    },
+    {
+      "name": "resources_sprite_1481",
+      "path": "enemies/resources_sprite_1481.png",
+      "type": "png",
+      "size": 202
+    },
+    {
+      "name": "resources_sprite_1260",
+      "path": "enemies/resources_sprite_1260.png",
+      "type": "png",
+      "size": 125721
+    },
+    {
+      "name": "resources_sprite_1607",
+      "path": "enemies/resources_sprite_1607.png",
+      "type": "png",
+      "size": 256
+    },
+    {
+      "name": "resources_sprite_1755",
+      "path": "enemies/resources_sprite_1755.png",
+      "type": "png",
+      "size": 106
+    },
+    {
+      "name": "resources_sprite_1614",
+      "path": "enemies/resources_sprite_1614.png",
+      "type": "png",
+      "size": 254
+    },
+    {
+      "name": "resources_sprite_1931",
+      "path": "enemies/resources_sprite_1931.png",
+      "type": "png",
+      "size": 362
+    },
+    {
+      "name": "resources_sprite_1868",
+      "path": "enemies/resources_sprite_1868.png",
+      "type": "png",
+      "size": 342
+    },
+    {
+      "name": "resources_sprite_1950",
+      "path": "enemies/resources_sprite_1950.png",
+      "type": "png",
+      "size": 296
+    },
+    {
+      "name": "resources_sprite_1764",
+      "path": "enemies/resources_sprite_1764.png",
+      "type": "png",
+      "size": 145290
+    },
+    {
+      "name": "resources_sprite_1801",
+      "path": "enemies/resources_sprite_1801.png",
+      "type": "png",
+      "size": 314
+    },
+    {
+      "name": "resources_sprite_1057",
+      "path": "enemies/resources_sprite_1057.png",
+      "type": "png",
+      "size": 253
+    },
+    {
+      "name": "resources_sprite_1337",
+      "path": "enemies/resources_sprite_1337.png",
+      "type": "png",
+      "size": 1259
+    },
+    {
+      "name": "resources_sprite_1463",
+      "path": "enemies/resources_sprite_1463.png",
+      "type": "png",
+      "size": 255
+    },
+    {
+      "name": "resources_sprite_1805",
+      "path": "enemies/resources_sprite_1805.png",
+      "type": "png",
+      "size": 463
+    },
+    {
+      "name": "resources_sprite_1691",
+      "path": "enemies/resources_sprite_1691.png",
+      "type": "png",
+      "size": 841
+    },
+    {
+      "name": "resources_sprite_1438",
+      "path": "enemies/resources_sprite_1438.png",
+      "type": "png",
+      "size": 41436
+    },
+    {
+      "name": "resources_sprite_1851",
+      "path": "enemies/resources_sprite_1851.png",
+      "type": "png",
+      "size": 358
+    },
+    {
+      "name": "resources_sprite_1926",
+      "path": "enemies/resources_sprite_1926.png",
+      "type": "png",
+      "size": 306
+    },
+    {
+      "name": "resources_sprite_1835",
+      "path": "enemies/resources_sprite_1835.png",
+      "type": "png",
+      "size": 337
+    },
+    {
+      "name": "resources_sprite_1115",
+      "path": "enemies/resources_sprite_1115.png",
+      "type": "png",
+      "size": 221
+    },
+    {
+      "name": "resources_sprite_1172",
+      "path": "enemies/resources_sprite_1172.png",
+      "type": "png",
+      "size": 1258
+    },
+    {
+      "name": "resources_sprite_1682",
+      "path": "enemies/resources_sprite_1682.png",
+      "type": "png",
+      "size": 489
+    },
+    {
+      "name": "resources_sprite_1613",
+      "path": "enemies/resources_sprite_1613.png",
+      "type": "png",
+      "size": 738
+    },
+    {
+      "name": "resources_sprite_1493",
+      "path": "enemies/resources_sprite_1493.png",
+      "type": "png",
+      "size": 246
+    },
+    {
+      "name": "resources_sprite_1423",
+      "path": "enemies/resources_sprite_1423.png",
+      "type": "png",
+      "size": 181
+    },
+    {
+      "name": "resources_sprite_1684",
+      "path": "enemies/resources_sprite_1684.png",
+      "type": "png",
+      "size": 108
+    },
+    {
+      "name": "resources_sprite_1312",
+      "path": "enemies/resources_sprite_1312.png",
+      "type": "png",
+      "size": 552
+    },
+    {
+      "name": "resources_sprite_1822",
+      "path": "enemies/resources_sprite_1822.png",
+      "type": "png",
+      "size": 568
+    },
+    {
+      "name": "resources_sprite_1924",
+      "path": "enemies/resources_sprite_1924.png",
+      "type": "png",
+      "size": 256
+    },
+    {
+      "name": "resources_sprite_1426",
+      "path": "enemies/resources_sprite_1426.png",
+      "type": "png",
+      "size": 249028
+    },
+    {
+      "name": "resources_sprite_1364",
+      "path": "enemies/resources_sprite_1364.png",
+      "type": "png",
+      "size": 202
+    },
+    {
+      "name": "resources_sprite_1113",
+      "path": "enemies/resources_sprite_1113.png",
+      "type": "png",
+      "size": 298
+    },
+    {
+      "name": "resources_sprite_1746",
+      "path": "enemies/resources_sprite_1746.png",
+      "type": "png",
+      "size": 200
+    },
+    {
+      "name": "resources_sprite_1203",
+      "path": "enemies/resources_sprite_1203.png",
+      "type": "png",
+      "size": 2265
+    },
+    {
+      "name": "resources_sprite_1397",
+      "path": "enemies/resources_sprite_1397.png",
+      "type": "png",
+      "size": 238
+    },
+    {
+      "name": "resources_sprite_1603",
+      "path": "enemies/resources_sprite_1603.png",
+      "type": "png",
+      "size": 165
+    },
+    {
+      "name": "resources_sprite_1671",
+      "path": "enemies/resources_sprite_1671.png",
+      "type": "png",
+      "size": 1002
+    },
+    {
+      "name": "resources_sprite_1061",
+      "path": "enemies/resources_sprite_1061.png",
+      "type": "png",
+      "size": 314
+    },
+    {
+      "name": "resources_sprite_1273",
+      "path": "enemies/resources_sprite_1273.png",
+      "type": "png",
+      "size": 133
+    },
+    {
+      "name": "resources_sprite_1096",
+      "path": "enemies/resources_sprite_1096.png",
+      "type": "png",
+      "size": 439
+    },
+    {
+      "name": "resources_sprite_1681",
+      "path": "enemies/resources_sprite_1681.png",
+      "type": "png",
+      "size": 237
+    },
+    {
+      "name": "resources_sprite_1734",
+      "path": "enemies/resources_sprite_1734.png",
+      "type": "png",
+      "size": 1043
+    },
+    {
+      "name": "resources_sprite_1359",
+      "path": "enemies/resources_sprite_1359.png",
+      "type": "png",
+      "size": 831
+    },
+    {
+      "name": "resources_sprite_1316",
+      "path": "enemies/resources_sprite_1316.png",
+      "type": "png",
+      "size": 637
+    },
+    {
+      "name": "resources_sprite_1093",
+      "path": "enemies/resources_sprite_1093.png",
+      "type": "png",
+      "size": 392
+    },
+    {
+      "name": "resources_sprite_1454",
+      "path": "enemies/resources_sprite_1454.png",
+      "type": "png",
+      "size": 126
+    },
+    {
+      "name": "resources_sprite_1235",
+      "path": "enemies/resources_sprite_1235.png",
+      "type": "png",
+      "size": 214
+    },
+    {
+      "name": "resources_sprite_1774",
+      "path": "enemies/resources_sprite_1774.png",
+      "type": "png",
+      "size": 513
+    },
+    {
+      "name": "resources_sprite_1145",
+      "path": "enemies/resources_sprite_1145.png",
+      "type": "png",
+      "size": 313
+    },
+    {
+      "name": "resources_sprite_1644",
+      "path": "enemies/resources_sprite_1644.png",
+      "type": "png",
+      "size": 1918
+    },
+    {
+      "name": "resources_sprite_1116",
+      "path": "enemies/resources_sprite_1116.png",
+      "type": "png",
+      "size": 435
+    },
+    {
+      "name": "resources_sprite_1787",
+      "path": "enemies/resources_sprite_1787.png",
+      "type": "png",
+      "size": 231
+    },
+    {
+      "name": "resources_sprite_1227",
+      "path": "enemies/resources_sprite_1227.png",
+      "type": "png",
+      "size": 1019
+    },
+    {
+      "name": "resources_sprite_1161",
+      "path": "enemies/resources_sprite_1161.png",
+      "type": "png",
+      "size": 297
+    },
+    {
+      "name": "resources_sprite_1902",
+      "path": "enemies/resources_sprite_1902.png",
+      "type": "png",
+      "size": 157
+    },
+    {
+      "name": "resources_sprite_1485",
+      "path": "enemies/resources_sprite_1485.png",
+      "type": "png",
+      "size": 448
+    },
+    {
+      "name": "resources_sprite_1770",
+      "path": "enemies/resources_sprite_1770.png",
+      "type": "png",
+      "size": 224
+    },
+    {
+      "name": "resources_sprite_1420",
+      "path": "enemies/resources_sprite_1420.png",
+      "type": "png",
+      "size": 247
+    },
+    {
+      "name": "resources_sprite_1475",
+      "path": "enemies/resources_sprite_1475.png",
+      "type": "png",
+      "size": 40815
+    },
+    {
+      "name": "resources_sprite_1431",
+      "path": "enemies/resources_sprite_1431.png",
+      "type": "png",
+      "size": 385
+    },
+    {
+      "name": "resources_sprite_1661",
+      "path": "enemies/resources_sprite_1661.png",
+      "type": "png",
+      "size": 303
+    },
+    {
+      "name": "resources_sprite_1104",
+      "path": "enemies/resources_sprite_1104.png",
+      "type": "png",
+      "size": 362
+    },
+    {
+      "name": "resources_sprite_1520",
+      "path": "enemies/resources_sprite_1520.png",
+      "type": "png",
+      "size": 1164
+    },
+    {
+      "name": "resources_sprite_1037",
+      "path": "enemies/resources_sprite_1037.png",
+      "type": "png",
+      "size": 306
+    },
+    {
+      "name": "resources_sprite_1084",
+      "path": "enemies/resources_sprite_1084.png",
+      "type": "png",
+      "size": 317
+    },
+    {
+      "name": "resources_sprite_1751",
+      "path": "enemies/resources_sprite_1751.png",
+      "type": "png",
+      "size": 3503
+    },
+    {
+      "name": "resources_sprite_1237",
+      "path": "enemies/resources_sprite_1237.png",
+      "type": "png",
+      "size": 275
+    },
+    {
+      "name": "resources_sprite_1408",
+      "path": "enemies/resources_sprite_1408.png",
+      "type": "png",
+      "size": 806
+    },
+    {
+      "name": "resources_sprite_1786",
+      "path": "enemies/resources_sprite_1786.png",
+      "type": "png",
+      "size": 272
+    },
+    {
+      "name": "resources_sprite_1861",
+      "path": "enemies/resources_sprite_1861.png",
+      "type": "png",
+      "size": 217
+    },
+    {
+      "name": "resources_sprite_1226",
+      "path": "enemies/resources_sprite_1226.png",
+      "type": "png",
+      "size": 127
+    },
+    {
+      "name": "resources_sprite_1400",
+      "path": "enemies/resources_sprite_1400.png",
+      "type": "png",
+      "size": 137
+    },
+    {
+      "name": "resources_sprite_1605",
+      "path": "enemies/resources_sprite_1605.png",
+      "type": "png",
+      "size": 131
+    },
+    {
+      "name": "resources_sprite_1544",
+      "path": "enemies/resources_sprite_1544.png",
+      "type": "png",
+      "size": 78
+    },
+    {
+      "name": "resources_sprite_1509",
+      "path": "enemies/resources_sprite_1509.png",
+      "type": "png",
+      "size": 1064
+    },
+    {
+      "name": "resources_sprite_1834",
+      "path": "enemies/resources_sprite_1834.png",
+      "type": "png",
+      "size": 344
+    },
+    {
+      "name": "resources_sprite_1882",
+      "path": "enemies/resources_sprite_1882.png",
+      "type": "png",
+      "size": 315
+    },
+    {
+      "name": "resources_sprite_1849",
+      "path": "enemies/resources_sprite_1849.png",
+      "type": "png",
+      "size": 283
+    },
+    {
+      "name": "resources_sprite_1500",
+      "path": "enemies/resources_sprite_1500.png",
+      "type": "png",
+      "size": 142
+    },
+    {
+      "name": "resources_sprite_1932",
+      "path": "enemies/resources_sprite_1932.png",
+      "type": "png",
+      "size": 311
+    },
+    {
+      "name": "resources_sprite_1188",
+      "path": "enemies/resources_sprite_1188.png",
+      "type": "png",
+      "size": 148
+    },
+    {
+      "name": "resources_sprite_1928",
+      "path": "enemies/resources_sprite_1928.png",
+      "type": "png",
+      "size": 386
+    },
+    {
+      "name": "resources_sprite_1945",
+      "path": "enemies/resources_sprite_1945.png",
+      "type": "png",
+      "size": 271
+    },
+    {
+      "name": "resources_sprite_1495",
+      "path": "enemies/resources_sprite_1495.png",
+      "type": "png",
+      "size": 393
+    },
+    {
+      "name": "resources_sprite_1912",
+      "path": "enemies/resources_sprite_1912.png",
+      "type": "png",
+      "size": 378
+    },
+    {
+      "name": "resources_sprite_1383",
+      "path": "enemies/resources_sprite_1383.png",
+      "type": "png",
+      "size": 185
+    },
+    {
+      "name": "resources_sprite_1955",
+      "path": "enemies/resources_sprite_1955.png",
+      "type": "png",
+      "size": 339
+    },
+    {
+      "name": "resources_sprite_1552",
+      "path": "enemies/resources_sprite_1552.png",
+      "type": "png",
+      "size": 921
+    },
+    {
+      "name": "resources_sprite_1960",
+      "path": "enemies/resources_sprite_1960.png",
+      "type": "png",
+      "size": 287
+    },
+    {
+      "name": "resources_sprite_1892",
+      "path": "enemies/resources_sprite_1892.png",
+      "type": "png",
+      "size": 398
+    },
+    {
+      "name": "resources_sprite_1176",
+      "path": "enemies/resources_sprite_1176.png",
+      "type": "png",
+      "size": 185
+    },
+    {
+      "name": "resources_sprite_1140",
+      "path": "enemies/resources_sprite_1140.png",
+      "type": "png",
+      "size": 286
+    },
+    {
+      "name": "resources_sprite_1551",
+      "path": "enemies/resources_sprite_1551.png",
+      "type": "png",
+      "size": 601
+    },
+    {
+      "name": "resources_sprite_1547",
+      "path": "enemies/resources_sprite_1547.png",
+      "type": "png",
+      "size": 365
+    },
+    {
+      "name": "resources_sprite_1441",
+      "path": "enemies/resources_sprite_1441.png",
+      "type": "png",
+      "size": 1480
+    },
+    {
+      "name": "resources_sprite_1531",
+      "path": "enemies/resources_sprite_1531.png",
+      "type": "png",
+      "size": 357
+    },
+    {
+      "name": "resources_sprite_1246",
+      "path": "enemies/resources_sprite_1246.png",
+      "type": "png",
+      "size": 218
+    },
+    {
+      "name": "resources_sprite_1288",
+      "path": "enemies/resources_sprite_1288.png",
+      "type": "png",
+      "size": 1078
+    },
+    {
+      "name": "resources_sprite_1686",
+      "path": "enemies/resources_sprite_1686.png",
+      "type": "png",
+      "size": 121
+    },
+    {
+      "name": "resources_sprite_1355",
+      "path": "enemies/resources_sprite_1355.png",
+      "type": "png",
+      "size": 1117
+    },
+    {
+      "name": "resources_sprite_1823",
+      "path": "enemies/resources_sprite_1823.png",
+      "type": "png",
+      "size": 142
+    },
+    {
+      "name": "resources_sprite_1791",
+      "path": "enemies/resources_sprite_1791.png",
+      "type": "png",
+      "size": 1848700
+    },
+    {
+      "name": "resources_sprite_1534",
+      "path": "enemies/resources_sprite_1534.png",
+      "type": "png",
+      "size": 200562
+    },
+    {
+      "name": "resources_sprite_1651",
+      "path": "enemies/resources_sprite_1651.png",
+      "type": "png",
+      "size": 343
+    },
+    {
+      "name": "resources_sprite_1432",
+      "path": "enemies/resources_sprite_1432.png",
+      "type": "png",
+      "size": 14524
+    },
+    {
+      "name": "resources_sprite_1796",
+      "path": "enemies/resources_sprite_1796.png",
+      "type": "png",
+      "size": 232
+    },
+    {
+      "name": "resources_sprite_1642",
+      "path": "enemies/resources_sprite_1642.png",
+      "type": "png",
+      "size": 506
+    },
+    {
+      "name": "resources_sprite_1374",
+      "path": "enemies/resources_sprite_1374.png",
+      "type": "png",
+      "size": 121
+    },
+    {
+      "name": "resources_sprite_1233",
+      "path": "enemies/resources_sprite_1233.png",
+      "type": "png",
+      "size": 245
+    },
+    {
+      "name": "resources_sprite_1768",
+      "path": "enemies/resources_sprite_1768.png",
+      "type": "png",
+      "size": 377
+    },
+    {
+      "name": "resources_sprite_1388",
+      "path": "enemies/resources_sprite_1388.png",
+      "type": "png",
+      "size": 197
+    },
+    {
+      "name": "resources_sprite_1038",
+      "path": "enemies/resources_sprite_1038.png",
+      "type": "png",
+      "size": 376
+    },
+    {
+      "name": "sharedassets1_sprite_69",
+      "path": "enemies/sharedassets1_sprite_69.png",
+      "type": "png",
+      "size": 5355
+    },
+    {
+      "name": "resources_sprite_1944",
+      "path": "enemies/resources_sprite_1944.png",
+      "type": "png",
+      "size": 452
+    },
+    {
+      "name": "resources_sprite_1567",
+      "path": "enemies/resources_sprite_1567.png",
+      "type": "png",
+      "size": 924
+    },
+    {
+      "name": "resources_sprite_1424",
+      "path": "enemies/resources_sprite_1424.png",
+      "type": "png",
+      "size": 153
+    },
+    {
+      "name": "resources_sprite_1476",
+      "path": "enemies/resources_sprite_1476.png",
+      "type": "png",
+      "size": 158
+    },
+    {
+      "name": "sharedassets0_sprite_13",
+      "path": "enemies/sharedassets0_sprite_13.png",
+      "type": "png",
+      "size": 1908735
+    },
+    {
+      "name": "resources_sprite_1673",
+      "path": "enemies/resources_sprite_1673.png",
+      "type": "png",
+      "size": 251347
+    },
+    {
+      "name": "resources_sprite_1890",
+      "path": "enemies/resources_sprite_1890.png",
+      "type": "png",
+      "size": 321
+    },
+    {
+      "name": "resources_sprite_1956",
+      "path": "enemies/resources_sprite_1956.png",
+      "type": "png",
+      "size": 370
+    },
+    {
+      "name": "resources_sprite_1034",
+      "path": "enemies/resources_sprite_1034.png",
+      "type": "png",
+      "size": 304
+    },
+    {
+      "name": "resources_sprite_1353",
+      "path": "enemies/resources_sprite_1353.png",
+      "type": "png",
+      "size": 2878
+    },
+    {
+      "name": "resources_sprite_1305",
+      "path": "enemies/resources_sprite_1305.png",
+      "type": "png",
+      "size": 116
+    },
+    {
+      "name": "resources_sprite_1685",
+      "path": "enemies/resources_sprite_1685.png",
+      "type": "png",
+      "size": 206
+    },
+    {
+      "name": "resources_sprite_1137",
+      "path": "enemies/resources_sprite_1137.png",
+      "type": "png",
+      "size": 343
+    },
+    {
+      "name": "sharedassets4_sprite_72",
+      "path": "enemies/sharedassets4_sprite_72.png",
+      "type": "png",
+      "size": 405
+    },
+    {
+      "name": "resources_sprite_1589",
+      "path": "enemies/resources_sprite_1589.png",
+      "type": "png",
+      "size": 296
+    },
+    {
+      "name": "resources_sprite_1268",
+      "path": "enemies/resources_sprite_1268.png",
+      "type": "png",
+      "size": 1000
+    },
+    {
+      "name": "resources_sprite_1051",
+      "path": "enemies/resources_sprite_1051.png",
+      "type": "png",
+      "size": 301
+    },
+    {
+      "name": "resources_sprite_1739",
+      "path": "enemies/resources_sprite_1739.png",
+      "type": "png",
+      "size": 205
+    },
+    {
+      "name": "resources_sprite_1908",
+      "path": "enemies/resources_sprite_1908.png",
+      "type": "png",
+      "size": 421
+    },
+    {
+      "name": "resources_sprite_1652",
+      "path": "enemies/resources_sprite_1652.png",
+      "type": "png",
+      "size": 241
+    },
+    {
+      "name": "resources_sprite_1046",
+      "path": "enemies/resources_sprite_1046.png",
+      "type": "png",
+      "size": 239
+    },
+    {
+      "name": "resources_sprite_1112",
+      "path": "enemies/resources_sprite_1112.png",
+      "type": "png",
+      "size": 318
+    },
+    {
+      "name": "resources_sprite_1880",
+      "path": "enemies/resources_sprite_1880.png",
+      "type": "png",
+      "size": 324
+    },
+    {
+      "name": "resources_sprite_1948",
+      "path": "enemies/resources_sprite_1948.png",
+      "type": "png",
+      "size": 70
+    },
+    {
+      "name": "resources_sprite_1322",
+      "path": "enemies/resources_sprite_1322.png",
+      "type": "png",
+      "size": 108
+    },
+    {
+      "name": "resources_sprite_1101",
+      "path": "enemies/resources_sprite_1101.png",
+      "type": "png",
+      "size": 413
+    },
+    {
+      "name": "resources_sprite_1156",
+      "path": "enemies/resources_sprite_1156.png",
+      "type": "png",
+      "size": 413
+    }
+  ],
+  "projectiles": [],
+  "terrain": [
+    {
+      "name": "resources_texture_261",
+      "path": "terrain/resources_texture_261.png",
+      "type": "png",
+      "size": 137893
+    },
+    {
+      "name": "resources_texture_72",
+      "path": "terrain/resources_texture_72.png",
+      "type": "png",
+      "size": 1447518
+    },
+    {
+      "name": "resources_texture_104",
+      "path": "terrain/resources_texture_104.png",
+      "type": "png",
+      "size": 4479214
+    },
+    {
+      "name": "sharedassets0_texture_3",
+      "path": "terrain/sharedassets0_texture_3.png",
+      "type": "png",
+      "size": 17395
+    },
+    {
+      "name": "globalgamemanagers_texture_3",
+      "path": "terrain/globalgamemanagers_texture_3.png",
+      "type": "png",
+      "size": 1418345
+    },
+    {
+      "name": "resources_texture_251",
+      "path": "terrain/resources_texture_251.png",
+      "type": "png",
+      "size": 290
+    },
+    {
+      "name": "resources_texture_100",
+      "path": "terrain/resources_texture_100.png",
+      "type": "png",
+      "size": 596
+    },
+    {
+      "name": "resources_texture_181",
+      "path": "terrain/resources_texture_181.png",
+      "type": "png",
+      "size": 43500
+    },
+    {
+      "name": "resources_texture_243",
+      "path": "terrain/resources_texture_243.png",
+      "type": "png",
+      "size": 407
+    },
+    {
+      "name": "sharedassets3_texture_3",
+      "path": "terrain/sharedassets3_texture_3.png",
+      "type": "png",
+      "size": 1302343
+    },
+    {
+      "name": "sharedassets1_texture_14",
+      "path": "terrain/sharedassets1_texture_14.png",
+      "type": "png",
+      "size": 4214
+    },
+    {
+      "name": "resources_texture_246",
+      "path": "terrain/resources_texture_246.png",
+      "type": "png",
+      "size": 235
+    },
+    {
+      "name": "resources_texture_169",
+      "path": "terrain/resources_texture_169.png",
+      "type": "png",
+      "size": 3526696
+    },
+    {
+      "name": "sharedassets1_texture_35",
+      "path": "terrain/sharedassets1_texture_35.png",
+      "type": "png",
+      "size": 1264
+    },
+    {
+      "name": "resources_texture_79",
+      "path": "terrain/resources_texture_79.png",
+      "type": "png",
+      "size": 2095
+    },
+    {
+      "name": "resources_texture_103",
+      "path": "terrain/resources_texture_103.png",
+      "type": "png",
+      "size": 1019
+    },
+    {
+      "name": "resources_texture_200",
+      "path": "terrain/resources_texture_200.png",
+      "type": "png",
+      "size": 451
+    },
+    {
+      "name": "resources_texture_205",
+      "path": "terrain/resources_texture_205.png",
+      "type": "png",
+      "size": 4043
+    },
+    {
+      "name": "resources_texture_190",
+      "path": "terrain/resources_texture_190.png",
+      "type": "png",
+      "size": 62692
+    },
+    {
+      "name": "resources_texture_149",
+      "path": "terrain/resources_texture_149.png",
+      "type": "png",
+      "size": 34924
+    },
+    {
+      "name": "sharedassets4_texture_6",
+      "path": "terrain/sharedassets4_texture_6.png",
+      "type": "png",
+      "size": 392
+    },
+    {
+      "name": "sharedassets1_texture_45",
+      "path": "terrain/sharedassets1_texture_45.png",
+      "type": "png",
+      "size": 3640
+    },
+    {
+      "name": "resources_texture_163",
+      "path": "terrain/resources_texture_163.png",
+      "type": "png",
+      "size": 264004
+    },
+    {
+      "name": "resources_texture_110",
+      "path": "terrain/resources_texture_110.png",
+      "type": "png",
+      "size": 342
+    },
+    {
+      "name": "resources_texture_157",
+      "path": "terrain/resources_texture_157.png",
+      "type": "png",
+      "size": 385
+    },
+    {
+      "name": "resources_texture_263",
+      "path": "terrain/resources_texture_263.png",
+      "type": "png",
+      "size": 807068
+    },
+    {
+      "name": "resources_texture_152",
+      "path": "terrain/resources_texture_152.png",
+      "type": "png",
+      "size": 111
+    },
+    {
+      "name": "sharedassets1_texture_33",
+      "path": "terrain/sharedassets1_texture_33.png",
+      "type": "png",
+      "size": 5784
+    },
+    {
+      "name": "sharedassets1_texture_22",
+      "path": "terrain/sharedassets1_texture_22.png",
+      "type": "png",
+      "size": 438
+    },
+    {
+      "name": "resources_texture_145",
+      "path": "terrain/resources_texture_145.png",
+      "type": "png",
+      "size": 1081619
+    },
+    {
+      "name": "resources_texture_150",
+      "path": "terrain/resources_texture_150.png",
+      "type": "png",
+      "size": 2732750
+    },
+    {
+      "name": "sharedassets4_texture_9",
+      "path": "terrain/sharedassets4_texture_9.png",
+      "type": "png",
+      "size": 365
+    },
+    {
+      "name": "resources_texture_210",
+      "path": "terrain/resources_texture_210.png",
+      "type": "png",
+      "size": 1398
+    },
+    {
+      "name": "resources_texture_121",
+      "path": "terrain/resources_texture_121.png",
+      "type": "png",
+      "size": 178
+    },
+    {
+      "name": "resources_texture_117",
+      "path": "terrain/resources_texture_117.png",
+      "type": "png",
+      "size": 96
+    },
+    {
+      "name": "resources_texture_142",
+      "path": "terrain/resources_texture_142.png",
+      "type": "png",
+      "size": 994
+    },
+    {
+      "name": "resources_texture_125",
+      "path": "terrain/resources_texture_125.png",
+      "type": "png",
+      "size": 1980
+    },
+    {
+      "name": "resources_texture_127",
+      "path": "terrain/resources_texture_127.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_texture_259",
+      "path": "terrain/resources_texture_259.png",
+      "type": "png",
+      "size": 20171
+    },
+    {
+      "name": "resources_texture_236",
+      "path": "terrain/resources_texture_236.png",
+      "type": "png",
+      "size": 123
+    },
+    {
+      "name": "sharedassets1_texture_46",
+      "path": "terrain/sharedassets1_texture_46.png",
+      "type": "png",
+      "size": 6558
+    },
+    {
+      "name": "resources_texture_93",
+      "path": "terrain/resources_texture_93.png",
+      "type": "png",
+      "size": 9128
+    },
+    {
+      "name": "resources_texture_90",
+      "path": "terrain/resources_texture_90.png",
+      "type": "png",
+      "size": 278
+    },
+    {
+      "name": "resources_texture_249",
+      "path": "terrain/resources_texture_249.png",
+      "type": "png",
+      "size": 1848700
+    },
+    {
+      "name": "resources_texture_151",
+      "path": "terrain/resources_texture_151.png",
+      "type": "png",
+      "size": 22240062
+    },
+    {
+      "name": "sharedassets1_texture_20",
+      "path": "terrain/sharedassets1_texture_20.png",
+      "type": "png",
+      "size": 4356
+    },
+    {
+      "name": "resources_texture_123",
+      "path": "terrain/resources_texture_123.png",
+      "type": "png",
+      "size": 255
+    },
+    {
+      "name": "resources_texture_179",
+      "path": "terrain/resources_texture_179.png",
+      "type": "png",
+      "size": 558
+    },
+    {
+      "name": "resources_texture_105",
+      "path": "terrain/resources_texture_105.png",
+      "type": "png",
+      "size": 4404
+    },
+    {
+      "name": "resources_texture_111",
+      "path": "terrain/resources_texture_111.png",
+      "type": "png",
+      "size": 172
+    },
+    {
+      "name": "resources_texture_138",
+      "path": "terrain/resources_texture_138.png",
+      "type": "png",
+      "size": 18832
+    },
+    {
+      "name": "resources_texture_116",
+      "path": "terrain/resources_texture_116.png",
+      "type": "png",
+      "size": 69
+    },
+    {
+      "name": "resources_texture_203",
+      "path": "terrain/resources_texture_203.png",
+      "type": "png",
+      "size": 53932
+    },
+    {
+      "name": "resources_texture_144",
+      "path": "terrain/resources_texture_144.png",
+      "type": "png",
+      "size": 241689
+    },
+    {
+      "name": "resources_texture_188",
+      "path": "terrain/resources_texture_188.png",
+      "type": "png",
+      "size": 601
+    },
+    {
+      "name": "resources_texture_131",
+      "path": "terrain/resources_texture_131.png",
+      "type": "png",
+      "size": 10809
+    },
+    {
+      "name": "sharedassets1_texture_34",
+      "path": "terrain/sharedassets1_texture_34.png",
+      "type": "png",
+      "size": 6236
+    },
+    {
+      "name": "resources_texture_227",
+      "path": "terrain/resources_texture_227.png",
+      "type": "png",
+      "size": 79
+    },
+    {
+      "name": "resources_texture_193",
+      "path": "terrain/resources_texture_193.png",
+      "type": "png",
+      "size": 122325
+    },
+    {
+      "name": "resources_texture_233",
+      "path": "terrain/resources_texture_233.png",
+      "type": "png",
+      "size": 792
+    },
+    {
+      "name": "resources_texture_248",
+      "path": "terrain/resources_texture_248.png",
+      "type": "png",
+      "size": 76310
+    },
+    {
+      "name": "resources_texture_195",
+      "path": "terrain/resources_texture_195.png",
+      "type": "png",
+      "size": 223
+    },
+    {
+      "name": "resources_texture_244",
+      "path": "terrain/resources_texture_244.png",
+      "type": "png",
+      "size": 145290
+    },
+    {
+      "name": "resources_texture_258",
+      "path": "terrain/resources_texture_258.png",
+      "type": "png",
+      "size": 1060
+    },
+    {
+      "name": "resources_texture_257",
+      "path": "terrain/resources_texture_257.png",
+      "type": "png",
+      "size": 1476
+    },
+    {
+      "name": "resources_texture_162",
+      "path": "terrain/resources_texture_162.png",
+      "type": "png",
+      "size": 239
+    },
+    {
+      "name": "resources_texture_140",
+      "path": "terrain/resources_texture_140.png",
+      "type": "png",
+      "size": 148831
+    },
+    {
+      "name": "sharedassets1_texture_15",
+      "path": "terrain/sharedassets1_texture_15.png",
+      "type": "png",
+      "size": 895710
+    },
+    {
+      "name": "resources_texture_182",
+      "path": "terrain/resources_texture_182.png",
+      "type": "png",
+      "size": 22282
+    },
+    {
+      "name": "resources_texture_119",
+      "path": "terrain/resources_texture_119.png",
+      "type": "png",
+      "size": 960
+    },
+    {
+      "name": "resources_texture_76",
+      "path": "terrain/resources_texture_76.png",
+      "type": "png",
+      "size": 737
+    },
+    {
+      "name": "sharedassets1_texture_37",
+      "path": "terrain/sharedassets1_texture_37.png",
+      "type": "png",
+      "size": 1851
+    },
+    {
+      "name": "resources_texture_92",
+      "path": "terrain/resources_texture_92.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_texture_126",
+      "path": "terrain/resources_texture_126.png",
+      "type": "png",
+      "size": 1801
+    },
+    {
+      "name": "resources_texture_187",
+      "path": "terrain/resources_texture_187.png",
+      "type": "png",
+      "size": 2037
+    },
+    {
+      "name": "resources_texture_136",
+      "path": "terrain/resources_texture_136.png",
+      "type": "png",
+      "size": 143
+    },
+    {
+      "name": "resources_texture_178",
+      "path": "terrain/resources_texture_178.png",
+      "type": "png",
+      "size": 86941
+    },
+    {
+      "name": "resources_texture_84",
+      "path": "terrain/resources_texture_84.png",
+      "type": "png",
+      "size": 449
+    },
+    {
+      "name": "resources_texture_161",
+      "path": "terrain/resources_texture_161.png",
+      "type": "png",
+      "size": 126
+    },
+    {
+      "name": "resources_texture_222",
+      "path": "terrain/resources_texture_222.png",
+      "type": "png",
+      "size": 212082
+    },
+    {
+      "name": "resources_texture_209",
+      "path": "terrain/resources_texture_209.png",
+      "type": "png",
+      "size": 649
+    },
+    {
+      "name": "resources_texture_199",
+      "path": "terrain/resources_texture_199.png",
+      "type": "png",
+      "size": 226969
+    },
+    {
+      "name": "sharedassets3_texture_4",
+      "path": "terrain/sharedassets3_texture_4.png",
+      "type": "png",
+      "size": 14491
+    },
+    {
+      "name": "resources_texture_247",
+      "path": "terrain/resources_texture_247.png",
+      "type": "png",
+      "size": 256307
+    },
+    {
+      "name": "resources_texture_256",
+      "path": "terrain/resources_texture_256.png",
+      "type": "png",
+      "size": 568
+    },
+    {
+      "name": "resources_texture_120",
+      "path": "terrain/resources_texture_120.png",
+      "type": "png",
+      "size": 79468
+    },
+    {
+      "name": "resources_texture_174",
+      "path": "terrain/resources_texture_174.png",
+      "type": "png",
+      "size": 58070
+    },
+    {
+      "name": "resources_texture_154",
+      "path": "terrain/resources_texture_154.png",
+      "type": "png",
+      "size": 51584
+    },
+    {
+      "name": "resources_texture_98",
+      "path": "terrain/resources_texture_98.png",
+      "type": "png",
+      "size": 944
+    },
+    {
+      "name": "sharedassets0_texture_6",
+      "path": "terrain/sharedassets0_texture_6.png",
+      "type": "png",
+      "size": 2784613
+    },
+    {
+      "name": "resources_texture_201",
+      "path": "terrain/resources_texture_201.png",
+      "type": "png",
+      "size": 943
+    },
+    {
+      "name": "resources_texture_252",
+      "path": "terrain/resources_texture_252.png",
+      "type": "png",
+      "size": 135665
+    },
+    {
+      "name": "resources_texture_214",
+      "path": "terrain/resources_texture_214.png",
+      "type": "png",
+      "size": 245569
+    },
+    {
+      "name": "sharedassets1_texture_21",
+      "path": "terrain/sharedassets1_texture_21.png",
+      "type": "png",
+      "size": 1969
+    },
+    {
+      "name": "resources_texture_83",
+      "path": "terrain/resources_texture_83.png",
+      "type": "png",
+      "size": 18685
+    },
+    {
+      "name": "resources_texture_82",
+      "path": "terrain/resources_texture_82.png",
+      "type": "png",
+      "size": 209
+    },
+    {
+      "name": "sharedassets4_texture_11",
+      "path": "terrain/sharedassets4_texture_11.png",
+      "type": "png",
+      "size": 79
+    },
+    {
+      "name": "resources_texture_80",
+      "path": "terrain/resources_texture_80.png",
+      "type": "png",
+      "size": 746
+    },
+    {
+      "name": "resources_texture_112",
+      "path": "terrain/resources_texture_112.png",
+      "type": "png",
+      "size": 125721
+    },
+    {
+      "name": "resources_texture_250",
+      "path": "terrain/resources_texture_250.png",
+      "type": "png",
+      "size": 1798
+    },
+    {
+      "name": "resources_texture_218",
+      "path": "terrain/resources_texture_218.png",
+      "type": "png",
+      "size": 136
+    },
+    {
+      "name": "resources_texture_73",
+      "path": "terrain/resources_texture_73.png",
+      "type": "png",
+      "size": 400
+    },
+    {
+      "name": "resources_texture_225",
+      "path": "terrain/resources_texture_225.png",
+      "type": "png",
+      "size": 21158
+    },
+    {
+      "name": "resources_texture_253",
+      "path": "terrain/resources_texture_253.png",
+      "type": "png",
+      "size": 1921
+    },
+    {
+      "name": "sharedassets1_texture_32",
+      "path": "terrain/sharedassets1_texture_32.png",
+      "type": "png",
+      "size": 13914
+    },
+    {
+      "name": "resources_texture_230",
+      "path": "terrain/resources_texture_230.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_texture_254",
+      "path": "terrain/resources_texture_254.png",
+      "type": "png",
+      "size": 126703
+    },
+    {
+      "name": "resources_texture_212",
+      "path": "terrain/resources_texture_212.png",
+      "type": "png",
+      "size": 152
+    },
+    {
+      "name": "resources_texture_170",
+      "path": "terrain/resources_texture_170.png",
+      "type": "png",
+      "size": 58395
+    },
+    {
+      "name": "sharedassets4_texture_18",
+      "path": "terrain/sharedassets4_texture_18.png",
+      "type": "png",
+      "size": 408
+    },
+    {
+      "name": "sharedassets1_texture_42",
+      "path": "terrain/sharedassets1_texture_42.png",
+      "type": "png",
+      "size": 2376
+    },
+    {
+      "name": "sharedassets1_texture_13",
+      "path": "terrain/sharedassets1_texture_13.png",
+      "type": "png",
+      "size": 2283637
+    },
+    {
+      "name": "sharedassets1_texture_27",
+      "path": "terrain/sharedassets1_texture_27.png",
+      "type": "png",
+      "size": 1539
+    },
+    {
+      "name": "resources_texture_239",
+      "path": "terrain/resources_texture_239.png",
+      "type": "png",
+      "size": 102
+    },
+    {
+      "name": "resources_texture_95",
+      "path": "terrain/resources_texture_95.png",
+      "type": "png",
+      "size": 1535321
+    },
+    {
+      "name": "sharedassets4_texture_19",
+      "path": "terrain/sharedassets4_texture_19.png",
+      "type": "png",
+      "size": 699
+    },
+    {
+      "name": "resources_texture_206",
+      "path": "terrain/resources_texture_206.png",
+      "type": "png",
+      "size": 77593
+    },
+    {
+      "name": "resources_texture_235",
+      "path": "terrain/resources_texture_235.png",
+      "type": "png",
+      "size": 347507
+    },
+    {
+      "name": "resources_texture_165",
+      "path": "terrain/resources_texture_165.png",
+      "type": "png",
+      "size": 966
+    },
+    {
+      "name": "resources_texture_223",
+      "path": "terrain/resources_texture_223.png",
+      "type": "png",
+      "size": 464
+    },
+    {
+      "name": "resources_texture_231",
+      "path": "terrain/resources_texture_231.png",
+      "type": "png",
+      "size": 170173
+    },
+    {
+      "name": "resources_texture_85",
+      "path": "terrain/resources_texture_85.png",
+      "type": "png",
+      "size": 935
+    },
+    {
+      "name": "sharedassets4_texture_15",
+      "path": "terrain/sharedassets4_texture_15.png",
+      "type": "png",
+      "size": 345
+    },
+    {
+      "name": "resources_texture_77",
+      "path": "terrain/resources_texture_77.png",
+      "type": "png",
+      "size": 669
+    },
+    {
+      "name": "resources_texture_135",
+      "path": "terrain/resources_texture_135.png",
+      "type": "png",
+      "size": 831
+    },
+    {
+      "name": "resources_texture_89",
+      "path": "terrain/resources_texture_89.png",
+      "type": "png",
+      "size": 95
+    },
+    {
+      "name": "globalgamemanagers_texture_4",
+      "path": "terrain/globalgamemanagers_texture_4.png",
+      "type": "png",
+      "size": 6886
+    },
+    {
+      "name": "resources_texture_255",
+      "path": "terrain/resources_texture_255.png",
+      "type": "png",
+      "size": 971
+    },
+    {
+      "name": "resources_texture_130",
+      "path": "terrain/resources_texture_130.png",
+      "type": "png",
+      "size": 247
+    },
+    {
+      "name": "resources_texture_240",
+      "path": "terrain/resources_texture_240.png",
+      "type": "png",
+      "size": 106
+    },
+    {
+      "name": "resources_texture_196",
+      "path": "terrain/resources_texture_196.png",
+      "type": "png",
+      "size": 93477
+    },
+    {
+      "name": "resources_texture_115",
+      "path": "terrain/resources_texture_115.png",
+      "type": "png",
+      "size": 594
+    },
+    {
+      "name": "sharedassets4_texture_16",
+      "path": "terrain/sharedassets4_texture_16.png",
+      "type": "png",
+      "size": 388
+    },
+    {
+      "name": "resources_texture_202",
+      "path": "terrain/resources_texture_202.png",
+      "type": "png",
+      "size": 18683
+    },
+    {
+      "name": "sharedassets1_texture_26",
+      "path": "terrain/sharedassets1_texture_26.png",
+      "type": "png",
+      "size": 5352
+    },
+    {
+      "name": "resources_texture_164",
+      "path": "terrain/resources_texture_164.png",
+      "type": "png",
+      "size": 35776
+    },
+    {
+      "name": "resources_texture_88",
+      "path": "terrain/resources_texture_88.png",
+      "type": "png",
+      "size": 125148
+    },
+    {
+      "name": "sharedassets1_texture_47",
+      "path": "terrain/sharedassets1_texture_47.png",
+      "type": "png",
+      "size": 10126
+    },
+    {
+      "name": "resources_texture_108",
+      "path": "terrain/resources_texture_108.png",
+      "type": "png",
+      "size": 43312
+    },
+    {
+      "name": "sharedassets4_texture_17",
+      "path": "terrain/sharedassets4_texture_17.png",
+      "type": "png",
+      "size": 405
+    },
+    {
+      "name": "resources_texture_109",
+      "path": "terrain/resources_texture_109.png",
+      "type": "png",
+      "size": 420
+    },
+    {
+      "name": "resources_texture_208",
+      "path": "terrain/resources_texture_208.png",
+      "type": "png",
+      "size": 1022
+    },
+    {
+      "name": "resources_texture_153",
+      "path": "terrain/resources_texture_153.png",
+      "type": "png",
+      "size": 606
+    },
+    {
+      "name": "resources_texture_167",
+      "path": "terrain/resources_texture_167.png",
+      "type": "png",
+      "size": 256115
+    },
+    {
+      "name": "sharedassets4_texture_13",
+      "path": "terrain/sharedassets4_texture_13.png",
+      "type": "png",
+      "size": 132
+    },
+    {
+      "name": "resources_texture_173",
+      "path": "terrain/resources_texture_173.png",
+      "type": "png",
+      "size": 242
+    },
+    {
+      "name": "resources_texture_245",
+      "path": "terrain/resources_texture_245.png",
+      "type": "png",
+      "size": 7138
+    },
+    {
+      "name": "resources_texture_262",
+      "path": "terrain/resources_texture_262.png",
+      "type": "png",
+      "size": 347663
+    },
+    {
+      "name": "resources_texture_159",
+      "path": "terrain/resources_texture_159.png",
+      "type": "png",
+      "size": 237659
+    },
+    {
+      "name": "resources_texture_189",
+      "path": "terrain/resources_texture_189.png",
+      "type": "png",
+      "size": 921
+    },
+    {
+      "name": "resources_texture_99",
+      "path": "terrain/resources_texture_99.png",
+      "type": "png",
+      "size": 228902
+    },
+    {
+      "name": "resources_texture_234",
+      "path": "terrain/resources_texture_234.png",
+      "type": "png",
+      "size": 143501
+    },
+    {
+      "name": "resources_texture_134",
+      "path": "terrain/resources_texture_134.png",
+      "type": "png",
+      "size": 240316
+    },
+    {
+      "name": "resources_texture_224",
+      "path": "terrain/resources_texture_224.png",
+      "type": "png",
+      "size": 1790525
+    },
+    {
+      "name": "resources_texture_146",
+      "path": "terrain/resources_texture_146.png",
+      "type": "png",
+      "size": 1213
+    },
+    {
+      "name": "sharedassets1_texture_23",
+      "path": "terrain/sharedassets1_texture_23.png",
+      "type": "png",
+      "size": 2861
+    },
+    {
+      "name": "resources_texture_237",
+      "path": "terrain/resources_texture_237.png",
+      "type": "png",
+      "size": 200
+    },
+    {
+      "name": "resources_texture_78",
+      "path": "terrain/resources_texture_78.png",
+      "type": "png",
+      "size": 806
+    },
+    {
+      "name": "sharedassets4_texture_8",
+      "path": "terrain/sharedassets4_texture_8.png",
+      "type": "png",
+      "size": 449
+    },
+    {
+      "name": "resources_texture_122",
+      "path": "terrain/resources_texture_122.png",
+      "type": "png",
+      "size": 71953
+    },
+    {
+      "name": "sharedassets4_texture_14",
+      "path": "terrain/sharedassets4_texture_14.png",
+      "type": "png",
+      "size": 447
+    },
+    {
+      "name": "sharedassets1_texture_43",
+      "path": "terrain/sharedassets1_texture_43.png",
+      "type": "png",
+      "size": 1502
+    },
+    {
+      "name": "resources_texture_91",
+      "path": "terrain/resources_texture_91.png",
+      "type": "png",
+      "size": 257517
+    },
+    {
+      "name": "resources_texture_204",
+      "path": "terrain/resources_texture_204.png",
+      "type": "png",
+      "size": 246319
+    },
+    {
+      "name": "resources_texture_106",
+      "path": "terrain/resources_texture_106.png",
+      "type": "png",
+      "size": 357
+    },
+    {
+      "name": "resources_texture_102",
+      "path": "terrain/resources_texture_102.png",
+      "type": "png",
+      "size": 223090
+    },
+    {
+      "name": "resources_texture_166",
+      "path": "terrain/resources_texture_166.png",
+      "type": "png",
+      "size": 160
+    },
+    {
+      "name": "resources_texture_148",
+      "path": "terrain/resources_texture_148.png",
+      "type": "png",
+      "size": 39252
+    },
+    {
+      "name": "resources_texture_228",
+      "path": "terrain/resources_texture_228.png",
+      "type": "png",
+      "size": 257849
+    },
+    {
+      "name": "resources_texture_171",
+      "path": "terrain/resources_texture_171.png",
+      "type": "png",
+      "size": 263
+    },
+    {
+      "name": "resources_texture_107",
+      "path": "terrain/resources_texture_107.png",
+      "type": "png",
+      "size": 31832
+    },
+    {
+      "name": "globalgamemanagers_texture_5",
+      "path": "terrain/globalgamemanagers_texture_5.png",
+      "type": "png",
+      "size": 237653
+    },
+    {
+      "name": "resources_texture_86",
+      "path": "terrain/resources_texture_86.png",
+      "type": "png",
+      "size": 9403
+    },
+    {
+      "name": "resources_texture_260",
+      "path": "terrain/resources_texture_260.png",
+      "type": "png",
+      "size": 352715
+    },
+    {
+      "name": "resources_texture_211",
+      "path": "terrain/resources_texture_211.png",
+      "type": "png",
+      "size": 228159
+    },
+    {
+      "name": "sharedassets4_texture_10",
+      "path": "terrain/sharedassets4_texture_10.png",
+      "type": "png",
+      "size": 350
+    },
+    {
+      "name": "resources_texture_133",
+      "path": "terrain/resources_texture_133.png",
+      "type": "png",
+      "size": 106
+    },
+    {
+      "name": "resources_texture_194",
+      "path": "terrain/resources_texture_194.png",
+      "type": "png",
+      "size": 457
+    },
+    {
+      "name": "resources_texture_241",
+      "path": "terrain/resources_texture_241.png",
+      "type": "png",
+      "size": 966
+    },
+    {
+      "name": "resources_texture_213",
+      "path": "terrain/resources_texture_213.png",
+      "type": "png",
+      "size": 9536
+    },
+    {
+      "name": "sharedassets1_texture_40",
+      "path": "terrain/sharedassets1_texture_40.png",
+      "type": "png",
+      "size": 18005
+    },
+    {
+      "name": "sharedassets1_texture_29",
+      "path": "terrain/sharedassets1_texture_29.png",
+      "type": "png",
+      "size": 1613
+    },
+    {
+      "name": "resources_texture_232",
+      "path": "terrain/resources_texture_232.png",
+      "type": "png",
+      "size": 231505
+    },
+    {
+      "name": "resources_texture_229",
+      "path": "terrain/resources_texture_229.png",
+      "type": "png",
+      "size": 500
+    },
+    {
+      "name": "resources_texture_217",
+      "path": "terrain/resources_texture_217.png",
+      "type": "png",
+      "size": 251347
+    },
+    {
+      "name": "resources_texture_191",
+      "path": "terrain/resources_texture_191.png",
+      "type": "png",
+      "size": 2535235
+    },
+    {
+      "name": "sharedassets1_texture_44",
+      "path": "terrain/sharedassets1_texture_44.png",
+      "type": "png",
+      "size": 2973
+    },
+    {
+      "name": "resources_texture_242",
+      "path": "terrain/resources_texture_242.png",
+      "type": "png",
+      "size": 160141
+    },
+    {
+      "name": "sharedassets1_texture_18",
+      "path": "terrain/sharedassets1_texture_18.png",
+      "type": "png",
+      "size": 2352
+    },
+    {
+      "name": "resources_texture_124",
+      "path": "terrain/resources_texture_124.png",
+      "type": "png",
+      "size": 975
+    },
+    {
+      "name": "resources_texture_113",
+      "path": "terrain/resources_texture_113.png",
+      "type": "png",
+      "size": 56735
+    },
+    {
+      "name": "resources_texture_74",
+      "path": "terrain/resources_texture_74.png",
+      "type": "png",
+      "size": 224061
+    },
+    {
+      "name": "resources_texture_226",
+      "path": "terrain/resources_texture_226.png",
+      "type": "png",
+      "size": 254
+    },
+    {
+      "name": "resources_texture_185",
+      "path": "terrain/resources_texture_185.png",
+      "type": "png",
+      "size": 20087
+    },
+    {
+      "name": "resources_texture_147",
+      "path": "terrain/resources_texture_147.png",
+      "type": "png",
+      "size": 86
+    },
+    {
+      "name": "resources_texture_180",
+      "path": "terrain/resources_texture_180.png",
+      "type": "png",
+      "size": 3054263
+    },
+    {
+      "name": "sharedassets1_texture_38",
+      "path": "terrain/sharedassets1_texture_38.png",
+      "type": "png",
+      "size": 9161
+    },
+    {
+      "name": "sharedassets3_texture_2",
+      "path": "terrain/sharedassets3_texture_2.png",
+      "type": "png",
+      "size": 1791482
+    },
+    {
+      "name": "resources_texture_114",
+      "path": "terrain/resources_texture_114.png",
+      "type": "png",
+      "size": 7722
+    },
+    {
+      "name": "sharedassets1_texture_41",
+      "path": "terrain/sharedassets1_texture_41.png",
+      "type": "png",
+      "size": 2914
+    },
+    {
+      "name": "resources_texture_96",
+      "path": "terrain/resources_texture_96.png",
+      "type": "png",
+      "size": 185
+    },
+    {
+      "name": "resources_texture_219",
+      "path": "terrain/resources_texture_219.png",
+      "type": "png",
+      "size": 489
+    },
+    {
+      "name": "resources_texture_101",
+      "path": "terrain/resources_texture_101.png",
+      "type": "png",
+      "size": 2370021
+    },
+    {
+      "name": "resources_texture_156",
+      "path": "terrain/resources_texture_156.png",
+      "type": "png",
+      "size": 680
+    },
+    {
+      "name": "resources_texture_184",
+      "path": "terrain/resources_texture_184.png",
+      "type": "png",
+      "size": 200562
+    },
+    {
+      "name": "resources_texture_221",
+      "path": "terrain/resources_texture_221.png",
+      "type": "png",
+      "size": 72417
+    },
+    {
+      "name": "sharedassets4_texture_7",
+      "path": "terrain/sharedassets4_texture_7.png",
+      "type": "png",
+      "size": 411
+    },
+    {
+      "name": "sharedassets4_texture_12",
+      "path": "terrain/sharedassets4_texture_12.png",
+      "type": "png",
+      "size": 393
+    },
+    {
+      "name": "resources_texture_198",
+      "path": "terrain/resources_texture_198.png",
+      "type": "png",
+      "size": 1078
+    },
+    {
+      "name": "sharedassets1_texture_24",
+      "path": "terrain/sharedassets1_texture_24.png",
+      "type": "png",
+      "size": 1517
+    },
+    {
+      "name": "resources_texture_176",
+      "path": "terrain/resources_texture_176.png",
+      "type": "png",
+      "size": 19758
+    },
+    {
+      "name": "sharedassets1_texture_25",
+      "path": "terrain/sharedassets1_texture_25.png",
+      "type": "png",
+      "size": 25510
+    },
+    {
+      "name": "resources_texture_118",
+      "path": "terrain/resources_texture_118.png",
+      "type": "png",
+      "size": 468
+    },
+    {
+      "name": "resources_texture_215",
+      "path": "terrain/resources_texture_215.png",
+      "type": "png",
+      "size": 226
+    },
+    {
+      "name": "sharedassets1_texture_17",
+      "path": "terrain/sharedassets1_texture_17.png",
+      "type": "png",
+      "size": 12295
+    },
+    {
+      "name": "resources_texture_186",
+      "path": "terrain/resources_texture_186.png",
+      "type": "png",
+      "size": 280
+    },
+    {
+      "name": "resources_texture_175",
+      "path": "terrain/resources_texture_175.png",
+      "type": "png",
+      "size": 115
+    },
+    {
+      "name": "resources_texture_81",
+      "path": "terrain/resources_texture_81.png",
+      "type": "png",
+      "size": 221
+    },
+    {
+      "name": "resources_texture_141",
+      "path": "terrain/resources_texture_141.png",
+      "type": "png",
+      "size": 102458
+    },
+    {
+      "name": "sharedassets0_texture_4",
+      "path": "terrain/sharedassets0_texture_4.png",
+      "type": "png",
+      "size": 2722213
+    },
+    {
+      "name": "resources_texture_183",
+      "path": "terrain/resources_texture_183.png",
+      "type": "png",
+      "size": 194739
+    },
+    {
+      "name": "sharedassets1_texture_19",
+      "path": "terrain/sharedassets1_texture_19.png",
+      "type": "png",
+      "size": 14470
+    },
+    {
+      "name": "sharedassets0_texture_5",
+      "path": "terrain/sharedassets0_texture_5.png",
+      "type": "png",
+      "size": 3016513
+    },
+    {
+      "name": "resources_texture_97",
+      "path": "terrain/resources_texture_97.png",
+      "type": "png",
+      "size": 2642366
+    },
+    {
+      "name": "resources_texture_172",
+      "path": "terrain/resources_texture_172.png",
+      "type": "png",
+      "size": 1862
+    },
+    {
+      "name": "sharedassets1_texture_31",
+      "path": "terrain/sharedassets1_texture_31.png",
+      "type": "png",
+      "size": 9092
+    },
+    {
+      "name": "resources_texture_75",
+      "path": "terrain/resources_texture_75.png",
+      "type": "png",
+      "size": 1546
+    },
+    {
+      "name": "resources_texture_168",
+      "path": "terrain/resources_texture_168.png",
+      "type": "png",
+      "size": 448
+    },
+    {
+      "name": "resources_texture_158",
+      "path": "terrain/resources_texture_158.png",
+      "type": "png",
+      "size": 246975
+    },
+    {
+      "name": "resources_texture_197",
+      "path": "terrain/resources_texture_197.png",
+      "type": "png",
+      "size": 2020786
+    },
+    {
+      "name": "resources_texture_87",
+      "path": "terrain/resources_texture_87.png",
+      "type": "png",
+      "size": 107048
+    },
+    {
+      "name": "resources_texture_132",
+      "path": "terrain/resources_texture_132.png",
+      "type": "png",
+      "size": 18402285
+    },
+    {
+      "name": "sharedassets1_texture_28",
+      "path": "terrain/sharedassets1_texture_28.png",
+      "type": "png",
+      "size": 4093
+    },
+    {
+      "name": "sharedassets1_texture_16",
+      "path": "terrain/sharedassets1_texture_16.png",
+      "type": "png",
+      "size": 19189
+    },
+    {
+      "name": "sharedassets1_texture_39",
+      "path": "terrain/sharedassets1_texture_39.png",
+      "type": "png",
+      "size": 78
+    },
+    {
+      "name": "resources_texture_238",
+      "path": "terrain/resources_texture_238.png",
+      "type": "png",
+      "size": 51512
+    },
+    {
+      "name": "resources_texture_155",
+      "path": "terrain/resources_texture_155.png",
+      "type": "png",
+      "size": 249028
+    },
+    {
+      "name": "sharedassets0_texture_7",
+      "path": "terrain/sharedassets0_texture_7.png",
+      "type": "png",
+      "size": 1908735
+    },
+    {
+      "name": "resources_texture_192",
+      "path": "terrain/resources_texture_192.png",
+      "type": "png",
+      "size": 1031
+    },
+    {
+      "name": "resources_texture_207",
+      "path": "terrain/resources_texture_207.png",
+      "type": "png",
+      "size": 2283836
+    }
+  ],
+  "ui": [],
+  "effects": [],
+  "metadata": []
+}

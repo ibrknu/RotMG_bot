@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "exalt-extractor"
+version = "1.0.0"
+description = ""
+authors = ["him <im@him.is>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+argparse = "^1.4.0"
+UnityPy = "^1.7.34"
+colorama = "^0.4.6"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
