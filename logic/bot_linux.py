@@ -6,6 +6,7 @@ import re
 from PySide6.QtCore import QObject, Signal
 import mss
 import numpy as np
+import cv2
 
 from vision import detection
 from input import keyboard, mouse

@@ -130,27 +130,47 @@ class BotWindow(QMainWindow):
             self.append_status("Refreshing window detection...")
             
             if self.bot:
-                self.bot.find_rotmg_window()
-                if self.bot.rotmg_window_handle:
+                # Use the bot's own window detection method
+                if hasattr(self.bot, 'find_rotmg_window'):
+                    self.bot.find_rotmg_window()
+                
+                # Check for Windows bot
+                if hasattr(self.bot, 'rotmg_window_handle') and self.bot.rotmg_window_handle:
                     self.window_status_label.setText("RotMG Window: Detected")
                     self.window_status_label.setStyleSheet("color: green; font-weight: bold;")
                     self.append_status("RotMG window detected successfully!")
+                # Check for Linux bot
+                elif hasattr(self.bot, 'rotmg_window_info') and self.bot.rotmg_window_info:
+                    self.window_status_label.setText(f"RotMG Window: {self.bot.rotmg_window_info['name']}")
+                    self.window_status_label.setStyleSheet("color: green; font-weight: bold;")
+                    self.append_status("RotMG window detected successfully!")
                 else:
-                    self.window_status_label.setText("RotMG Window: Not Found")
-                    self.window_status_label.setStyleSheet("color: red; font-weight: bold;")
-                    self.append_status("RotMG window not found. Make sure the game is running.")
+                    self.window_status_label.setText("RotMG Window: Not Found (Fullscreen Mode)")
+                    self.window_status_label.setStyleSheet("color: orange; font-weight: bold;")
+                    self.append_status("RotMG window not found. Running in fullscreen mode.")
             else:
                 # Create a temporary bot instance to test window detection
-                from logic.bot import RotMGbot
-                temp_bot = RotMGbot(self.config)
-                if temp_bot.rotmg_window_handle:
+                if self.bot_class:
+                    # Use Linux bot for testing
+                    temp_bot = self.bot_class(self.config)
+                else:
+                    # Use Windows bot for testing
+                    from logic.bot import RotMGbot
+                    temp_bot = RotMGbot(self.config)
+                
+                # Check window detection result
+                if hasattr(temp_bot, 'rotmg_window_handle') and temp_bot.rotmg_window_handle:
                     self.window_status_label.setText("RotMG Window: Detected")
                     self.window_status_label.setStyleSheet("color: green; font-weight: bold;")
                     self.append_status("RotMG window detected successfully!")
+                elif hasattr(temp_bot, 'rotmg_window_info') and temp_bot.rotmg_window_info:
+                    self.window_status_label.setText(f"RotMG Window: {temp_bot.rotmg_window_info['name']}")
+                    self.window_status_label.setStyleSheet("color: green; font-weight: bold;")
+                    self.append_status("RotMG window detected successfully!")
                 else:
-                    self.window_status_label.setText("RotMG Window: Not Found")
-                    self.window_status_label.setStyleSheet("color: red; font-weight: bold;")
-                    self.append_status("RotMG window not found. Make sure the game is running.")
+                    self.window_status_label.setText("RotMG Window: Not Found (Fullscreen Mode)")
+                    self.window_status_label.setStyleSheet("color: orange; font-weight: bold;")
+                    self.append_status("RotMG window not found. Running in fullscreen mode.")
                     
         except Exception as e:
             self.append_status(f"Error refreshing window detection: {e}")
@@ -171,13 +191,18 @@ class BotWindow(QMainWindow):
                 from logic.bot import RotMGbot
                 self.bot = RotMGbot(config=self.config)
             
-            # Update window status
-            if self.bot.rotmg_window_handle:
+            # Update window status (works for both Windows and Linux bots)
+            if hasattr(self.bot, 'rotmg_window_handle') and self.bot.rotmg_window_handle:
+                # Windows bot
                 self.window_status_label.setText("RotMG Window: Detected")
                 self.window_status_label.setStyleSheet("color: green; font-weight: bold;")
+            elif hasattr(self.bot, 'rotmg_window_info') and self.bot.rotmg_window_info:
+                # Linux bot
+                self.window_status_label.setText(f"RotMG Window: {self.bot.rotmg_window_info['name']}")
+                self.window_status_label.setStyleSheet("color: green; font-weight: bold;")
             else:
-                self.window_status_label.setText("RotMG Window: Not Found")
-                self.window_status_label.setStyleSheet("color: red; font-weight: bold;")
+                self.window_status_label.setText("RotMG Window: Not Found (Fullscreen Mode)")
+                self.window_status_label.setStyleSheet("color: orange; font-weight: bold;")
             
             # Connect bot signals to UI
             if hasattr(self.bot, 'status_signal'):
