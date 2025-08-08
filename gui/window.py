@@ -245,17 +245,29 @@ class BotWindow(QMainWindow):
                 self.bot.stop()
                 self.bot._running = False  # Force stop
             
-            # Force quit the thread
+            # Force quit the thread with timeout
             if self.bot_thread and self.bot_thread.isRunning():
                 self.bot_thread.quit()
-                if not self.bot_thread.wait(3000):  # Wait up to 3 seconds
+                if not self.bot_thread.wait(2000):  # Wait up to 2 seconds
+                    self.append_status("Force terminating bot thread...")
                     self.bot_thread.terminate()  # Force terminate if needed
-                    self.bot_thread.wait()
+                    if not self.bot_thread.wait(1000):  # Wait another second
+                        self.append_status("Bot thread not responding, forcing cleanup...")
+                        # Force cleanup even if thread doesn't respond
+                        self.bot_thread.deleteLater()
             
-            self.bot = None
+            # Clean up bot instance
+            if self.bot:
+                try:
+                    # Stop user input monitor if it exists
+                    if hasattr(self.bot, 'user_input_monitor'):
+                        self.bot.user_input_monitor.stop()
+                except:
+                    pass
+                self.bot = None
+            
             self.bot_thread = None
-            
-            self.append_status("Bot stopped.")
+            self.append_status("Bot stopped successfully.")
             
         except Exception as e:
             self.append_status(f"Error stopping bot: {e}")

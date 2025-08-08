@@ -217,130 +217,152 @@ class RotMGbotLinux(QObject):
         # Main loop
         prev_time = time.time()
         loop_count = 0
+        consecutive_failures = 0
+        max_failures = 10  # Stop after 10 consecutive failures
         
         while self._running:
-            loop_start = time.time()
-            loop_count += 1
-            
-            # Log every 60 loops (about once per second)
-            if loop_count % 60 == 0:
-                self.status_signal.emit(f"Bot running - loop {loop_count}")
-            
-            # 1. Screen capture
             try:
-                frame = self.capture_game_screen()
-                if frame is None:
-                    self.status_signal.emit("Screen capture failed")
+                loop_start = time.time()
+                loop_count += 1
+                
+                # Log every 60 loops (about once per second)
+                if loop_count % 60 == 0:
+                    self.status_signal.emit(f"Bot running - loop {loop_count}")
+                
+                # 1. Screen capture with timeout
+                frame = None
+                try:
+                    frame = self.capture_game_screen()
+                    if frame is not None:
+                        consecutive_failures = 0  # Reset failure counter on success
+                    else:
+                        consecutive_failures += 1
+                        self.status_signal.emit(f"Screen capture failed (attempt {consecutive_failures})")
+                        if consecutive_failures >= max_failures:
+                            self.status_signal.emit("Too many capture failures, stopping bot")
+                            break
+                        time.sleep(0.1)
+                        continue
+                except Exception as e:
+                    consecutive_failures += 1
+                    self.status_signal.emit(f"Screen capture error: {e}")
+                    if consecutive_failures >= max_failures:
+                        self.status_signal.emit("Too many capture errors, stopping bot")
+                        break
                     time.sleep(0.1)
                     continue
-            except Exception as e:
-                self.status_signal.emit(f"Screen capture failed: {e}")
-                time.sleep(0.1)
-                continue
 
-            # 2. Vision: detect game elements
-            try:
-                player_hp = detection.get_hp_percent(frame)
-                enemies = detection.find_enemies(frame)
-                bullets = detection.find_bullets(frame)
-                loot_items = detection.find_loot(frame)
-                obstacles = detection.find_obstacles(frame)
-                
-                if detection.inventory_is_full(frame):
-                    self.inventory_full = True
+                # 2. Vision: detect game elements (with timeout protection)
+                try:
+                    player_hp = detection.get_hp_percent(frame)
+                    enemies = detection.find_enemies(frame)
+                    bullets = detection.find_bullets(frame)
+                    loot_items = detection.find_loot(frame)
+                    obstacles = detection.find_obstacles(frame)
+                    
+                    if detection.inventory_is_full(frame):
+                        self.inventory_full = True
+                    else:
+                        self.inventory_full = False
+                    
+                    # Log detection results occasionally
+                    if loop_count % 120 == 0:  # Every 2 seconds
+                        self.status_signal.emit(f"Detection: HP={player_hp}%, Enemies={len(enemies)}, Bullets={len(bullets)}")
+                        
+                except Exception as e:
+                    self.status_signal.emit(f"Detection failed: {e}")
+                    time.sleep(0.1)
+                    continue
+
+                # 3. Decision Making:
+                # Auto-Nexus: if HP below threshold, trigger Nexus
+                if player_hp is not None and player_hp <= self.auto_nexus_percent:
+                    logging.warning(f"HP {player_hp}% <= threshold! Auto-Nexus activated.")
+                    self.status_signal.emit("Auto-Nexus triggered! HP low.")
+                    # Press the Nexus key (teleport to Nexus)
+                    nexus_key = self.keybinds.get('nexus', 'r')
+                    self.keyboard.tap_key(nexus_key)
+                    time.sleep(1)  # small delay after nexusing
+                    self._running = False
+                    continue
+
+                # Combat logic (simplified to prevent freezing)
+                if enemies and len(enemies) > 0:
+                    target = enemies[0]  # take first enemy
+                    if 'center' in target:
+                        ex, ey = target['center']
+                        
+                        # Aim at enemy
+                        self.mouse.move_to(ex, ey)
+                        # Attack
+                        self.mouse.click(button='left')
+                        self.status_signal.emit(f"Enemy detected at {target['center']}, attacking.")
+                        
+                        # Movement based on mode (simplified)
+                        if self.movement_mode.lower().startswith("kit"):  # Kiting
+                            if 'distance' in target and target['distance'] < 100:  # if enemy too close
+                                # Move away from enemy
+                                dx = target['center'][0] - frame.shape[1]//2
+                                dy = target['center'][1] - frame.shape[0]//2
+                                move_x, move_y = -dx, -dy
+                                keyboard.move_towards(move_x, move_y, self.keyboard, self.keybinds)
+                            else:
+                                keyboard.release_movement_keys(self.keyboard, self.keybinds)
+                        else:
+                            # Circle-Strafe
+                            dx = target['center'][0] - frame.shape[1]//2
+                            dy = target['center'][1] - frame.shape[0]//2
+                            perp_x, perp_y = -dy, dx
+                            keyboard.move_towards(perp_x, perp_y, self.keyboard, self.keybinds)
                 else:
-                    self.inventory_full = False
+                    # No enemies seen, stop moving/attacking
+                    keyboard.release_movement_keys(self.keyboard, self.keybinds)
                 
-                # Log detection results occasionally
-                if loop_count % 120 == 0:  # Every 2 seconds
-                    self.status_signal.emit(f"Detection: HP={player_hp}%, Enemies={len(enemies)}, Bullets={len(bullets)}")
+                # Bullet dodging (simplified)
+                if bullets and len(bullets) > 0:
+                    for b in bullets[:3]:  # Limit to first 3 bullets to prevent freezing
+                        if 'center' in b and detection.is_bullet_dangerous(b):
+                            dodge_dir = detection.get_dodge_direction(b)
+                            keyboard.move_direction(dodge_dir, self.keyboard, self.keybinds, duration=0.1)
+                            self.status_signal.emit("Dodging projectile!")
+                            break  # Only dodge one bullet per loop
+
+                # Looting logic (simplified)
+                if loot_items and len(loot_items) > 0:
+                    if self.inventory_full:
+                        worst_slot = detection.find_worst_item_slot(frame)
+                        if worst_slot is not None:
+                            logging.info(f"Inventory full. Dropping item in slot {worst_slot}.")
+                            self.status_signal.emit("Inventory full; dropping least valuable item.")
+                            mouse.drop_item(worst_slot, self.mouse, self.keybinds)
+                            time.sleep(0.5)
+                            self.inventory_full = False
+                    
+                    # Pick up first desired loot item
+                    for item in loot_items[:2]:  # Limit to first 2 items
+                        if 'name' in item and 'center' in item:
+                            item_name = item['name']
+                            value = detection.get_item_value(item_name)
+                            if value and value >= 0:
+                                ix, iy = item['center']
+                                self.mouse.move_to(ix, iy)
+                                self.mouse.click(button='left')
+                                logging.info(f"Picking up loot: {item_name} at {item['center']}")
+                                self.status_signal.emit(f"Looting item: {item_name}")
+                                time.sleep(0.2)
+                                break
+
+                # 4. Maintain loop timing ~30 FPS (reduced from 60 to prevent freezing)
+                loop_end = time.time()
+                elapsed = loop_end - loop_start
+                if elapsed < 1/30:
+                    time.sleep(1/30 - elapsed)
                     
             except Exception as e:
-                self.status_signal.emit(f"Detection failed: {e}")
-                time.sleep(0.1)
+                logging.error(f"Error in main bot loop: {e}")
+                self.status_signal.emit(f"Bot loop error: {e}")
+                time.sleep(0.5)  # Wait before retrying
                 continue
-
-            # 3. Decision Making:
-            # Auto-Nexus: if HP below threshold, trigger Nexus
-            if player_hp is not None and player_hp <= self.auto_nexus_percent:
-                logging.warning(f"HP {player_hp}% <= threshold! Auto-Nexus activated.")
-                self.status_signal.emit("Auto-Nexus triggered! HP low.")
-                # Press the Nexus key (teleport to Nexus)
-                nexus_key = self.keybinds.get('nexus', 'r')
-                self.keyboard.tap_key(nexus_key)
-                time.sleep(1)  # small delay after nexusing
-                self._running = False
-                continue
-
-            # Combat logic
-            if enemies:
-                target = enemies[0]  # take first enemy
-                ex, ey = target['center']
-                
-                # Aim at enemy
-                self.mouse.move_to(ex, ey)
-                # Attack
-                self.mouse.click(button='left')
-                self.status_signal.emit(f"Enemy detected at {target['center']}, attacking.")
-                
-                # Movement based on mode
-                if self.movement_mode.lower().startswith("kit"):  # Kiting
-                    if target['distance'] < 100:  # if enemy too close
-                        # Move away from enemy
-                        dx = target['center'][0] - frame.shape[1]//2
-                        dy = target['center'][1] - frame.shape[0]//2
-                        move_x, move_y = -dx, -dy
-                        keyboard.move_towards(move_x, move_y, self.keyboard, self.keybinds)
-                    else:
-                        keyboard.release_movement_keys(self.keyboard, self.keybinds)
-                else:
-                    # Circle-Strafe
-                    dx = target['center'][0] - frame.shape[1]//2
-                    dy = target['center'][1] - frame.shape[0]//2
-                    perp_x, perp_y = -dy, dx
-                    keyboard.move_towards(perp_x, perp_y, self.keyboard, self.keybinds)
-            else:
-                # No enemies seen, stop moving/attacking
-                keyboard.release_movement_keys(self.keyboard, self.keybinds)
-            
-            # Bullet dodging
-            if bullets:
-                for b in bullets:
-                    if detection.is_bullet_dangerous(b):
-                        dodge_dir = detection.get_dodge_direction(b)
-                        keyboard.move_direction(dodge_dir, self.keyboard, self.keybinds, duration=0.1)
-                        self.status_signal.emit("Dodging projectile!")
-                        logging.info(f"Dodging bullet at {b['center']}.")
-
-            # Looting logic
-            if loot_items:
-                if self.inventory_full:
-                    worst_slot = detection.find_worst_item_slot(frame)
-                    if worst_slot is not None:
-                        logging.info(f"Inventory full. Dropping item in slot {worst_slot}.")
-                        self.status_signal.emit("Inventory full; dropping least valuable item.")
-                        mouse.drop_item(worst_slot, self.mouse, self.keybinds)
-                        time.sleep(0.5)
-                        self.inventory_full = False
-                
-                # Pick up desired loot
-                for item in loot_items:
-                    item_name = item['name']
-                    value = detection.get_item_value(item_name)
-                    if value and value >= 0:
-                        ix, iy = item['center']
-                        self.mouse.move_to(ix, iy)
-                        self.mouse.click(button='left')
-                        logging.info(f"Picking up loot: {item_name} at {item['center']}")
-                        self.status_signal.emit(f"Looting item: {item_name}")
-                        time.sleep(0.2)
-                        break
-
-            # 4. Maintain loop timing ~60 FPS
-            loop_end = time.time()
-            elapsed = loop_end - loop_start
-            if elapsed < 1/60:
-                time.sleep(1/60 - elapsed)
 
         logging.info("Linux RotMG Bot loop terminated.")
         self.status_signal.emit("Bot stopped.")
