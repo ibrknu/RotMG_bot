@@ -125,13 +125,31 @@ class AssetLoader:
         assets = self.get_assets_by_category(category)
         loaded_images = {}
         
+        # Define maximum template sizes to prevent memory issues
+        max_width = 1920  # Screen width
+        max_height = 1080  # Screen height
+        max_template_size = 200  # Maximum template size for detection
+        
         for asset in assets:
             if asset['type'] in ['png', 'jpg', 'jpeg']:
                 image = self.load_image_asset(asset['path'])
                 if image is not None:
+                    # Filter out oversized templates
+                    h, w = image.shape[:2]
+                    
+                    # Skip if image is larger than screen
+                    if w > max_width or h > max_height:
+                        logger.debug(f"Skipping oversized asset {asset['name']}: {w}x{h}")
+                        continue
+                    
+                    # Skip if template is too large for efficient detection
+                    if w > max_template_size or h > max_template_size:
+                        logger.debug(f"Skipping large template {asset['name']}: {w}x{h}")
+                        continue
+                    
                     loaded_images[asset['name']] = image
         
-        logger.info(f"Loaded {len(loaded_images)} images from category '{category}'")
+        logger.info(f"Loaded {len(loaded_images)} images from category '{category}' (filtered from {len(assets)} total)")
         return loaded_images
     
     def get_sprite_info(self, sprite_name: str) -> Optional[Dict[str, Any]]:
