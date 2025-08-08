@@ -3,17 +3,20 @@ from PySide6.QtWidgets import QLabel, QSlider, QComboBox, QGroupBox, QFormLayout
 from PySide6.QtCore import Qt, QThread, Signal
 import logging
 
-from logic.bot import RotMGbot
+# Import will be handled dynamically based on bot_class parameter
 
 class BotWindow(QMainWindow):
     """Main application window with controls for the RotMG bot."""
     # Define custom signal to update status text from bot thread
     status_updated = Signal(str)
 
-    def __init__(self, config):
+    def __init__(self, config, bot_class=None):
         super().__init__()
-        self.setWindowTitle("RotMG Bot Control")
+        self.setWindowTitle("RotMG Bot Control - Linux")
         self.resize(400, 300)  # initial size, but can be resized
+        
+        # Use specified bot class or default to Windows version
+        self.bot_class = bot_class
 
         # Central widget and layout
         central = QWidget()
@@ -105,7 +108,7 @@ class BotWindow(QMainWindow):
 
         # Bot thread is initially not running
         self.bot_thread = None
-        self.bot = None  # will hold RotMGbot instance
+        self.bot = None  # will hold bot instance
 
         # Save reference to config for future use
         self.config = config
@@ -161,8 +164,12 @@ class BotWindow(QMainWindow):
             # Update config with current settings
             self.update_config_from_ui()
             
-            # Create bot instance
-            self.bot = RotMGbot(config=self.config)
+            # Create bot instance with specified class or default
+            if self.bot_class:
+                self.bot = self.bot_class(config=self.config)
+            else:
+                from logic.bot import RotMGbot
+                self.bot = RotMGbot(config=self.config)
             
             # Update window status
             if self.bot.rotmg_window_handle:

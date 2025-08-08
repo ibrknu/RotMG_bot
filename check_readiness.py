@@ -69,13 +69,17 @@ def check_calibration():
     """Check calibration status"""
     print("\n🔍 Checking Calibration...")
     
+    # Check for calibration.json
     calib_file = Path("config/calibration.json")
+    calib_loaded = False
+    
     if calib_file.exists():
         try:
             with open(calib_file, 'r') as f:
                 calib_data = json.load(f)
             
             print(f"  ✅ Calibration file exists")
+            calib_loaded = True
             
             # Check key calibration settings
             if 'hp_bar' in calib_data:
@@ -88,13 +92,30 @@ def check_calibration():
             else:
                 print(f"  ⚠️  Detection thresholds not configured")
                 
-            return True
         except Exception as e:
             print(f"  ❌ Error reading calibration: {e}")
-            return False
-    else:
-        print(f"  ⚠️  No calibration file found (run calibration tool)")
+    
+    # Check for user config with HP bar settings
+    user_config_file = Path("config/user_config.json")
+    if user_config_file.exists():
+        try:
+            with open(user_config_file, 'r') as f:
+                user_data = json.load(f)
+            
+            if 'hp_bar_region' in user_data:
+                print(f"  ✅ HP bar coordinates found in user config")
+                calib_loaded = True
+            else:
+                print(f"  ⚠️  No HP bar coordinates in user config")
+                
+        except Exception as e:
+            print(f"  ❌ Error reading user config: {e}")
+    
+    if not calib_loaded:
+        print(f"  ⚠️  No calibration data found")
         return False
+        
+    return True
 
 def check_config():
     """Check configuration files"""

@@ -118,12 +118,32 @@ def find_loot(frame):
 
 def get_hp_percent(frame):
     """Read the player's HP bar from the frame and return percentage (0-100)."""
-    # Get HP bar coordinates from calibration data
+    # Get HP bar coordinates from calibration data or user config
     hp_config = calibration_data.get('hp_bar', {})
-    x1 = hp_config.get('x1', 50)
-    y1 = hp_config.get('y1', 900)
-    x2 = hp_config.get('x2', 250)
-    y2 = hp_config.get('y2', 920)
+    
+    # If no calibration data, try user config
+    if not hp_config:
+        try:
+            from config import settings
+            user_config = settings.load_config()
+            hp_region_config = user_config.get('hp_bar_region', {})
+            if hp_region_config:
+                x = hp_region_config.get('x', 50)
+                y = hp_region_config.get('y', 900)
+                width = hp_region_config.get('width', 200)
+                height = hp_region_config.get('height', 20)
+                x1, y1 = x, y
+                x2, y2 = x + width, y + height
+            else:
+                x1, y1, x2, y2 = 50, 900, 250, 920
+        except Exception as e:
+            logger.warning(f"Failed to load user config, using defaults: {e}")
+            x1, y1, x2, y2 = 50, 900, 250, 920
+    else:
+        x1 = hp_config.get('x1', 50)
+        y1 = hp_config.get('y1', 900)
+        x2 = hp_config.get('x2', 250)
+        y2 = hp_config.get('y2', 920)
     
     # Ensure coordinates are within frame bounds
     h, w = frame.shape[:2]
@@ -301,11 +321,21 @@ def reload_calibration():
 
 def get_calibration_status():
     """Get current calibration status and statistics"""
+    # Check if HP bar is configured in user config
+    hp_bar_configured = False
+    try:
+        from config import settings
+        user_config = settings.load_config()
+        hp_bar_configured = 'hp_bar_region' in user_config
+    except:
+        pass
+    
     status = {
-        'loaded': len(calibration_data) > 0,
-        'hp_bar_configured': 'hp_bar' in calibration_data,
+        'loaded': len(calibration_data) > 0 or hp_bar_configured,
+        'hp_bar_configured': 'hp_bar' in calibration_data or hp_bar_configured,
         'thresholds_configured': 'thresholds' in calibration_data,
         'features_enabled': calibration_data.get('detection_features', {}),
-        'total_settings': len(calibration_data)
+        'total_settings': len(calibration_data),
+        'user_config_loaded': hp_bar_configured
     }
     return status
