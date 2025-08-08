@@ -89,9 +89,23 @@ def find_loot(frame):
 
 def get_hp_percent(frame):
     """Read the player's HP bar from the frame and return percentage (0-100)."""
-    # Assume HP bar is a known rectangle region (e.g., bottom-left UI). Coordinates would be determined by UI layout.
-    # For example, suppose HP bar is at y=900 to 920, x=50 to 250 (just an example).
-    hp_region = frame[900:920, 50:250]  # this would need adjustment to actual UI location
+    # Load config to get HP bar region
+    try:
+        from config import settings
+        config = settings.load_config()
+        hp_config = config.get('hp_bar_region', {'x': 50, 'y': 900, 'width': 200, 'height': 20})
+        
+        x = hp_config['x']
+        y = hp_config['y']
+        width = hp_config['width']
+        height = hp_config['height']
+        
+        hp_region = frame[y:y+height, x:x+width]
+    except Exception as e:
+        logger.warning(f"Failed to load HP config, using defaults: {e}")
+        # Fallback to hardcoded values
+        hp_region = frame[900:920, 50:250]
+    
     if hp_region.size == 0:
         return None
     # Convert to HSV and measure red content

@@ -1,0 +1,30 @@
+{
+  "auto_nexus_percent": 30,
+  "movement_mode": "Kiting",
+  "player_class": "Wizard",
+  "keybinds": {
+    "move_up": "w",
+    "move_down": "s",
+    "move_left": "a",
+    "move_right": "d",
+    "attack": "left",
+    "nexus": "r",
+    "drop_item": null
+  },
+  "hp_bar_region": {
+    "x": 50,
+    "y": 900,
+    "width": 200,
+    "height": 20
+  },
+  "window_detection": {
+    "window_titles": [
+      "RotMG",
+      "Realm of the Mad God",
+      "Realm",
+      "RotMG - Realm of the Mad God",
+      "RotMG Exalt",
+      "Realm of the Mad God Exalt"
+    ]
+  }
+}
