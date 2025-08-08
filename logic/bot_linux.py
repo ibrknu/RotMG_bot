@@ -110,6 +110,8 @@ class RotMGbotLinux(QObject):
             if result.returncode == 0:
                 # Parse output like "Window 1234\n  Position: 100,200\n  Size: 1920x1080"
                 lines = result.stdout.strip().split('\n')
+                x, y, width, height = None, None, None, None
+                
                 for line in lines:
                     if 'Position:' in line:
                         pos_match = re.search(r'Position: (\d+),(\d+)', line)
@@ -119,14 +121,22 @@ class RotMGbotLinux(QObject):
                         size_match = re.search(r'Size: (\d+)x(\d+)', line)
                         if size_match:
                             width, height = int(size_match.group(1)), int(size_match.group(2))
-                            self.game_region = {
-                                'left': x,
-                                'top': y,
-                                'width': width,
-                                'height': height
-                            }
-                            logging.info(f"Game region: {self.game_region}")
-                            return
+                
+                # Only set game region if we have all coordinates
+                if all(v is not None for v in [x, y, width, height]):
+                    self.game_region = {
+                        'left': x,
+                        'top': y,
+                        'width': width,
+                        'height': height
+                    }
+                    logging.info(f"Game region: {self.game_region}")
+                else:
+                    logging.warning("Could not parse complete window geometry, using fullscreen")
+                    self.game_region = None
+            else:
+                logging.warning("Failed to get window geometry, using fullscreen")
+                self.game_region = None
                             
         except Exception as e:
             logging.error(f"Error getting window geometry: {e}")
@@ -150,16 +160,26 @@ class RotMGbotLinux(QObject):
         """Capture screen of the game window or full screen"""
         try:
             with mss.mss() as sct:
-                if self.game_region:
-                    # Capture specific game window
-                    monitor = self.game_region
-                else:
-                    # Capture full screen
-                    monitor = sct.monitors[1]  # Primary monitor
+                # Always try full screen first as fallback
+                if self.game_region and all(k in self.game_region for k in ['left', 'top', 'width', 'height']):
+                    # Validate coordinates
+                    if (self.game_region['left'] >= 0 and self.game_region['top'] >= 0 and 
+                        self.game_region['width'] > 0 and self.game_region['height'] > 0):
+                        try:
+                            # Capture specific game window
+                            monitor = self.game_region
+                            img = np.array(sct.grab(monitor))
+                            frame = cv2.cvtColor(img, cv2.COLOR_BGRA2BGR)
+                            return frame
+                        except Exception as window_capture_error:
+                            logging.warning(f"Window capture failed, falling back to fullscreen: {window_capture_error}")
                 
+                # Fallback to full screen capture
+                monitor = sct.monitors[1]  # Primary monitor
                 img = np.array(sct.grab(monitor))
                 frame = cv2.cvtColor(img, cv2.COLOR_BGRA2BGR)
                 return frame
+                
         except Exception as e:
             logging.error(f"Screen capture error: {e}")
             return None
